@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Турецкие слова - Карточки</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Турецкие слова</h1>
+            <div id="counter" class="counter">0 / 0</div>
+        </header>
+        
+        <main>
+            <div class="card-container">
+                <div id="card" class="card">
+                    <div id="card-inner" class="card-inner">
+                        <div class="card-face card-front">
+                            <div class="word">Загрузка...</div>
+                            <!-- <div class="category"></div> -->
+                        </div>
+                        <div class="card-face card-back">
+                            <div class="word"></div>
+                            <!-- <div class="category"></div> -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="controls">
+                <button id="prev-btn" class="btn btn-prev">← Назад</button>
+                <button id="next-btn" class="btn btn-next">Вперед →</button>
+            </div>
+        </main>
+        
+        <footer>
+            <p>Нажмите на карточку чтобы перевернуть • Кликните на 🔊 для озвучки</p>
+            <p>Используйте ← → для навигации, S для озвучки</p>
+        </footer>
+    </div>
+    
+    <script src="script.js"></script>
+</body>
+</html>
