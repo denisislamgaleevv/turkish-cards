@@ -4,6 +4,7 @@ class FlashCards {
         this.currentIndex = 0;
         this.isFlipped = false;
         this.synth = window.speechSynthesis;
+        this.motivationalInterval = 500; // Показывать мотивацию каждые 500 карточек
         this.init();
     }
 
@@ -48,7 +49,8 @@ class FlashCards {
                 this.cards.push({
                     russian: russian,
                     turkish: turkish,
-                    category: currentCategory
+                    category: currentCategory,
+                    type: 'word' // тип карточки - слово
                 });
             }
         }
@@ -70,7 +72,7 @@ class FlashCards {
         
         // Устанавливаем турецкий язык
         utterance.lang = 'tr-TR';
-        utterance.rate = 0.9; // Немного медленнее для лучшего восприятия
+        utterance.rate = 0.9;
         utterance.pitch = 1;
         utterance.volume = 1;
 
@@ -99,18 +101,43 @@ class FlashCards {
         this.synth.speak(utterance);
     }
 
-    renderCard() {
-        const card = this.cards[this.currentIndex];
-        if (!card) return;
+    isMotivationalCard(index) {
+        return (index + 1) % this.motivationalInterval === 0;
+    }
 
-        const cardElement = document.getElementById('card');
-        const cardInner = document.getElementById('card-inner');
-        const counterElement = document.getElementById('counter');
-        
+  renderCard() {
+    const card = this.cards[this.currentIndex];
+    if (!card) return;
+
+    const cardElement = document.getElementById('card');
+    const cardInner = document.getElementById('card-inner');
+    const counterElement = document.getElementById('counter');
+    
+    // Проверяем, нужно ли показывать мотивационную карточку
+    if (this.isMotivationalCard(this.currentIndex)) {
+        cardInner.innerHTML = `
+            <div class="card-face card-front">
+                <div class="motivational-content">
+                    <div class="motivational-image">
+                        <img src="motivation.jpg" alt="Молодец!" class="motivation-img">
+                    </div>
+                    <div class="motivational-text">Молодец!</div>
+                    <div class="motivational-subtext">У тебя все получится!</div>
+                </div>
+            </div>
+            <div class="card-face card-back">
+                <div class="motivational-content">
+                        <div class="motivational-image">🌟</div>
+                        <div class="motivational-text">Продолжай в том же духе!</div>
+                        <div class="motivational-subtext">Ты делаешь успехи!</div>
+                    </div>
+            </div>
+        `;
+    } else {
+        // Обычная карточка со словом
         cardInner.innerHTML = `
             <div class="card-face card-front">
                 <div class="word">${card.russian}</div>
-                 
             </div>
             <div class="card-face card-back">
                 <div class="word-container">
@@ -119,16 +146,16 @@ class FlashCards {
                         🔊
                     </div>
                 </div>
-            
             </div>
         `;
-        
-        counterElement.textContent = `${this.currentIndex + 1} / ${this.cards.length}`;
-        
-        // Сбрасываем состояние переворота
-        this.isFlipped = false;
-        cardElement.classList.remove('flipped');
     }
+    
+    counterElement.textContent = `${this.currentIndex + 1} / ${this.cards.length}`;
+    
+    // Сбрасываем состояние переворота
+    this.isFlipped = false;
+    cardElement.classList.remove('flipped');
+}
 
     setupEventListeners() {
         const cardElement = document.getElementById('card');
@@ -171,7 +198,7 @@ class FlashCards {
                 case 'ы':
                 case 'Ы':
                     e.preventDefault();
-                    if (this.isFlipped) {
+                    if (this.isFlipped && !this.isMotivationalCard(this.currentIndex)) {
                         const currentWord = this.cards[this.currentIndex].turkish;
                         this.speakText(currentWord);
                     }
