@@ -4,7 +4,7 @@ class FlashCards {
         this.currentIndex = 0;
         this.isFlipped = false;
         this.synth = window.speechSynthesis;
-        this.motivationalInterval = 500; // Показывать мотивацию каждые 500 карточек
+        this.motivationalInterval = 150; // Показывать мотивацию каждые 150 карточек
         this.init();
     }
 

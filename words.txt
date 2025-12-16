@@ -1,5 +1,5 @@
 
-Цвета
+Цвета – Renk 
 Бежевый – Bej
 Белый – Beyaz
 Желтый – Sarı
@@ -19,6 +19,9 @@
 Черный – Siyah
 Светлый – Açık
 Темный – Karanlık
+Свет – Işık
+Тьма – Karanlık
+Светофор –Trafık ışıklar
 Радуга – Gökkuşağı
 
 Дни недели
@@ -52,6 +55,7 @@
 Брелок – Anahtarlık
 Бритва – Tıraş bıçağı
 Брюки – Pantolonlar
+Жилет – Yelek
 Бюстгалтер – Sütyen
 Галстук – Kravat 
 Губная помада – Ruj
@@ -91,11 +95,13 @@
 Сумка – Çanta
 Тапочки – Terlik
 Тени для век – Göz farı
+Тень – Far, Gölge
 Трусы – Külot
 Туфли – Pabuç
 Туш для ресниц – Rimel
 Футболка – Tişört
 Хлопок – Pamuk, Kot
+Шерсть – Yün
 Часы – Kol saati
 Шампунь – Şampuan
 Шапка – Şapka
@@ -104,7 +110,7 @@
 Юбка – Etek
 Вешалка – Askı
 
-Работа, профессия
+Работа, профессия – Çalışma, Meslek
 Адвокат – Avukat
 Альпинист – Dağcı
 Архитектор – Mimar
@@ -152,7 +158,7 @@
 Шофер – Şoför
 Ювелир – Kuyumcu
 
-Продукты
+Продукты – Gıda
 Абрикос – Kayısı
 Алкогольный напиток – Alkollü içki
 Апельсин - Portakal
@@ -217,6 +223,7 @@
 Печенье – Bisküvi, kurabıeler
 Пиво – Bira
 Пироги – Turta
+Пирожок – Börek
 Пища – Gıda
 Помидор - Domates 
 Приправы – Baharatlar
@@ -225,7 +232,7 @@
 Сахар – Şeker
 Свекла – Pancar
 Свинина – Domuz eti
-Сок – meyve su
+Сок – Meyve su
 Соль – Tuz
 Суп – Çorba
 Сыр - Peynir 
@@ -240,6 +247,7 @@
 Финики –  Hurmalar
 Фрукты – Yemiş, Meyve
 Хлеб – Ekmek
+Черствый хлеб – Bayat ekmek
 Чеснок – Sarımsak
 Чечевица – Mercimek
 Шампанское – Şampanya
@@ -254,12 +262,15 @@
 Ванна – Banyo
 Веревка – İp
 Вытяжка – Havalandırma
+Кондиционер – Klima
+Климат – İklim
 Дверь – Kapı
 Диван – Kanepe
 Душ – Duş
 Журнальный столик – Sehpa
 Зал – Salon
 Замок – Kilit
+Пароль – Parola
 Зеркало – Ayna
 Игла – İğne
 Карта – Harita
@@ -273,10 +284,10 @@
 Комод – Konsol, Şıfonyer
 Коридор – Koridor
 Кресло – Koltuk
-Кровать – Şılte
+Кровать – Yatak
 Кухня – Mutfak
 Лампа – Lamba
-Матрас – Yatak
+Матрас – Şilte
 Мусор – Çöp
 Мыло – Sabun
 Нить – İplik
@@ -348,6 +359,8 @@
 Ацетон – Aseton
 Баран – Koç, Koyun
 Бег – Koşu
+Беги – Koş
+Бегу – Koşuyorum
 Бегун – Koşucu, Atlet 
 Билет – Bilet
 Бильярд – Bilardo
@@ -363,7 +376,9 @@
 Ворона – Karga
 Время – Zaman
 Время взлета – Kalkış saati
+Взлет – Kalkış
 Время прибытия – Varış saati
+Varış – Прибытие
 Выпускник – Mezun
 Газета – Gazete
 Гид – Rehber
@@ -410,7 +425,9 @@
 Место – Yer
 Молодой – Genç
 Мышь – Fare
-Нрав, характер – Öfke, Karakter, Huy
+Обезьяна – Maymun
+Нрав, характер – Karakter, Huy
+Гнев – Öfke
 Нужда – İhtiyaç
 Остановка – Durak
 Попугай – Papağan
@@ -426,6 +443,7 @@
 Свинья – Domuz
 Секрет – Sır
 Слон – Fil
+Петух – Horoz
 Собака – Köpek
 Сожаление – Yazık
 Сон – Uyku
@@ -469,11 +487,17 @@
 Запястье – Bilek
 Зубы – Dişler
 Кожа – Deri
-Кости – KemiklerБ
+Кости – Kemikler
 Легкие – Akciğer
 Лицо – Yüz, Kişi
 Локоть – Dirsek
 Мозг – Beyin
+Глупый – Безмозглый
+Ум – Zihin
+Богатый ум – Zengin zihin
+Состояние – Durum
+Пьяный – Sarhoş
+Пьяное состояние – Sarhoş durum	
 Нога – Ayak
 Ногти – Tırnaklar
 Нос – Burun
@@ -488,10 +512,12 @@
 Спина – Sırt
 Ухо – Kulak
 Шея – Boyun
+Мышцы – Kaslar
 Щеки – Yanaklar
 Язык – Dil
 Язык – Dil
-
+Член – Yarak, Erkek horoz
+ 
 Здоровье – Sağlık
 Аптека – Eczane
 Боль – Ağrı
@@ -517,7 +543,9 @@
 Язва – Ülser
 
 Повседневные
+На краю света – Dünyanın sonunda
 У меня все в порядке – Benim için her şey yolunda
+Отлично – Mükemmel, Yolunda
 Возьми у меня – Benden al
 Всегда рад – Daima sevindim
 Дай бог – Inşallah
@@ -542,8 +570,10 @@
 Половину чая налей – Çayın yarısını dökün
 Помоги – Yardım et
 Посмотри на это – Şuna bak
+Береги себя – Iyi bak
 Приятного аппетита – Afiyet olsun
 Просить прощения – Özür dilerım
+Извинись – Özür dile
 Сделай это – Bunu yap
 Спасибо – Teşekkürler
 У меня есть – Bende var
@@ -599,6 +629,7 @@ Kaç – Сколько (для предметов)
 Когда – Ne zaman
 Кроме – Hariç, Dışında
 Кто – Kim
+Другие – Diğer
 Куда – Nereye
 Может быть – Belki mi
 Позже, потом – Sonra
@@ -613,10 +644,11 @@ Kaç – Сколько (для предметов)
 Сразу – Birden, Hemen
 Что – Ne
 Чуть-чуть – Birazcık
-
 Местонахождение – Mevki
 Вокруг – Etrafında
 Впереди – Önde
+Тонкий – İnce
+Перед – Önce
 Мало – Az
 Между – Araşında
 Много – Çok
@@ -634,11 +666,14 @@ Kaç – Сколько (для предметов)
 Богатый – Zengin
 Болтливый – Geveze
 Большой – Büyük
+Больше – Fazla
+Избыточная цена -
+Завышенная цена
+Меньше – Daha az
 Будущий – Gelecek
 Быстрый – Hızlı
 Быть внимательным – Dikkat olmak
 Верный – Güvenilir
-Верующий – İmanlı, Dindar
 Ветренный – Rüzgarlı
 Взрослый – Yetişkin
 Влюбленный – Aşık
@@ -660,9 +695,9 @@ Kaç – Сколько (для предметов)
 Добрый – İyi
 Дорогой – Pahalı
 Дурак – Aptal
-Жадный – Cimri
 Женатый – Evli
 Законный – Yasal
+Закон – Yasa
 Закрытый – Kapalı
 Занятой – Meşgul
 Знаменитый – Ünlü
@@ -685,6 +720,8 @@ Kaç – Сколько (для предметов)
 Незабываемый – Unutulmaz
 Незаконный – Yasadışı, Kanunsuz
 Нервный – Sinirli
+Рай – Cennet
+Ад – Cehennem
 Неудачный – Başarısız, Şansız
 Низкий – Düşük
 Новый – Yeni
@@ -721,7 +758,6 @@ Kaç – Сколько (для предметов)
 Терпеливый – Sabırlı
 Толстый – Kalın
 Толстый (для людей) – Şişman adam
-Тонкий – İnce
 Трудный – Zor
 Трудолюбивый – Çalışkan
 Трусливый – Korkak
@@ -736,13 +772,18 @@ Kaç – Сколько (для предметов)
 Хороший – İyi
 Худой, слабый – Zayıf
 Чистый – Temiz
+Запах – Koku
 Широкий – Geniş
 Щедрый – Cömert
+Скупой – Cimri
+Жадный – Açgözlü
 
-Название
+Название – Ad
+Тема – Tema, Konu
 Автовокзал – Otogar
 Автозаправка – Benzin istasyonu
 Автомобильная остановка – Araba durağı
+Тележка – El arabası
 Адрес – Adres
 Аэропорт – Havaalanı
 Банк – Banka
@@ -820,6 +861,10 @@ Kaç – Сколько (для предметов)
 Курс – Kurs
 Лавка – Dükkân
 Лес – Orman
+Трава – Ot
+Листья – Yapraklar
+Дерево – Ağaç
+Новогодняя елка – Noel ağacı
 Лето – Yaz
 Лидер – Lider
 Лицей – Lise
@@ -833,6 +878,9 @@ Kaç – Сколько (для предметов)
 Министерство – Bakanlık
 Минута – Dakika
 Мир – Dünya
+В другой жизни – Öbür dünyada
+В этом мире – Bu dünyada
+На краю света – Dünyanın sonunda
 Молния – Şimşek, Yıldırım
 Мост – Köprü
 Музей – Müze
@@ -848,6 +896,10 @@ Kaç – Сколько (для предметов)
 Неправильно – Yanlış
 Новость – Haber
 Ночь – Gece
+Утро – Sabah
+Свет – Işık
+Тьма – Karanlık
+Светофор – Trafik ışıkları
 Облако – Bulut
 Обслуживание – Servis
 Озеро – Göl
@@ -863,6 +915,8 @@ Kaç – Сколько (для предметов)
 Площадь – Alan, Meydan
 Пляж – Plaj
 Погода – Hava
+Минус – Eksi
+Плюс – Artı
 Снаружи – Dışarısı
 На улице холодно – Dışarısı soğuk
 Поезд – Tren
@@ -874,7 +928,8 @@ Kaç – Сколько (для предметов)
 Почта – Postane
 Праздник – Bayram
 Прибыль – Kâr
-Проблема – Sorun, problemМенять
+Убытки – Zararlar
+Проблема – Sorun, problem
 Проспект – Cadde
 Радость – Sevinç
 Размер – Boyut
@@ -911,18 +966,15 @@ Kaç – Сколько (для предметов)
 Трамвай – Tramvay
 Туман – Sis
 Тучи – Bulutlar
-Убытки – Zararlar
 Удача – Şans
 Улица – Sokak
 Улыбка – Gülümseme
 Университет – Üniversite
-Утро – Sabah
 Фабрика – Fabrika
 Факультет – Fakülte
 Фирма –Şirket
 Футбольный матч – Futbol maçı 
 Хранение – Muhafaza
-Цена – Fiyat
 Цена – Fiyat
 Центр – Merkez
 Центр города – Şehir merkezi
@@ -930,6 +982,7 @@ Kaç – Сколько (для предметов)
 Чаевые – Bahşiş
 Час – Saat
 Чувство – Duygu
+Большое чувство любовь – Büyük duygu aşk
 Шатенка, шатен – Kumral
 Шелк – İpek
 Школа – Okul
@@ -954,7 +1007,7 @@ Kaç – Сколько (для предметов)
 Друг – Arkadaş
 Дядя – Amca
 Жена – Karısı, Eş
-Жених – Damat
+Жених, зять – Damat
 Замужество – Evlılık
 Имя – Ad
 Кузен – Kuzen
@@ -1007,8 +1060,19 @@ Kaç – Сколько (для предметов)
 Арестант – Tutuklu
 Преследовать – Takip etmek
 Преследование – Takip
+Перестань меня преследовать - Beni takip etmeyi bırak
+Продолжать – Devam etmek
+Продолжение – Devam
+Продолжай говорить на турецком – Türkçe konuşmaya devam et
+Приглашать – Davet etmek
+Приглашение – Davet
+Приглашать друзей - Arkadaşlarını davet et
+Предполагать, прогнозировать – Tahmin etmek
+Предположение – Tahmin
+Прогноз погоды – Hava durumunu tahmin et
 Держать – Tutmak
 Держу – Tutuyorum
+Не держи – Sakın tutma
 Бегать – Koşmak
 Бегаю – Koşuyorum
 Продавать – Satmak
@@ -1018,11 +1082,23 @@ Kaç – Сколько (для предметов)
 Бриться – Tıraş olmak
 Вера – İnanç
 Верить – İnanmak
+Молитва – Dua
+Верующий – İmanlı, Dindar
+Грешить – Günah işlemek
+Грех – Günah
+Ангел – Melek
+Безгрешный ангел – Günahsız melek
 Взрослеть – Büyümek
+Смотреть – İzlemek
+Смотрю – İzliyorum
+Показать – Göstermek 
+Показываю – Gösteriyorum
 Видеть – Görmek
 Вижу – Görüyorum
+Посмотри – Baksana
 Висеть – Asılmak
 Вишу – Asıyorum
+Вешалка – Askı
 Возвращаться, возвращаюсь  – Dönme
 Встретиться – Buluşmak
 Встречаюсь – Buluşuyom
@@ -1036,7 +1112,7 @@ Kaç – Сколько (для предметов)
 Готовить – Hazırlamak
 Готовлю – Hazırlıyorum
 Печь в духовке – Fırında pişirme 
-Жарить на плите – Mutfak ocağında kızartın
+Жарить на кухонной плите – Mutfak ocağında kızartın
 Жарить – Kızartmak
 Дай – Ver
 Дать, давать – Vermek
@@ -1063,9 +1139,19 @@ Kaç – Сколько (для предметов)
 Есть имеется – Var var
 Жалеть – Acıma
 Жалею – Acımadır
+Боль – Acı
+Обида - Suç
+Не обижай – Gücenme
+Обижаться – Alınmak
+Не обижайся – Alınma
 Жаловаться – Şikâyet etmek
 Ждать – Beklemek
 Жду – Bekliyorum
+Подожди – Bekle, Bekle
+Провожать – Uğurlamak (уурламак)
+Провожаю – Uğurluyorum
+Лежать – Yatmak
+Лежу – Yatıyorum
 Женись – Evlen
 Жениться – Evlenmek
 Живу – Yaşıyorum
@@ -1082,8 +1168,8 @@ Kaç – Сколько (для предметов)
 Защищать – Korumak, Savunmak
 Защищаю – Koruyorum
 Звать – Çağırmak
-Приглашать – Davet etmek
 Знать – Bilmek
+Знаешь – Biliyorsun 
 Знаю – Biliyorum
 Иметь – Sahip olmak, Olmak
 Имею – Oluyorum
@@ -1107,6 +1193,7 @@ Kaç – Сколько (для предметов)
 Надеяться – Ummak
 Напоминать – Hatırlatmak
 Напоминаю – Hatırlatıyorum
+Память – Hatır, Bellek
 Находиться – Bulunmak
 Нахожусь – Buluyorum
 Ненавидеть – Nefret etmek
@@ -1118,6 +1205,7 @@ Kaç – Сколько (для предметов)
 Обними меня – Sarıl
 Оставаться – Kalmak
 Остаюсь – Kalıyorum
+Оставь – Bırak
 Отвечать – Yanıtlamak
 Отвечаю – Yanıtlıyorum
 Писать – Yazmak
@@ -1137,7 +1225,6 @@ Kaç – Сколько (для предметов)
 Отправь – Gönder
 Походить – Benzemek
 Похож – Benzer
-Предполагать, прогнозировать – Tahmin etmek
 Приказ – Emir
 Приказывать – Emreymek
 Принеси – Getir şunu
@@ -1150,14 +1237,15 @@ Kaç – Сколько (для предметов)
 Прихожу, иду – Geliyorum
 Ходить – Yürümek
 Уходить, идти, ехать, ездить – Gitmek
-Ухожу, иду, езжу – Gidiyorum
+Пройти – Geçmek
+Ухожу, езжу – Gidiyorum
 Добраться – Ulaşmak için
 Заходить – Girmek, Uğramak
 Захожу – Uğruyorum
 Пробовать – Tatmak, Denemek
-Продолжать – Devam etmek
 Просить – Rica etmek
 Путешествовать – Seyahat etmek
+Мечта – Rüya
 Пить – İçmek 
 Пью – İçiyom
 Работать – Çalışmak
@@ -1166,6 +1254,8 @@ Kaç – Сколько (для предметов)
 Меняю – Değiştiriyorum
 Развивать – Geliştirmek
 Развиваю – Geliştiriyorum
+Развивать мускулатуру – Kasları geliştirmek
+Развивать ум – Zihni geliştirmek
 Исследовать – Araştırmak
 Исследую – Araştırıyorum
 Разговаривать – Konuşmak
@@ -1188,8 +1278,6 @@ Kaç – Сколько (для предметов)
 Разрешить- İzin ver
 Реагировать - Tepki göstermek
 Реакция – Tepki
-Показать – Göstermek 
-Показываю – Gösteriyorum
 Режу – Kesiyom
 Резать – Kesmek
 Делить – Bölmek
@@ -1206,18 +1294,26 @@ Kaç – Сколько (для предметов)
 Петь, пою – Şarkı söylemek
 Скучать – Özlemek
 Скучаю – Özlüyorum
+Тоска – Özlem
 Сломалось – Kırılıyordu
 Не работает – Çalışmıyor, Bozuk 
 Слушать – Dinlemek
 Слушаю – Dinliyorum
+Отдыхать – Dinlenmek
+Отдыхаю – Dinliyorum
 Слышать – Duymak
 Слышу – Duyuyorum
 Смеяться – Gülmek
 Смеюсь – Gülüyorum
 Смогу – Başarıyorum
 Не могу – Yapamam
+Я согласен – Ediyorum
 Снять – Çıkarmak
-Снимаю – Çekiyom
+Снимаю – Çıkarıyorum
+Сними – Çıkar şunu
+Одевать – Giydirmek
+Одеваю – Giydiriyorum
+Одень – Giydir
 Собирать – Toplamak
 Собираю – Topluyorum
 Жечь – Yakmak
@@ -1283,6 +1379,11 @@ Kaç – Сколько (для предметов)
 Чувствую – Hissediyorum
 Шутить – Şaka yapmak
 Шутка – Şaka
+Положить – Koymak
+Положу – Koyacağım
+Оставить – Bırakmak
+Оставляю – Bırakıyorum
+
 
 
 
