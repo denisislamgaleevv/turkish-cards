@@ -6,7 +6,7 @@
 Зеленый – Yeşil
 Золотистый – Altın
 Коричневый – Kahverengi
-Красный – Kırmızı
+Красный – Kırmızı, kızıl
 Оранжевый – Turuncu
 Розовый – Pembe
 Серебристый – Gümüş
@@ -63,6 +63,7 @@
 Духи – Parfüm
 Зубная паста – Diş macunu
 Зубная щетка – Diş fırçası
+Зубочистка – Kürdan
 Колготки – Külotlu çorap
 Кольцо – Halka
 Комбинезон – Tulum
@@ -207,6 +208,7 @@
 Маргарин - Margarin
 Масло - Yağ 
 Масло сливочное - Tereyağlı tereyağı  
+Оливковое масло – Zeytinyağı
 Мед - Bal
 Минеральная вода – Maden suyu
 Молоко - Süt 
@@ -223,6 +225,7 @@
 Печенье – Bisküvi, kurabıeler
 Пиво – Bira
 Пироги – Turta
+Вкус – Tat, Tad
 Пирожок – Börek
 Пища – Gıda
 Помидор - Domates 
@@ -253,7 +256,8 @@
 Шампанское – Şampanya
 Шпинат – Ispanak
 Яблоко – Elma
-Яйцо - Yumurta
+Яйцо – Yumurta
+Разные сорта – Farklı çeşitler
 
 Мебель, Жилье
 Автошина – Lastik
@@ -286,6 +290,8 @@
 Кресло – Koltuk
 Кровать – Yatak
 Кухня – Mutfak
+Совет – Tavsiye 
+Давать советы – Tavsiye vermek
 Лампа – Lamba
 Матрас – Şilte
 Мусор – Çöp
@@ -338,6 +344,7 @@
 Картофель фри - Patates kızartması
 Кастрюля – Tencere
 Ложка – Kaşık
+Посуда – Kap
 Нож – Bıçak
 Обед – Yemek
 Основные блюда – Ana yemekler
@@ -383,10 +390,13 @@ Varış – Прибытие
 Газета – Gazete
 Гид – Rehber
 Граница – Sınır
+Грех – Günah, Sin
 Грузовая машина – Kamyon
 Дворец – Saray
 Диплом – Diploma
 Дом – Ev
+Веранда – Veranda
+
 Домашнее задание – Ev ödevi
 Доска – Tahta
 Жалоба – Şikayet
@@ -539,10 +549,30 @@ Varış – Прибытие
 Рецепт – Tarif, Reçete
 Таблетка – Hap
 Техник – Teknisyen
+Опасный техник – Tehlikeli teknisyen
+
 Укол – İğne
 Язва – Ülser
 
 Повседневные
+
+Тебе снились сны – Rüyalar gördün mü
+Там много счастья – Orada çok mutluluk var
+Эта собака много гадит – Bu köpek çok sıçıyor
+У тебя получается шить – Senin başarıyorum dikmek
+Сразу запомнил – Hemen hatırladım
+Суда иди – Buraya gel
+Другие женщины противные – Diğer kadınlar iğrenç
+Я начал забывать – Unutmaya başladım
+Слишком много работы – Çok fazla iş var
+Я вышел из леса – Ormandan çıktım
+Ты не знаешь прогноз погоды – Hava tahminini bilmiyor musun
+Перестань меня преследовать – Beni takip etmeyi bırak
+Каждый день я опаздываю на работу – Her gün işe geç kalıyorum           
+Продолжай говорить по турецки – Türkçe konuşmaya devam et
+Приглашать друзей – Arkadaşlarını davet et
+Я согласен – Ediyorum
+Я ем – Ben yiyorum
 На краю света – Dünyanın sonunda
 У меня все в порядке – Benim için her şey yolunda
 Отлично – Mükemmel, Yolunda
@@ -592,11 +622,13 @@ Varış – Прибытие
 Мой, моя, мое – Benim
 Вы – Siz
 Они – Onlar
+Многие – Birçok
 Нам, наша, наше – Bizim
 Ваш, ваше, ваша – Senin
 Весь – Tüm
 Все – Her şey. Пример Все сказано – Her şey söylendi
 Все – Herkes
+Все – Bütün
 Еще – Halâ
 И – Ve
 Или – Veya
@@ -622,6 +654,7 @@ Kaç – Сколько (для предметов)
 Где – Nerede
 Завтра – Yarın
 Здесь – Burada
+Бывает – Oluyor
 Иногда – Bazen
 Каждый день – Her gün
 Как – Olarak, Nasıl
@@ -666,9 +699,9 @@ Kaç – Сколько (для предметов)
 Богатый – Zengin
 Болтливый – Geveze
 Большой – Büyük
-Больше – Fazla
-Избыточная цена -
-Завышенная цена
+Больше – Fazla, Daha
+Меньше – Daha az
+Избыточная цена – Fazla fiyat
 Меньше – Daha az
 Будущий – Gelecek
 Быстрый – Hızlı
@@ -752,6 +785,7 @@ Kaç – Сколько (для предметов)
 Сумашедший – Deli, Çılgın
 Сухой – Kuru
 Счастливый – Mutlu
+Довольный – Memnun
 Сытый – Tok, Doluyum
 Твердый – Sert
 Теплый – Ilık
@@ -952,6 +986,7 @@ Kaç – Сколько (для предметов)
 Солнце светит – Güneş parlıyor
 Соревнования – Yarış
 Спор – Tartışma
+Обсудить – Tartışmak
 Справочная, консультация – Danişma
 Столица – Başkent
 Страна – Ülke
@@ -961,6 +996,11 @@ Kaç – Сколько (для предметов)
 Таможня – Gümrük
 Театр – Tiyatro
 Телефон – Telefon
+Связь – Bağlantı
+Интернет – İnternet
+Спутниковая антенна – Uydu anteni
+Кабель – Kablo
+Провод – Tel
 Товар – Mal
 Тоска – Özlem
 Трамвай – Tramvay
@@ -1076,6 +1116,10 @@ Kaç – Сколько (для предметов)
 Бегать – Koşmak
 Бегаю – Koşuyorum
 Продавать – Satmak
+Забывать – Unutmak
+Забываю – Unutuyom
+Забыл – Unutuyordu
+
 Продаю – Satıyorum
 Боюсь – Korkuyorum
 Бояться – Korkmak
@@ -1087,6 +1131,8 @@ Kaç – Сколько (для предметов)
 Грешить – Günah işlemek
 Грех – Günah
 Ангел – Melek
+Опаздывать – Gecikmek 
+Опаздываю – Gecikiyom
 Безгрешный ангел – Günahsız melek
 Взрослеть – Büyümek
 Смотреть – İzlemek
@@ -1139,11 +1185,12 @@ Kaç – Сколько (для предметов)
 Есть имеется – Var var
 Жалеть – Acıma
 Жалею – Acımadır
-Боль – Acı
-Обида - Suç
-Не обижай – Gücenme
+Обида – Acı, Suç
+Вина – Suç
+Обвинять – Suçlamak
 Обижаться – Alınmak
 Не обижайся – Alınma
+Не обижай – Gücenme
 Жаловаться – Şikâyet etmek
 Ждать – Beklemek
 Жду – Bekliyorum
@@ -1178,6 +1225,8 @@ Kaç – Сколько (для предметов)
 Испортить – Bozmak, Hasar vermek
 Курить – Sigara içmek
 Кушать – Yemek
+Ешь – Ye
+
 Летать – Uçmak
 Лечить – Tedavi etmek
 Ломать – Kırmak
@@ -1198,7 +1247,12 @@ Kaç – Сколько (для предметов)
 Нахожусь – Buluyorum
 Ненавидеть – Nefret etmek
 Нет – Yok
-Носить – Taşimak
+Носить, везти – Taşima
+Везу – Taşıyorum
+Отвезти – Götüreyim
+Отвез – Götürdüm
+Принести – Getirmek
+Приношу – Getiriyorum
 Нравиться – Hoşlanmak
 Нуждаться – Ihtiyaç duymak
 Обнимать – Kucaklamak
@@ -1211,8 +1265,10 @@ Kaç – Сколько (для предметов)
 Писать – Yazmak
 Пишу – Yazıyorum
 Плавать – Yüzmek
-Плакать – Ağlamak
 Плыву – Yüzüyorum
+Отрастить, распространяться – Uzamak
+Отращиваю, продлеваю – Uzatıyorum
+Плакать – Ağlamak
 Погибли – Öldük
 Покупать, брать, получать – Almak
 Покупаю, беру, получаю – Alıyorum
@@ -1237,6 +1293,9 @@ Kaç – Сколько (для предметов)
 Прихожу, иду – Geliyorum
 Ходить – Yürümek
 Уходить, идти, ехать, ездить – Gitmek
+Я ухожу – Birakıyorum
+Я остаюсь – Ben kalıyorum
+Оставлять - Bırakmak
 Пройти – Geçmek
 Ухожу, езжу – Gidiyorum
 Добраться – Ulaşmak için
@@ -1256,6 +1315,7 @@ Kaç – Сколько (для предметов)
 Развиваю – Geliştiriyorum
 Развивать мускулатуру – Kasları geliştirmek
 Развивать ум – Zihni geliştirmek
+У меня острый ум – Bende keskin zihin
 Исследовать – Araştırmak
 Исследую – Araştırıyorum
 Разговаривать – Konuşmak
@@ -1270,6 +1330,7 @@ Kaç – Сколько (для предметов)
 Расставаться – Ayrılmak (айрылмак)
 Расстаюсь – Ayrılıyorum (айрылыорум)
 Искать, позвонить – Aramak
+Найти – Bul
 Ищу – Arıyorum
 Выбросить – Atmak
 Выбрасываю, бросаю – Atıyorum
@@ -1299,6 +1360,8 @@ Kaç – Сколько (для предметов)
 Не работает – Çalışmıyor, Bozuk 
 Слушать – Dinlemek
 Слушаю – Dinliyorum
+Шить – Dikmek
+Шью – Dikiyom
 Отдыхать – Dinlenmek
 Отдыхаю – Dinliyorum
 Слышать – Duymak
