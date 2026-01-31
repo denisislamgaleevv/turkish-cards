@@ -3,42 +3,53 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Турецкие слова - Карточки</title>
+    <title>Турецкие слова - Блоки</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <div class="container">
         <header>
-            <h1>Турецкие слова</h1>
-            <div id="counter" class="counter">0 / 0</div>
+            <h1>Турецкие слова - Блоки</h1>
+            <div id="block-info" class="block-info">Выберите блок для изучения</div>
         </header>
         
-        <main>
-            <div class="card-container">
-                <div id="card" class="card">
-                    <div id="card-inner" class="card-inner">
-                        <div class="card-face card-front">
-                            <div class="word">Загрузка...</div>
-                            <!-- <div class="category"></div> -->
-                        </div>
-                        <div class="card-face card-back">
-                            <div class="word"></div>
-                            <!-- <div class="category"></div> -->
+        <main id="main-content">
+            <!-- Блоки будут отображаться здесь -->
+            <div id="blocks-container" class="blocks-container">
+                <div class="loading">Загрузка блоков...</div>
+            </div>
+            
+            <!-- Контейнер для карточек (скрыт изначально) -->
+            <div id="cards-view" class="cards-view" style="display: none;">
+                <!-- Кнопка возврата к блокам -->
+                <div class="block-back-container">
+                    <button id="block-btn" class="btn btn-block">← К выбору блока</button>
+                </div>
+                
+                <div class="card-container">
+                    <div id="card" class="card">
+                        <div id="card-inner" class="card-inner">
+                            <div class="card-face card-front">
+                                <div class="word">Загрузка...</div>
+                            </div>
+                            <div class="card-face card-back">
+                                <div class="word"></div>
+                            </div>
                         </div>
                     </div>
                 </div>
-            </div>
-            
-            <div class="controls">
-                <button id="prev-btn" class="btn btn-prev">← Назад</button>
-                <button id="next-btn" class="btn btn-next">Вперед →</button>
+                
+                <div class="controls">
+                    <button id="prev-btn" class="btn btn-prev">← Назад</button>
+                    <button id="next-btn" class="btn btn-next">Вперед →</button>
+                </div>
             </div>
         </main>
         
         <footer>
             <p>Нажмите на карточку чтобы перевернуть • Кликните на 🔊 для озвучки</p>
-            <p>Используйте ← → для навигации, S для озвучки</p>
-                <p>Version 2.0 Все права защищены, Den, Feel Good Inc, 2025</p>
+            <p>Используйте ← → для навигации, S для озвучки, B для возврата к блокам</p>
+            <p>Version 4.0 Никакие права не защищены, Den, Feel Good Inc, 2025</p>
         </footer>
     </div>
     
