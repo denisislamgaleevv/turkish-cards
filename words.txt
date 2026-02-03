@@ -1445,3 +1445,264 @@ Kaç – Сколько (для предметов)
 Положу – Koyacağım
 Оставить – Bırakmak
 Оставляю – Bırakıyorum
+
+Дом, вещи
+
+Верхний этаж – Üst kat
+Нижний этаж – Alt kat
+Замочная скважина – Anahtar deliği
+Прихожая – Antre, Hol
+Спинка – Arkalık
+Лифт – Asansör
+Кабина лифта – Asansör kabini
+Поездка на лифте – Asansöre binmek
+Висячий замок – Asma kilit
+Люстра – Avize
+Двор – Avlu
+Было – Vardı
+Труба – Baca, Boru
+Труба течет – Boru akıyor
+Побелка – Badana
+Ступени – Basamaklar
+Перечница – Biberlik
+Здание – Bina
+Осел – Eşek
+Подвал –Bodrum
+Погреб – Mahzen
+Стирать, удалить, вычеркивать – Silmek
+Подними – Kaldır şunu.
+Поднять карандаш – Kalemi kaldır
+Глаза опухли – Gözler şişti
+Связать – Bağlamak
+Найди – Bulun 
+Я найду – Bulacağım
+Я нашел – Buldum
+Горло – Boğaz
+Посудомоечная машина – Bulaşık makinesi
+Грязная посуда – Bulaşık
+Кофейник – Cezve
+Пишущая машинка – Daktilo
+Чайник – Demlik, Çaydanlık
+Еда – Yiyecek (иеджек)
+Морозильная камера –Derin dondurucu
+Швейная машина – Dikiş makinesi
+Шить – Dikmek
+Чистить зубы – Dişlerini fırçalamak
+Настенная вешалка – Duvar askısı
+Обои – Duvar kağıdı
+Вставлять – Sokmak, takmak
+Гардероб – Elbise dolabı
+Шкаф – Dolap
+Электрическая кнопка – Elektrik düğmesi
+Электрическая розетка – Elektrik prizi
+Электрическая выключатель – Elektrik şalteri
+Линии электропередач – Elektrik hatları
+Электрическая плита – Elektrik ocaği
+Электрический счетчик – Elektrik sayacı
+Этажерка – Etajer
+Дверные пороги – Kapı eşikleri
+Совок – Faraş
+Веник, метла – Süpürge
+Подметать – Süpürmek
+Фильтровать – Filtre etmek
+Выключить – Kapamak
+Закрыть – Kapat
+Печь – Fırın
+Бочка – Fıçı
+Газовая плита – Gaz sobası
+Значение индикатора – Gösterge değeri
+Значение – Değer
+Скрип – Gıcırtı
+Пищевые продукты – Gıda ürünleri
+Бассейн – Havuz
+Охранная сигнализация – Hırsız alarmı
+Вор - Hırsız
+Тревога - Alarm
+Жалюзи – Jaluzi
+Кофемолка – Kahve değirmeni
+Кофеварка – Kahve makinesi
+Крышка – Kapak
+Дверной глазок – Kapı gözü
+Дверной телефон – Kapı telefonu
+Не стучись в дверь – Kapıyı çalma
+Постучись в дверь – Kapıyı çal
+Стук в дверь – Kapıyı çalmak
+Путаница – Karışıklık
+Кассета – Kaset
+Магнитофон – Teyp
+Банка – Kavanoz
+Ковш – Kepçe
+Черепица – Kiremit
+Грязь – Kir
+Нагреть – Isıtmak
+Включи свет – Işıkları aç
+Луч – Işın
+Вытри стол – Masayı sil
+Полка – Rafı
+Код – Kod
+Открывашка – Açacak
+Штопор – Tirbuşon
+Консервы – Konserve
+Перила – Korkuluk
+Ведро – Kova
+Наушник – Kulaklık
+Коробка – Kutu
+Колодец – Kuyu
+Угол – Köşe
+Ванна – Küvet
+Маленькая бутылка – Küçük şişe
+Мясорубка – Kıyma makinesi
+Таз – Leğen
+Теплица – Limonluk, Sera
+Настольная лампа – Masa lambası
+Фляга – Matara
+Петля – Menteşe
+Соковыжималка – Meyve sıkacağı
+Микроволновая печь – Mikrodalga fırın
+Волна – Dalga
+Микрофон – Mikrofon
+Миксер – Mikser
+Мебель – Mobilya
+Свеча – Mum
+Подсвечник – Mumluk
+Кран – Musluk
+Дрова – Odun
+Решетка, ограда – Parmaklık
+Половик – Paspas
+Швабра для пола – Zemin paspası
+Подоконник – Pencere kenarı 
+Край – Kenar
+Почтовый ящик –Posta Kutusu
+Мыльница – Sabunluk
+Качели – Salıncak
+Фен для волос – Saç kurutma makinesi
+Губка – Sünger
+Графин – Sürahi
+Поднос – Tepsi
+Мешок – Torba
+Тостер – Tost makinesi
+Кирпич – Tuğla
+Трубка – Tüp
+Пена для бритья – Tıraş köpüğü
+Наволочка – Yastık kılıfı
+Чехол – Kılıf
+Белье – Çamaşır
+Дождевая труба – Yağmur borusu
+Столовая – Yemek Odası
+Стиральный порошок – Ğamaşır deterjanı
+Забор – Çit
+Основной – Ana
+Частная собственность – Özel mülkiyet
+Гладильная доска – Ütü masası
+Сахарница – Şekerlik
+Кодовый замок – Şifreli kilit
+Камин – Şömine	
+Крыша – Çatı
+Сельский дом – Kırsal ev
+Сюда иди – Buraya git
+Холодно – Soğuk
+
+Религия
+Бог – Tanrı, Allah
+Коран – Kuran
+Спаситель – Kurtarıcı
+Суеверный – Batıl
+Ведьма – Cadı
+Религия – Din
+Грешник – Günahkâr
+Крест – Haç
+Христианин – Hıristiyan
+Сатана – Şeytan, Iblis
+Святой – Kutsal
+Зло, плохой – Kötü
+Мулла – Molla
+Мусульманин – Müslüman
+Король – Kral
+Монахиня – Rahibe
+Священник – Rahip
+Дух – Ruh
+Проповедь – Vaaz
+Вампир – Вампир
+Колокольня – Çan Kulesi
+
+Прилагательные
+
+Подписаться – Abone olmak
+Спешить – Acele etmek
+Высокое напряжение – YÜKSEK GERİLİM
+Деревянный – Ahşap
+Семейный – Ailevi
+Безжалостный – Amansız
+Археология – Arkeoloji
+Трезвый – Ayık
+Загорелый – Bronzlaşmış
+Безоблачный – Bulutsuz
+Живой – Canlı
+Храбрый, смелый – Cesaretli, cesur
+Преступление – Cinayet
+Пунктуальный – Dakik
+Задумчивый – Dalgın, Düşünceli
+Прочный – Dayanıklı
+Вертикальный – Dikey
+Горизонтальный – Yatay
+Честный – Dürüst
+Плоский – Düz
+Враг – Düşman
+Самый большой – En büyük
+Лучше – En iyi
+Младший – En küçük
+Последний – En son
+Ближайший – En yakın
+Максимальный – En yüksek
+Загадочный – Esrarengiz
+Кривая – Eğri
+Общий – Genel
+Нужный, необходимый – Gerekli
+Доверчивый – Güvenen
+Безопасный – Güvenli
+Небезопасный – Güvensiz
+Несправедливый – Haksız
+Право - Hak
+Неподвижный – Hareketsiz
+Блестящие – Parlaklar
+Жизнь – Hayat
+Для себя – Kendim için
+Мираж – Serap
+Готовый – Hazır
+Акция – Hisse senedi
+Юрист – Hukukçu
+Грубый – Kaba
+Сложный – Karmaşık
+Мускулистый – Kaslı
+Песок – Kum
+Хитрый – Kurnaz
+Выгодный – Kârlı
+Слепой – Kör
+Злой – Ters, Kötü kalpli
+Хрупкий – Kırılgan
+Короткое замыкание – Kontak
+Ревнивый – Kıskanç
+Максимум – Maksimum
+Минимум – Minimum
+Недовольные – Memnun olmayan
+Mеталл – Metal
+Позволь мне обнять тебя – Bırak sana sarılmama izin ver
+Разогрей мне блины – Krepleri bana ısıt
+Вместе пойдем – Birlikte gidelim
+Отдал – Verdim
+Котел - Kazan
+Плюнул - Tükürdum
+Подушка - Yastık
+Вспотел - Terledim
+Сначала подойди ко мне - Önce bana gel
+Впереди большая жизнь - Önde büyük hayat
+Все люди одинаковые - Bütün insanlar aynıdır
+Одинаковые брюки - Aynı pantolonlar
+Весь дом празднует - Bütün ev kutluyor
+Налей сразу - Hemen dökün
+Гарантия - Garanti
+Пчела - Arı (Боль -Ağrı)
+Никогда не говори никогда - Asla asla deme
+Согласие -Kabul
+Я тебя уважаю - Sana saygı duyuyorum
+Уважаю - Saygı
