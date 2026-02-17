@@ -328,7 +328,6 @@
 Фотоаппарат – Fotoğraf makinesi
 Фотография – Fotoğraf
 Холодильник – Buzdolabı
-Чайник – Çaydanlık
 Чемодан – Bavul, Valiz
 
 Посуда, кухня
@@ -395,7 +394,6 @@ Varış – Прибытие
 Диплом – Diploma
 Дом – Ev
 Веранда – Veranda
-
 Домашнее задание – Ev ödevi
 Доска – Tahta
 Жалоба – Şikayet
@@ -431,7 +429,7 @@ Varış – Прибытие
 Лошадь – At
 Лягушка – Kurbağa
 Медведь – Ayı
-Место – Yer
+Место, полы – Yer
 Молодой – Genç
 Мышь – Fare
 Обезьяна – Maymun
@@ -549,7 +547,6 @@ Varış – Прибытие
 Таблетка – Hap
 Техник – Teknisyen
 Опасный техник – Tehlikeli teknisyen
-
 Укол – İğne
 Язва – Ülser
 
@@ -569,7 +566,6 @@ Varış – Прибытие
 Перестань меня преследовать – Beni takip etmeyi bırak
 Каждый день я опаздываю на работу – Her gün işe geç kalıyorum           
 Продолжай говорить по турецки – Türkçe konuşmaya devam et
-Приглашать друзей – Arkadaşlarını davet et
 Я согласен – Ediyorum
 Я ем – Ben yiyorum
 На краю света – Dünyanın sonunda
@@ -873,7 +869,7 @@ Kaç – Сколько (для предметов)
 Запад – Batı
 Защита – Defans
 Звезда – Yıldız
-Земля – Toprak
+Земля – Toprak, Zemin
 Зима – Kış 
 Игра – Oyun
 Избиратели – Seçmen
@@ -930,9 +926,7 @@ Kaç – Сколько (для предметов)
 Новость – Haber
 Ночь – Gece
 Утро – Sabah
-Свет – Işık
 Тьма – Karanlık
-Светофор – Trafik ışıkları
 Облако – Bulut
 Обслуживание – Servis
 Озеро – Göl
@@ -954,7 +948,6 @@ Kaç – Сколько (для предметов)
 На улице холодно – Dışarısı soğuk
 Поезд – Tren
 Поздно – Geç
-Пол – Zemin
 Порт – Liman
 Поселок – Kasaba
 Почта – Posta
@@ -984,12 +977,10 @@ Kaç – Сколько (для предметов)
 Солнце – Güneş
 Солнце светит – Güneş parlıyor
 Соревнования – Yarış
-Спор – Tartışma
-Обсудить – Tartışmak
 Справочная, консультация – Danişma
 Столица – Başkent
 Страна – Ülke
-Счет – Hesap, Tasarı
+Счет – Hesap, TЛасasarı
 Сюрприз – Sürpriz
 Такси – Taksi
 Таможня – Gümrük
@@ -1242,8 +1233,8 @@ Kaç – Сколько (для предметов)
 Напоминать – Hatırlatmak
 Напоминаю – Hatırlatıyorum
 Память – Hatır, Bellek
-Находиться – Bulunmak
-Нахожусь – Buluyorum
+Найти– Bulun
+Нахожу – Buluyorum
 Ненавидеть – Nefret etmek
 Нет – Yok
 Носить, везти – Taşima
@@ -1273,7 +1264,7 @@ Kaç – Сколько (для предметов)
 Покупаю, беру, получаю – Alıyorum
 Возьми – Al
 Помогать – Yardım etmek
-Помогаю – Yardımcı olmak
+Помогать, помогаю – Yardımcı olmak
 Помощь – Yardım
 Посылаю – Gönderiyorum
 Посылать – Göndermek
@@ -1324,8 +1315,8 @@ Kaç – Сколько (для предметов)
 Не понимаю – Anlamıyorum
 Договариваться – Anlaşmak
 Договорюсь – Anlaşma
-Различать – Ayırmak
-Различаю – Ayırıyorum
+Различать, разделять – Ayırmak
+Разделяю – Ayırıyorum
 Расставаться – Ayrılmak (айрылмак)
 Расстаюсь – Ayrılıyorum (айрылыорум)
 Искать, позвонить – Aramak
@@ -1337,7 +1328,6 @@ Kaç – Сколько (для предметов)
 Разрешаю – İzin vermek
 Разрешить- İzin ver
 Реагировать - Tepki göstermek
-Реакция – Tepki
 Режу – Kesiyom
 Резать – Kesmek
 Делить – Bölmek
@@ -1367,7 +1357,7 @@ Kaç – Сколько (для предметов)
 Слышу – Duyuyorum
 Смеяться – Gülmek
 Смеюсь – Gülüyorum
-Смогу – Başarıyorum
+Смогу, у меня получается – Başarıyorum
 Не могу – Yapamam
 Я согласен – Ediyorum
 Снять – Çıkarmak
@@ -1417,7 +1407,7 @@ Kaç – Сколько (для предметов)
 Убиваю – Öldürüyorum
 Убираться – Temizliyorken
 Угрожать – Tehdit etmek
-Удалить – Kaldırmak, silmek
+Поднять – Kaldırmak
 Ударить – Vurmak
 Узнавать – Tanımak
 Узнаю – Haber almak
@@ -1706,3 +1696,123 @@ Mеталл – Metal
 Согласие -Kabul
 Я тебя уважаю - Sana saygı duyuyorum
 Уважаю - Saygı
+Национальный – Milli
+Современный – Modern
+Великолепный – Muhteşem
+Возможный – Mümkün
+Скромность – Mütevazi
+Благодарен – Müteşekkir
+Редкий – Nadir
+Вежливый – Nazik, Terbiyeli
+Точка с запятой – Noktalı virgül
+Цифры – Rakamlar
+Нормальный – Normal
+Ядерный – Nükleer
+Ядерное оружие – Nükleer silah
+Оригинальный – Orijinal
+Яркий – Parlak
+Ржавый – Paslanmış
+Розничный – Perakende
+Оптовый – Toptan
+Пластиковый – Plastik
+Опозорился – Rezil oldum
+Рискованный – Riskli
+Чистый – Saf
+Поддельный – Sahte
+Интимный – Samimi
+Прозрачный – Saydam
+Уважаемый – Saygın
+Неприятный – Sevimsiz
+Волшебный – Sihirli
+Под водой – Su altı
+Искусственный – Suni
+Натуральный – Doğal
+Невинный – Suçsuz
+Обычный – Sıradan
+Жидкость – Sıvı
+Мелкий – Sığ
+Неприятный – Tatsız
+Единственный – Tek olan
+Невоспитанный – Terbiyesiz
+Экономный – Tutumlu
+Международный – Uluslararası
+Будет стыдно – Utanılacak
+Снотворное – Uyku hapı
+Сонный – Uykulu
+Бессонный – Uykusuz
+Удлиненный – Uzatılmış
+Загорается – Yanar
+Половина – Yarım
+Программное обеспечение – Yazılım
+Подземный переход – Yeraltı geçidi
+Утомительный – Yorucu
+Круглый – Yuvarlak
+Не сложно – Zor olmayan
+Исправил – Düzelttim
+Наладил – Ayarladım
+Удобная – Rahat
+Ноет – Sızlı
+Вовремя – Zamanında
+В обратном направлении – Ters yönde
+
+Погода
+
+Мороз – Ayaz, donlar
+Морозный – Ayazlı
+Кусок льда – Buz parçası
+Землетрясение – Deprem
+Идет град – Dolu yağıyor
+Дым – Duman
+Гремит гром – Gök gürültüsü gürlüyor
+Шуметь – Gürültü etmek
+Погода холодная – Hava soğuk
+Лай собаки – Köpek havlaması
+Стоны – Inleme
+Метель – Kar fırtınası
+Лыжник – Kayakçı
+Засуха – Kuraklık
+Шуба – Kürk manto
+Мех – Kürk
+Влажность – Nem
+Катание на коньках – Paten kaymak
+Ливень – Sağanak
+Тишина – Sessizlik
+Циклон – Siklon
+Туманный день – Sisli bir gün
+Погода ниже нуля – Hava sıfırın altında
+Тайфун – Tayfun
+Термометр – Termometre
+Дождь – Yağmur
+Голос – Ses
+Громко – Yüksek sesle
+Треск – Çatırtı
+Cкрип обуви – Ayakkabı gıcırtısı
+Вовремя – Zamanında
+В обратном направлении – Ters yönde
+ 
+Еда
+
+Осьминог – Ahtapot
+Малина – Ahududu
+Форель – Alabalık
+Подсолнечное масло – Ayçiçeği yağı
+Цыпленок – Civciv
+Телятина – Dana eti
+Лавровый лист – Defne yaprağı
+Диета – Diyet
+Слива – Erik
+Бульон – Et suyu
+Копченый – Füme
+Гарнир – Garnitür
+Вафля – Gofret
+Грейпфрут – Greypfrut
+Горчица – Hardal
+Индейка – Hindi
+Устрица – istiridye
+питьевая вода – içme suyu
+Большой аппетит – Büyük iştah
+Проголодался – Ben açıktım
+Вареный – kaynamış
+Кипяченный чай – Kaynamış çay
+Никому – Kimseye
+Я никому не должен – Ben kimseye borç yok
