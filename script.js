@@ -86,15 +86,14 @@ class FlashCards {
     createBlocks() {
         this.blocks = [];
         
-        // Создаем копию карточек для перемешивания внутри блоков
+        // Создаем копию карточек без перемешивания
         const cardsCopy = [...this.allCards];
         
         // Разбиваем на блоки
         for (let i = 0; i < cardsCopy.length; i += this.wordsPerBlock) {
             const blockCards = cardsCopy.slice(i, i + this.wordsPerBlock);
             
-            // Перемешиваем карточки внутри блока
-            this.shuffleArray(blockCards);
+            // Убрали перемешивание карточек внутри блока
             
             this.blocks.push({
                 index: Math.floor(i / this.wordsPerBlock),

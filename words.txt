@@ -1,1818 +1,1921 @@
-Цвета – Renk 
-Бежевый – Bej
-Белый – Beyaz
-Желтый – Sarı
-Зеленый – Yeşil
-Золотистый – Altın
-Коричневый – Kahverengi
-Красный – Kırmızı, kızıl
-Оранжевый – Turuncu
-Розовый – Pembe
-Серебристый – Gümüş
-Серый – Gri
-Синий – Mavi
-Сиреневый – Leylak	
-Темный – Karanlık, Koyu
-Фиолетовый – Mor
-Цвет - Renk
-Черный – Siyah
-Светлый – Açık
-Темный – Karanlık
-Свет – Işık
-Тьма – Karanlık
-Светофор –Trafık ışıklar
-Радуга – Gökkuşağı
-
-Дни недели
-Понедельник – Pazartesi
-Вторник – Salı
-Среда – Çarşamba
-Четверг – Perşembe
-Пятница – Cuma
-Суббота – Cumartesi
-Воскресенье – Pazar
-
-Месяца
-Январь – Ocak
-Февраль – Şubat
-Март – Mart
-Апрель – Nisan
-Май – Mayıs
-Июнь – Haziran
-Июль – Temmuz
-Август – Ağustos
-Сентябрь – Eylül
-Октябрь – Ekim
-Ноябрь – Kasım
-Декабрь – Aralık
-
-Одежда - Giysı
-Банный халат – Bornoz
-Блузка – Bluz
-Ботинки – Botlar, Ayakkabı
-Браслет – Bilezik
-Брелок – Anahtarlık
-Бритва – Tıraş bıçağı
-Брюки – Pantolonlar
-Жилет – Yelek
-Бюстгалтер – Sütyen
-Галстук – Kravat 
-Губная помада – Ruj
-Джинцы – Kot
-Духи – Parfüm
-Зубная паста – Diş macunu
-Зубная щетка – Diş fırçası
-Зубочистка – Kürdan
-Колготки – Külotlu çorap
-Кольцо – Halka
-Комбинезон – Tulum
-Костюм – Kostüm
-Кофта – Kazak
-Краска для волос – Saç boyası
-Крем – Krem
-Крем для рук – El kremi
-Кроссовки – Spor ayakkabı
-Купальник – Mayo, Bikini
-Куртка – Ceket
-Лак для ногтей – Oje
-Лезвие – Jilet 
-Майка – Atlet
-Ножницы – Makas
-Носок – Çorap
-Очки – Gözlük
-Пальто – Palto, Kat
-Перчатки – Eldiven
-Платье – Elbise
-Пудра – Pudra
-Расческа – Tarak
-Ремень – Kemer
-Рубашка – Gömlek
-Румяна – Allık
-Сапоги – Çizmeler
-Свадебное платье – Gelinlik
-Серьги – Küpe
-Солнцезащитные очки – Güneş gözlüğü
-Сумка – Çanta
-Тапочки – Terlik
-Тени для век – Göz farı
-Тень – Far, Gölge
-Трусы – Külot
-Туфли – Pabuç
-Туш для ресниц – Rimel
-Футболка – Tişört
-Хлопок – Pamuk, Kot
-Шерсть – Yün
-Часы – Kol saati
-Шампунь – Şampuan
-Шапка – Şapka
-Шарф – Eşarp
-Шорты – Şort
-Юбка – Etek
-Вешалка – Askı
-
-Работа, профессия – Çalışma, Meslek
-Адвокат – Avukat
-Альпинист – Dağcı
-Архитектор – Mimar
-Бизнесмен – İşadam
-Бухгалтер – Muhasebeci
-Бухгалтерия – Muhasebe
-Водитель – Sürücü
-Вратарь – Kaleci
-Врач – Doktor, hekimi
-Депутат – Milletvekili
-Директор – Müdür
-Журналист – Muhabir
-Земледелец – Çiftçi
-Инженер – Mühendis
-Капитан – Kaptan
-Мер – Belediye Başkanı
-Министр – Bakan
-Моляр – Boyacı
-Музыкант – Müzisyen
-Нотариус – Noter
-Полицейский – Polis
-Портной – Terzi
-Правительство – Hükümet
-Президент –Cumhurbaşkan
-Премьер-министр – Başbakan
-Продавец – Satıcı, Tezgâhtar
-Профессионал – Profesyonel
-Профессия – Meslek
-Профессор – Profesör
-Путешественник – Gezgin
-Работа – Çalışma 
-Работа – Iş
-Рабочий – İşçi
-Руководитель – Yönetici
-Спасатель – Cankurtaran
-Специалист - Uzman
-Столяр – Marangoz
-Стоматолог – Dişçi
-Судья – Yargıç: hakem
-Ученик – Öğrenci
-Учитель – Öğretmen
-Фармацевт – Eczacı
-Фотограф – Fotoğrafçı
-Художник – Sanatçı
-Шофер – Şoför
-Ювелир – Kuyumcu
-
-Продукты – Gıda
-Абрикос – Kayısı
-Алкогольный напиток – Alkollü içki
-Апельсин - Portakal
-Арбуз - Karpuz
-Баклажан – Patlıcan
-Банан – Muz
-Баранина – Koyun eti
-Бифштекс – Biftek 
-Бублик – Simit
-Булочка – Çörek
-Бутерброд – Sandviç
-Варенье – Reçel
-Вино – Şarap
-Виноград – Üzüm
-Виски – Viski
-Вода - Su 
-Водка – Votka
-Газировка – Gazoz, Soda
-Говядина – Sığır eti
-Гранат – Nar
-Грейпфрут – Greyfurt
-Гречка – Karabuğday
-Грибы – Mantarlar
-Лапша – Erişte
-Манная каша – İrmik lapası
-Груша – Armut
-Десерты – Tatlılar
-Дыня – Kavun
-Зеленый горошек – Bezelye
-Икра – Havyar
-Йогурт - Yoğurt  
-Кальмар – Kalamar
-Капуста – Lahana
-Картофель – Patates
-Каша – Püresi
-Колбаса – Sosis, Salam
-Коньяк – Konyak
-Котлета – Pirzola
-Кукуруза – Mısır
-Лапша - Erişte
-Ликер – Likör
-Лимонад – Limonata
-Лук - Soğan 
-Макароны - Makarna
-Мандарин – Mandalina
-Маргарин - Margarin
-Масло - Yağ 
-Масло сливочное - Tereyağlı tereyağı  
-Оливковое масло – Zeytinyağı
-Мед - Bal
-Минеральная вода – Maden suyu
-Молоко - Süt 
-Морепродукты – Deniz ürünleri
-Морковь – Havuç
-Мороженое - Dondurma 
-Мята – Nane
-Овощи – Sebze
-Овсяная каша – Yulaf lâpası
-Огурец - Salatalık 
-Орех - Ceviz
-Пахлава – Baklava
-Перец - Biber 
-Печенье – Bisküvi, kurabıeler
-Пиво – Bira
-Пироги – Turta
-Вкус – Tat, Tad
-Пирожок – Börek
-Пища – Gıda
-Помидор - Domates 
-Приправы – Baharatlar
-Рис - Pirinç  
-Рыба - Balık
-Сахар – Şeker
-Свекла – Pancar
-Свинина – Domuz eti
-Сок – Meyve su
-Соль – Tuz
-Суп – Çorba
-Сыр - Peynir 
-Творог ¬– Çökelek
-Сметана, скользить – Kaymak, Ekşi krema
-Тоник – Tonik
-Торт – Pasta, Kek
-Турецкий кофе – Türk kahvesi
-Тыква – Kabak
-Фарш – Kıyma
-Фасоль – Fasulye
-Финики –  Hurmalar
-Фрукты – Yemiş, Meyve
-Хлеб – Ekmek
-Черствый хлеб – Bayat ekmek
-Чеснок – Sarımsak
-Чечевица – Mercimek
-Шампанское – Şampanya
-Шпинат – Ispanak
-Яблоко – Elma
-Яйцо – Yumurta
-Разные сорта – Farklı çeşitler
-
-Мебель, Жилье
-Автошина – Lastik
-Балкон – Balkon
-Ваза – Vazo
-Ванна – Banyo
-Веревка – İp
-Вытяжка – Havalandırma
-Кондиционер – Klima
-Климат – İklim
-Дверь – Kapı
-Диван – Kanepe
-Душ – Duş
-Журнальный столик – Sehpa
-Зал – Salon
-Замок – Kilit
-Пароль – Parola
-Зеркало – Ayna
-Игла – İğne
-Карта – Harita
-Картина – Resim
-Кафель – Fayans
-Квартира – Daire
-Ключ – Anahtar
-Книжный шкаф – Kitaplık
-Ковер – Halı
-Комната – Oda
-Комод – Konsol, Şıfonyer
-Коридор – Koridor
-Кресло – Koltuk
-Кровать – Yatak
-Кухня – Mutfak
-Совет – Tavsiye 
-Давать советы – Tavsiye vermek
-Лампа – Lamba
-Матрас – Şilte
-Мусор – Çöp
-Мыло – Sabun
-Нить – İplik
-Номер – Numara
-Носовой платок – Mendil
-Обогреватель – Kalorifer
-Открытка – Kartpostal
-Подарок – Hediye
-Полотенце – Havlu
-Потолок – Tavan
-Прикроватная тумбочка – Komodin
-Простыня – Çarşaf
-Пылесос – Elektrik süpürgesi
-Пыль – Toz
-Радио – Radyo
-Раковина – Kabuk
-Рисунок – Şekil
-Рынок – Pazar: çarşı
-Салфетка – Peçete
-Спальня – yatak Odası
-Спасательный жилет – Can yeleğı
-Стена – Duvar
-Стиральная машина - Çamaşır makinesi
-Стол – Masa
-Стул – Sandalye
-Сушильная машина – Kurutucu makinesi
-Такси – Taksi
-Телевизор – Televızyon
-Пульт – Kumanda
-Туалетная бумага – Tuvalet kâğıdı
-Унитаз – Klozet
-Утюг – Ütü
-Фотоаппарат – Fotoğraf makinesi
-Фотография – Fotoğraf
-Холодильник – Buzdolabı
-Чемодан – Bavul, Valiz
-
-Посуда, кухня
-Блюдце – Fincan tabağı
-Бутылка – Şişe
-Вилка – Çatal
-Еда – Yemek
-Жаренная печень – Kızarmış karaciğer
-Жаренный ципленок – Piliç Kızarmış
-Завтрак – Kahvaltı
-Закуски – Mezeler
-Картофель фри - Patates kızartması
-Кастрюля – Tencere
-Ложка – Kaşık
-Посуда – Kap
-Нож – Bıçak
-Обед – Yemek
-Основные блюда – Ana yemekler
-После обеда – Öğleden sonra
-Рюмка – Kadeh
-Скатерть – Masa örtüsü
-Тряпка – Bez
-Сковорода – Tava
-Стакан – Bardak
-Тарелка – Tabak
-Ужин – Akşam yemeği
-Чашка – Fincan
-
-Существительные
-Автостоянка – Otopark
-Акула – Köpekbalığı
-Альпинизм – Dağcılık
-Атлетизм – Atletizm
-Ацетон – Aseton
-Баран – Koç, Koyun
-Бег – Koşu
-Беги – Koş
-Бегу – Koşuyorum
-Бегун – Koşucu, Atlet 
-Билет – Bilet
-Бильярд – Bilardo
-Биржа – Borsa
-Болельщики – Taraftarlar
-Бумага – Kâğıt
-Бык – Boğa
-Вечер – Akşam
-Вид на жительство – Oturma izni
-Виза – Vize
-Война – Savaş
-Волк – Kurt
-Ворона – Karga
-Время – Zaman
-Время взлета – Kalkış saati
-Взлет – Kalkış
-Время прибытия – Varış saati
-Varış – Прибытие
-Выпускник – Mezun
-Газета – Gazete
-Гид – Rehber
-Граница – Sınır
-Грех – Günah, Sin
-Грузовая машина – Kamyon
-Дворец – Saray
-Диплом – Diploma
-Дом – Ev
-Веранда – Veranda
-Домашнее задание – Ev ödevi
-Доска – Tahta
-Жалоба – Şikayet
-Жвачка – Sakız
-Женщина – Kadın, Bayan
-Животное – Hayvan
-Зажигалка – Çakmak 
-Зачетная книжка – Karne
-Звонок – Zil
-Змея – Yılan
-Зонтик – Şemsiye
-Зрители – Seyirci
-Зять – Damat
-Игрушка – Oyuncak
-Импорт – İthalat
-Иностранец – Yabancı
-Капля – Damla
-Карандаш – Kalem
-Карандаш для глаз – Göz kalemi
-Касса – Kasa
-Каюта – Kamara
-Колесо - Tekerlek
-Колокол – Çan
-Кошка – Kedi
-Краска – Boya
-Кредитная карта – Kredi kartı
-Кролик – Tavşan
-Крыло – Kanat
-Лев – Aslan
-Лестница – Merdiven
-Линейка – Cetvel
-Лиса – Tilki
-Лошадь – At
-Лягушка – Kurbağa
-Медведь – Ayı
-Место, полы – Yer
-Молодой – Genç
-Мышь – Fare
-Обезьяна – Maymun
-Нрав, характер – Karakter, Huy
-Гнев – Öfke
-Нужда – İhtiyaç
-Остановка – Durak
-Попугай – Papağan
-Птица – Kuş
-Расписание – Program
-Ребенок – Çocuk
-Резина – Kauçuk
-Рекорд – Rekor
-Ремонт – Onarım: tamır
-Рост – Büyüme, Boy
-Ручка – Kol
-Сад – Bahçe
-Свинья – Domuz
-Секрет – Sır
-Слон – Fil
-Петух – Horoz
-Собака – Köpek
-Сожаление – Yazık
-Сон – Uyku
-Спорт – Spor
-Старый – Eski
-Стерка – Silgi
-Суд – Mahkeme
-Тетрадь – Defter
-Транспорт – Taşıma, Ulaşim
-Тренер – Antrenör
-Трос – Halat
-Урок – Ders
-Утка – Ördek
-Утро – Sabah
-Фигурное катание – Buz pateni
-Финал – Final
-Чемпион – Şampiyon
-Черепаха – Kaplumbağa
-Белый лебедь – Beyaz kuğu
-Шатенка – Kumral
-Шины – Lastikler
-Щетка – Fırça
-Эгоист – Bencil
-Экзамен – Sınav
-Экономика – Ekonomi
-Экспорт – İhracat
-Этаж – Kat
-
-Все о человеке
-Бедро – Kalça
-Борода – Sakal
-Веко – Gözkapağı
-Волосы – Saç
-Глаза – Gözler
-Голова – Kafa, Baş
-Грудь – Göğüs
-Губы – Dudaklar
-Желудок – Mide
-Живот – Karın
-Задница – Kıç
-Запястье – Bilek
-Зубы – Dişler
-Кожа – Deri
-Кости – Kemikler
-Легкие – Akciğer
-Лицо – Yüz, Kişi
-Локоть – Dirsek
-Мозг – Beyin
-Глупый – Безмозглый
-Ум – Zihin
-Богатый ум – Zengin zihin
-Состояние – Durum
-Пьяный – Sarhoş
-Пьяное состояние – Sarhoş durum	
-Нога – Ayak
-Ногти – Tırnaklar
-Нос – Burun
-Пальцы – Parmaklar
-Печень – Karaciğer
-Плечо – Omuz
-Почки – Böbrekler
-Поясница - Bel
-Рот – Ağız
-Рука – El
-Сердце – Kalp
-Спина – Sırt
-Ухо – Kulak
-Шея – Boyun
-Мышцы – Kaslar
-Щеки – Yanaklar
-Язык – Dil
-Язык – Dil
-Член – Yarak, Erkek horoz
- 
-Здоровье – Sağlık
-Аптека – Eczane
-Боль – Ağrı
-Больница – Hastana
-Больной – Hasta 
-Вата – Pamuk
-Врач – Doktor
-Грипп – Grip
-Группа крови – Kan grubu
-Жар, огонь – Ateş
-Кашель- Öksürük
-Кровяное давление – Tansiyon
-Лекарство – İlaç
-Лечение – Tedavi 
-Медсестра – Hemşire
-Понос – İshal
-Пульс – Nabız
-Рентген – Röntgen
-Рецепт – Tarif, Reçete
-Таблетка – Hap
-Техник – Teknisyen
-Опасный техник – Tehlikeli teknisyen
-Укол – İğne
-Язва – Ülser
-
-Повседневные
-
-Тебе снились сны – Rüyalar gördün mü
-Там много счастья – Orada çok mutluluk var
-Эта собака много гадит – Bu köpek çok sıçıyor
-У тебя получается шить – Senin başarıyorum dikmek
-Сразу запомнил – Hemen hatırladım
-Суда иди – Buraya gel
-Другие женщины противные – Diğer kadınlar iğrenç
-Я начал забывать – Unutmaya başladım
-Слишком много работы – Çok fazla iş var
-Я вышел из леса – Ormandan çıktım
-Ты не знаешь прогноз погоды – Hava tahminini bilmiyor musun
-Перестань меня преследовать – Beni takip etmeyi bırak
-Каждый день я опаздываю на работу – Her gün işe geç kalıyorum           
-Продолжай говорить по турецки – Türkçe konuşmaya devam et
-Я согласен – Ediyorum
-Я ем – Ben yiyorum
-На краю света – Dünyanın sonunda
-У меня все в порядке – Benim için her şey yolunda
-Отлично – Mükemmel, Yolunda
-Возьми у меня – Benden al
-Всегда рад – Daima sevindim
-Дай бог – Inşallah
-Дай мне – Ver bana
-Добро пожаловать – Hoş geldiniz
-Достаточно – Yeter
-К сожалению –Maalesef
-Ладно – Tamam
-Мне трудно говорить – Benim için konuşmak zor 
-Положи сумку в машину – Çantayı arabaya birak (koy)
-Брось телефон на сиденье – Telefonu koltuğa at
-Помой чашку - Bardağı yıka
-Собирайся скорее нет времени – Yakında toplanacak vaktim yok
-Скорее собирайся – Çabuk toplan
-На здоровье – Şerefe
-На прошлой неделе – Geçen hafta
-На следующей неделе – Gelecek hafta
-Не смей – Sakın
-Не толкай – Zorlama
-Пожалуйста – Lütfen
-Пойдем – Hadi gidelim
-Половину чая налей – Çayın yarısını dökün
-Помоги – Yardım et
-Посмотри на это – Şuna bak
-Береги себя – Iyi bak
-Приятного аппетита – Afiyet olsun
-Просить прощения – Özür dilerım
-Извинись – Özür dile
-Сделай это – Bunu yap
-Спасибо – Teşekkürler
-У меня есть – Bende var
-Хватит – Yetiyor
-Хорошо – İyi, Peki
-Я знаю мало слов – Çok az kelime biliyorum
-Я могу взять – Ben alabilirim
-
-Предлоги 
-Я – Ben
-Ты – Sen
-Твой, твоя, твое – Senin
-Его, ее – Onun
-Он, она, оно – O
-Мы – Biz
-Мой, моя, мое – Benim
-Вы – Siz
-Они – Onlar
-Многие – Birçok
-Нам, наша, наше – Bizim
-Ваш, ваше, ваша – Senin
-Весь – Tüm
-Все – Her şey. Пример Все сказано – Her şey söylendi
-Все – Herkes
-Все – Bütün
-Еще – Halâ
-И – Ve
-Или – Veya
-Их – Onlarin
-Каждый – Her
-Над – Üzerinde
-Не – Değil
-Но – Ama
-Под – Altına
-Пока нет – henüz (değil)
-С – İle
-Сюда – Buraya 
-Так – Böylece
-Такой – Böyle
-Там – Orada
-Уже, собственно – Zaten
-Это – Bu
-
-Вопросительные слова
+0 – sıfır 
+1 - bir [бир]
+10 - on [он]
+100 - yüz [йюз]
+1000 - bin [бин]
+1000000 – bir milyon
+2 - iki [ики]
+20 - yirmi [йирми]
+3 - üç [юч]
+30 - otuz [отуз]
+4 - dört [дёрт]
+40 - kırk [кырк]
+5 - beş [беш]
+50 - elli [элли]
+6 - altı [алты]
+60 - altmış [алтмыш]
+7 - yedi [йеди]
+70 - yetmiş [йетмиш]
+8 - sekiz [секиз]
+80 - seksen [сексен]
+9 - dokuz [докуз]
+90 - doksan [докузан]
+Cвободное время – Boş zaman
+Cкрип обуви – Ayakkabı gıcırtısı
 Kaç – Сколько (для предметов)  
-Всегда – Daima
-Вчера – Dün
-Где – Nerede
-Завтра – Yarın
-Здесь – Burada
-Бывает – Oluyor
-Иногда – Bazen
-Каждый день – Her gün
-Как – Olarak, Nasıl
-Какой, который – Hangi
-Когда – Ne zaman
-Кроме – Hariç, Dışında
-Кто – Kim
-Другие – Diğer
-Куда – Nereye
-Может быть – Belki mi
-Позже, потом – Sonra
-Постоянно – Sürekli
-Потому что – Çünkü
-Почему – Neden
-С начала, сколько времени назад – Önce
-Сегодня – Bugün
-Сейчас – Şimdi 
-Сколько денег – Ne kadar para var
-Сколько человек – Kaç kişi var
-Сразу – Birden, Hemen
-Что – Ne
-Чуть-чуть – Birazcık
-Местонахождение – Mevki
-Вокруг – Etrafında
-Впереди – Önde
-Тонкий – İnce
-Перед – Önce
-Мало – Az
-Между – Araşında
-Много – Çok
-Обратно – Geri
-В середине – Ortada
-Пройти мимо – Yanından geçmek
-Против – Karşı
-Рядом – Yanında
-Сзади – Arkada
-
-Прилагательные
-Бедный – Yoksul, Fakir, Zavallı
-Беременная – Hamile
-Близкий – Yakın
-Богатый – Zengin
-Болтливый – Geveze
-Большой – Büyük
-Больше – Fazla, Daha
-Меньше – Daha az
-Избыточная цена – Fazla fiyat
-Меньше – Daha az
-Будущий – Gelecek
-Быстрый – Hızlı
-Быть внимательным – Dikkat olmak
-Верный – Güvenilir
-Ветренный – Rüzgarlı
-Взрослый – Yetişkin
-Влюбленный – Aşık
-Внимание – Dikkat
-Внимательный – Dikkatli
-Возрастной – Yaş sınırı
-Высокий человек – Uzun adam
-Глубокий – Derin
-Голодный – Aç
-Гордый – Gururlu
-Горячий – Sıcak
-Готовый – Hazır
-Грустный – Üzgün
-Грязный – Kirli
-Далекий – Uzak
-Дешевый – Ucuz
-Дикий – Vahşi
-Длинный – Yüksek
-Добрый – İyi
-Дорогой – Pahalı
-Дурак – Aptal
-Женатый – Evli
-Законный – Yasal
-Закон – Yasa
-Закрытый – Kapalı
-Занятой – Meşgul
-Знаменитый – Ünlü
-Короткий – Kısa
-Красивый – Güzel
-Красивый (для мужчины) – Yakışıklı adam
-Левый – Sol
-Легкий – Kolay, Hafif
-Ленивый – Tembel
-Любитель – Amatör
-Маленький – Küçük
-Медленный – Yavaş
-Милый – Sevimli
-Многолюдный – Kalabalık
-Мокрый – Islak
-Молодой – Genç
-Мягкий – Yumuşak
-Не свежий – Taze değil, Bayat
-Невнимательный, неосторожный  – Dikkatsiz
-Незабываемый – Unutulmaz
-Незаконный – Yasadışı, Kanunsuz
-Нервный – Sinirli
-Рай – Cennet
-Ад – Cehennem
-Неудачный – Başarısız, Şansız
-Низкий – Düşük
-Новый – Yeni
-Одинокий – Yalnız
-Опасный – Tehlikeli
-Острый – Keskin
-Открытый – Açık
-Плохой – Kötü
-Пожилой – Yaşlı
-Полный – Tam
-Последний, прошлый – Son
-Правильный – Doğru
-Правый – Sağ
-Прекрасный – Harıka
-Привлекательный – Çekici
-Прохладный – Serin
-Прямо – Doğrudan
-Пустой, свободный – Boş
-Решение – Çözüm
-Свежий – Taze
-Сердитый – Kızgın
-Сильный – Güçlü
-Симпатичный – Sempatik
-Следующий – Sonraki
-Смелый – Cesur
-Старый – Eski
-Страшный – Korkunç, Çirkin
-Сумашедший – Deli, Çılgın
-Сухой – Kuru
-Счастливый – Mutlu
-Довольный – Memnun
-Сытый – Tok, Doluyum
-Твердый – Sert
-Теплый – Ilık
-Терпеливый – Sabırlı
-Толстый – Kalın
-Толстый (для людей) – Şişman adam
-Трудный – Zor
-Трудолюбивый – Çalışkan
-Трусливый – Korkak
-Тяжелый – Ağır
-Уверенный – Emin
-Удачный – Başarılı
-Узкий – Dar
-Умный – Akıllı
-Упрямый – İnatçı
-Уставший – Yorgun
-Холодный – Soğuk
-Хороший – İyi
-Худой, слабый – Zayıf
-Чистый – Temiz
-Запах – Koku
-Широкий – Geniş
-Щедрый – Cömert
-Скупой – Cimri
-Жадный – Açgözlü
-
-Название – Ad
-Тема – Tema, Konu
+Mеталл – Metal
+Varış – Прибытие
+Абрикос – Kayısı
+Авария – Kaza
+Август – Ağustos
 Автовокзал – Otogar
 Автозаправка – Benzin istasyonu
 Автомобильная остановка – Araba durağı
-Тележка – El arabası
+Автостоянка – Otopark
+Автошина – Lastik
+Ад – Cehennem
+Адвокат – Avukat
+Альпинист – Dağcı
 Адрес – Adres
+Акула – Köpekbalığı
+Акция – Hisse senedi
+Алкогольный напиток – Alkollü içki
+Альпинизм – Dağcılık
+Анализировать – Analiz etmek
+Ангел – Melek
+Апельсин - Portakal
+Аппетит – Iştah
+Апрель – Nisan
+Аптека – Eczane
+Арбуз - Karpuz
+Арестант – Tutuklu
+Арестовать – Tutuklamak
+Археология – Arkeoloji
+Архитектор – Mimar
+Атлетизм – Atletizm
+Ацетон – Aseton
 Аэропорт – Havaalanı
+Бабочка – Kelebek
+Бабушка –  Nine
+Баклажан – Patlıcan
+Балкон – Balkon
+Банан – Muz
 Банк – Banka
+Банка – Kavanoz
+Банный халат – Bornoz
+Баран – Koç, Koyun
+Баранина – Koyun eti
+Бассейн – Havuz
+Бег – Koşu
+Бегать – Koşmak
+Бегаю, Бегу – Koşuyorum
+Беги – Koş
+Бегун – Koşucu, Atlet 
+Бедный – Yoksul, Fakir, Zavallı
+Бедро – Kalça
+Бежевый – Bej
 Без таможенного налога – Gümrüksüz
+Безгрешный ангел – Günahsız melek
+Безжалостный – Amansız
+Безоблачный – Bulutsuz
+Безопасный – Güvenli
+Белый – Beyaz
+Белый лебедь – Beyaz kuğu
+Белье – Çamaşır
+Береги себя – Iyi bak
+Беременная – Hamile
+Бессонный – Uykusuz
 Библиотека – Kitaplık
+Бизнесмен – İşadam
+Билет – Bilet
+Бильярд – Bilardo
+Биржа – Borsa
+Бифштекс – Biftek 
+Благодарен – Müteşekkir
+Блестящие – Parlaklar
+Ближайший – En yakın
+Близкий – Yakın
 Блондинка, блондин – Sarışın
+Блузка – Bluz
+Блюдце – Fincan tabağı
+Бог – Tanrı, Allah
+Богатый – Zengin
+Богатый ум – Zengin zihin
+Болельщики – Taraftarlar
+Болтливый – Geveze
+Боль – Ağrı
+Больница – Hastana
+Больной – Hasta 
+Больше – Fazla, Daha
+Большое чувство любовь – Büyük duygu aşk
+Большой – Büyük
+Борода – Sakal
 Борьба – Güreş
+Ботинки – Botlar, Ayakkabı
+Бочка – Fıçı
+Боюсь – Korkuyorum
+Бояться – Korkmak
+Браслет – Bilezik
+Брат – Kardeş
+Брелок – Anahtarlık
+Бритва – Tıraş bıçağı
+Бриться – Tıraş olmak
+Брось телефон на сиденье – Telefonu koltuğa at
+Брюки – Pantolonlar
 Брюнетка, брюнет – Esmer
+Бублик – Simit
+Будет стыдно – Utanılacak
+Будить – Uyanmak
+Будущий – Gelecek
+Буквы – Harfler
+Булочка – Çörek
+Бульон – Et suyu
+Бумага – Kâğıt
+Бутерброд – Sandviç
+Бутылка – Şişe
+Бухгалтер – Muhasebeci
+Бухгалтерия – Muhasebe
+Бывает – Oluyor
+Бык – Boğa
+Было – Vardı
+Быстрый – Hızlı
+Быть внимательным – Dikkat olmak
+Быть друзьями – Arkadaş olmak
+Бюстгалтер – Sütyen
+В другой жизни – Öbür dünyada
+В другой раз – Başka bir zaman
+В обратном направлении – Ters yönde
+В середине – Ortada
+В этом мире – Bu dünyada
+Ваза – Vazo
+Вампир – Вампир
+Ванна – Banyo, Küvet
+Вареный – Kaynamış
+Варенье – Reçel
+Вата – Pamuk
+Вафля – Gofret
+Ваш, ваше, ваша – Senin
+Вегетарианский – Vejetaryen
+Ведро – Kova
+Ведьма – Cadı
+Вежливый – Nazik, Terbiyeli
+Везу – Taşıyorum
 Век – Yüzyıl
+Веко – Gözkapağı
+Великолепный – Muhteşem
 Велосипед – Bisiklet
+Веник, метла – Süpürge
+Вера – İnanç
+Веранда – Veranda
+Веревка – İp
+Верить – İnanmak
+Вернуть – Geri vermek
+Верный – Güvenilir
+Вертикальный – Dikey
+Верующий – İmanlı, Dindar
+Верхний этаж – Üst kat
+Веселый – Eğlenceli
 Весна – Bahar
+Весь дом празднует - Bütün ev kutluyor
 Ветер – Rüzgâr
+Ветер дует – Rüzgar esiyor
+Ветренный – Rüzgarlı
+Вечер – Akşam
 Вечеринка – Parti
+Вешалка – Askı
+Вещество – Madde
 Вещь – Şey
+Взлет – Kalkış
+Взрослеть – Büyümek
+Взрослый – Yetişkin
+Вид на жительство – Oturma izni
+Видеть – Görmek
+Вижу – Görüyorum
+Виза – Vize
+Вилка – Çatal
+Вина – Suç
+Вино – Şarap
+Виноград – Üzüm
+Висеть – Asılmak
+Виски – Viski
+Висячий замок – Asma kilit
+Вишня – Vişne
+Вишу – Asıyorum
+Вклад – Katkı
+Включи свет – Işıkları aç
+Вкус – Tat, Tad
+Владелец – Sahip
+Влажность – Nem
+Власть – Iktidar
+Влюбленный – Aşık
+Вместе пойдем – Birlikte gidelim
+Внимание – Dikkat
+Внимательный – Dikkatli
+Внук – Erkek torun
+Внутренность – İçeri
+Внучка – Kız torun
+Вовремя – Zamanında
+Вода - Su 
+Водитель – Sürücü
+Водка – Votka
+Вождение автомобиля – Arabayı sürmek
+Возвращаться, возвращаюсь  – Dönme
+Возможный – Mümkün
 Вознаграждение – Mükafat
 Возраст – Yaş
+Возрастной – Yaş sınırı
+Возьми – Al
+Возьми у меня – Benden al
+Война – Savaş
 Вокзал – Gar
+Вокруг – Etrafında
 Волейбол – Voleybol
+Волк – Kurt
+Волна – Dalga
+Волноваться не нужно – Endişelenmeye gerek yok
+Волосы – Saç
+Волшебный – Sihirli
+Воображение – Hayal
 Вопрос – Soru
+Вор - Hırsız
+Ворона – Karga
 Ворота – Kapı
+Воскресенье – Pazar
+Воспитание - Terbiye
 Восток – Doğu
+Впереди – Önde
+Впереди большая жизнь - Önde büyük hayat
+Враг – Düşman
+Вратарь – Kaleci
+Врач – Doktor, hekimi
+Время – Zaman
+Время взлета – Kalkış saati
+Время прибытия – Varış saati
+Все – Bütün
+Все – Her şey
+Все – Herkes
+Все готово – Her şey hazır
+Все кончено – Bitti
+Все люди одинаковые - Bütün insanlar aynıdır
+Все о кухне – Mutfak hakkında her şey
+Все о человеке – İnsan hakkında her şey
+Все сказано – Her şey söylendi
+Все, весь – Tüm
+Всегда – Daima
+Всегда рад – Daima sevindim
+Вспотел - Terledim
+Вставать – Kalkmak
+Вставлять – Sokmak, takmak
+Встаю – Kalkıyorum
+Встретиться – Buluşmak
+Встречаюсь – Buluşuyom
+Вторник – Salı
 Вход – Giriş
 Вход бесплатный – Giriş ücretsız
 Вход воспрещен – Giriş yasak
 Вход платный – Giriş ücretili
+Вчера – Dün
+Вы – Siz
+Выбирать – Seçmek
+Выбираю – Seçiyom
+Выборы – Seçim
+Выбрасываю, бросаю – Atıyorum
+Выбросить – Atmak
+Выбросить мусор – Çöpü atmak
+Выгодный – Kârlı
+Выиграть – Kazanmak
+Выигрываю – Kazanıyorum
+Выключить – Kapamak
+Выпускник – Mezun
+Выражения – İfadeler
+Высокий человек – Uzun adam
+Высокое напряжение – YÜKSEK GERİLİM
+Вытри стол – Masayı sil
+Вытяжка – Havalandırma
 Выход – Çıkış
+Выходить – Çıkmak
+Выходные – Hafta sonu
+Газета – Gazete
+Газировка – Gazoz, Soda
+Газовая плита – Gaz sobası
+Галстук – Kravat 
 Гандбол – Hentbol
+Гарантия - Garanti
+Гардероб – Elbise dolabı
+Гарнир – Garnitür
+Где – Nerede
+Гид – Rehber
 Гимнастика – Jimnastik
+Гладильная доска – Ütü masası
+Глаза – Gözler
+Глаза опухли – Gözler şişti
+Глубокий – Derin
+Глупый – Akılsız
+Гнев – Öfke
+Говядина – Sığır eti
 Год – Yıl
+Голова – Kafa, Baş
+Голодный – Aç
+Голос – Ses
 Гонки – Yarışı
 Гора – Dağ
+Гордый – Gururlu
+Горизонтальный – Yatay
+Горло – Boğaz
 Город – Şehir
+Горчица – Hardal
+Горячий – Sıcak
+Госпожа – Bayan
+Гость – Konuk
+Готовить – Hazırlamak
+Готовлю – Hazırlıyorum
+Готовый – Hazır
 Град – Dolu
 Градус – Derece
 Гражданин – Uyruk
 Гражданство – Vatandaşlık
+Гранат – Nar
+Граница – Sınır
+Графин – Sürahi
+Грейпфрут – Greyfurt
+Гремит гром – Gök gürültüsü gürlüyor
+Грех – Günah, Sin
+Гречка – Karabuğday
+Грешить – Günah işlemek
+Грешник – Günahkâr
+Грибы – Mantarlar
+Грипп – Grip
+Громко – Yüksek sesle
+Грубый – Kaba
+Грудь – Göğüs
+Грузовая машина – Kamyon
+Группа крови – Kan grubu
+Грустный – Üzgün
 Грусть – Hüzün
+Груша – Armut
+Грязная посуда – Bulaşık
+Грязный – Kirli
+Грязь – Kir
+Губка – Sünger
+Губная помада – Ruj
+Губы – Dudaklar
+Гусь – Kaz
+Давай – Hadi
+Давать советы – Tavsiye vermek
+Дай – Ver
+Дай бог – Inşallah
+Дай мне – Ver bana
+Далекий – Uzak
+Дать, давать – Vermek
+Даю – Veriyorum
+Дверной глазок – Kapı gözü
+Дверной телефон – Kapı telefonu
+Дверные пороги – Kapı eşikleri
+Дверь – Kapı
+Двигаться – Hareket etmek
+Движение – Hareket
+Двор – Avlu
+Дворец – Saray
+Дедушка – Büyükbaba
+Декабрь – Aralık
+Дела закончены – İşler bitti
+Делать – Yapmak
+Делаю – Yapıyorum
+Делить – Bölmek
+Делиться – Paylaşmak
+Делю – Bölüyorum
 Демократия – Demokrasi
+День рождения – Doğum günü
 Деньги – Para
+Депутат – Milletvekili
 Деревня – Köy
+Дерево – Ağaç
+Деревянный – Ahşap
+Держать – Tutmak
+Держу – Tutuyorum
+Десерты – Tatlılar
 Детский сад – Anaokulu
+Дешевый – Ucuz
+Джинцы – Kot
+Диван – Kanepe
+Диета – Diyet
+Дикий – Vahşi
+Диплом – Diploma
+Директор – Müdür
+Длинный – Yüksek
+Для себя – Kendim için
+Днем – Gündüzleri
+Дни недели – Haftanın günleri
+До свидания – Hoşça kal
+Добавить – Eklemek
+Добавляю – Ekliyorum
+Добраться – Ulaşmak için
+Добро пожаловать – Hoş geldiniz
+Добрый – İyi
+Доверчивый – Güvenen
+Доверять – Güvenmek
+Доверяю – Güveniyorum
+Довольный – Memnun
+Договариваться – Anlaşmak
+Договорюсь – Anlaşma
+Дождевая труба – Yağmur borusu
+Дождь – Yağmur
 Дождь идет – Yağmur yağıyor
 Документы – Evraklar
+Долг – Borç
+Должен – Gereken, Meli
+Доля – Pay
+Дом – Ev
+Домашнее задание – Ev ödevi
+Домохозяйка – Ev hanımı
+Дополнительный – İlave
 Дорога – Yol
+Дорогая моя – Canım
+Дорогой – Pahalı
+Доска – Tahta
+Достаточно – Yeter
+Дочь – Kız
+Драться – Savaşmak
+Дрова – Odun
+Друг – Arkadaş
+Другие – Diğer
+Другие женщины противные – Diğer kadınlar iğrenç
+Другой – Başka
+Дуб – Meşe
 Дума – Meclis
+Думать – Düşünmek
+Думаю – Düşünüyorum
+Дурак – Aptal
+Дуть – Esmek
+Дух – Ruh
+Духи – Parfüm
+Душ – Duş
+Дую – Esiyom
+Дым – Duman
+Дыня – Kavun
+Дышать, дышу – Nefes almak
+Дядя – Amca
+Его, ее – Onun
+Еда – Yemek, Yiyecek (иеджек)
+Единственный – Tek olan
+Еду не ешь – Yemek yeme
+Ежедневный – Günlük
+Есть имеется – Var var
+Ешь – Ye
+Еще – Halâ
+Жадный – Açgözlü
+Жалеть – Acıma
+Жалею – Acımadır
+Жалоба – Şikayet
+Жаловаться – Şikâyet etmek
+Жалюзи – Jaluzi
+Жар, огонь – Ateş
 Жара – Sıcak
+Жаренная печень – Kızarmış karaciğer
+Жаренный ципленок – Piliç Kızarmış
+Жарить – Kızartmak
+Жарить на кухонной плите – Mutfak ocağında kızartın
+Жвачка – Sakız
+Жгу – Yakıyorum
+Ждать – Beklemek
+Жду – Bekliyorum
 Железная дорога – Demiryolu
 Железнодорожный вокзал – Tren istasyonu
 Железо – Demir
-Жетон – Jeton
-Закон – Yasa
-Зал ожидания – Bekleme salonu
-Занято – Meşgul
-Запад – Batı
-Защита – Defans
-Звезда – Yıldız
-Земля – Toprak, Zemin
-Зима – Kış 
-Игра – Oyun
-Избиратели – Seçmen
-Импорт – İthalat
-Инвестиции – Yatırım
-Информационное бюро – Danışma bürosu
-Истец – Davacı
-Калькулятор – Hesap makinesi
-Камера – Kamera
-Кафе – Kafe
-Кинотеатр – Sinema
-Класс – Sınıf
-Команда – Komut, Takım
-Компьютер – Bilgisayar
-Конверт – Zarf
-Корабль – Gemi
-Кубок – Kupa
-Курс – Kurs
-Лавка – Dükkân
-Лес – Orman
-Трава – Ot
-Листья – Yapraklar
-Дерево – Ağaç
-Новогодняя елка – Noel ağacı
-Лето – Yaz
-Лидер – Lider
-Лицей – Lise
-Луна – Ay
-Магазин – Market, Mağaza
-Матч – Maç
-Меню – Menü
-Месяц – Ay
-Метро – Metro
-Мечеть – Cami
-Министерство – Bakanlık
-Минута – Dakika
-Мир – Dünya
-В другой жизни – Öbür dünyada
-В этом мире – Bu dünyada
-На краю света – Dünyanın sonunda
-Молния – Şimşek, Yıldırım
-Мост – Köprü
-Музей – Müze
-Музыка – Müzik
-Мэрия – Belediye Baskanı
-Мяч – Top
-Надежда – Umut
-Направление – Yön
-Народ - Halk
-Настольный теннис – Pinpon, Masa tenisi, tenis
-Небо – Gökyüzü
-Неделя – Hafta
-Неправильно – Yanlış
-Новость – Haber
-Ночь – Gece
-Утро – Sabah
-Тьма – Karanlık
-Облако – Bulut
-Обслуживание – Servis
-Озеро – Göl
-Осень – Sonbahar
-Отдых – Tatil
-Отель – Otel 
-Офис – Ofis
-Пакет – Paket, Paşet
-Пароход, паром – Vapur, Feribot, Yolci gemisi
-Перекресток – Kavşak
-Песня – Şarkı
-Письмо – Mektup
-Площадь – Alan, Meydan
-Пляж – Plaj
-Погода – Hava
-Минус – Eksi
-Плюс – Artı
-Снаружи – Dışarısı
-На улице холодно – Dışarısı soğuk
-Поезд – Tren
-Поздно – Geç
-Порт – Liman
-Поселок – Kasaba
-Почта – Posta
-Почта – Postane
-Праздник – Bayram
-Прибыль – Kâr
-Убытки – Zararlar
-Проблема – Sorun, problem
-Проспект – Cadde
-Радость – Sevinç
-Размер – Boyut
-Рано – Erken
-Реакция – Reaksiyon, tepkı
-Река – Nehir
-Ресторан – Lokanta
-Родина – Vatan, Yurt
-Роза – Gül
-Самолет – Uçak
-Самолет, плоскость – Düzlem
-Север – Kuzey
-Семинар – Seminer
-Сервис – Servis
-Сказка – Masal
-Скидка – İndirim
-Снег – Kar
-Солнечно – Güneşli
-Солнце – Güneş
-Солнце светит – Güneş parlıyor
-Соревнования – Yarış
-Справочная, консультация – Danişma
-Столица – Başkent
-Страна – Ülke
-Счет – Hesap, TЛасasarı
-Сюрприз – Sürpriz
-Такси – Taksi
-Таможня – Gümrük
-Театр – Tiyatro
-Телефон – Telefon
-Связь – Bağlantı
-Интернет – İnternet
-Спутниковая антенна – Uydu anteni
-Кабель – Kablo
-Провод – Tel
-Товар – Mal
-Тоска – Özlem
-Трамвай – Tramvay
-Туман – Sis
-Тучи – Bulutlar
-Удача – Şans
-Улица – Sokak
-Улыбка – Gülümseme
-Университет – Üniversite
-Фабрика – Fabrika
-Факультет – Fakülte
-Фирма –Şirket
-Футбольный матч – Futbol maçı 
-Хранение – Muhafaza
-Цена – Fiyat
-Центр – Merkez
-Центр города – Şehir merkezi
-Церковь – Kilise
-Чаевые – Bahşiş
-Час – Saat
-Чувство – Duygu
-Большое чувство любовь – Büyük duygu aşk
-Шатенка, шатен – Kumral
-Шелк – İpek
-Школа – Okul
-Шторм – Fırtına
-Шутка – Şaka
-Экспорт – İhracat
-Электронная почта – E-posta
-Юг – Güney
-Яхта – Yat
-
-Семья
-Бабушка –  Nine
-Брат – Kardeş
-Внук – Erkek torun
-Внучка – Kız torun
-Госпожа – Bayan
-Гость – Konuk
-Дедушка – Büyükbaba
-День рождения – Doğum günü
-Домохозяйка – Ev hanımı
-Дочь – Kız
-Друг – Arkadaş
-Дядя – Amca
+Желтый – Sarı
+Желудок – Mide
 Жена – Karısı, Eş
+Женатый – Evli
+Женись – Evlen
+Жениться – Evlenmek
 Жених, зять – Damat
-Замужество – Evlılık
-Имя – Ad
-Кузен – Kuzen
-Люди – İnsanlar
-Мальчик – Oğlan
-Мама – Anne
-Место рождения – Doğum yeri
-Муж – Koca
-Мужчина – Erkek
-Невестка – Gelin
-Папа – Baba
-Родители – Ebeveyn
-Родственник – Akraba
-Семья – Aile
-Сосед – Komşu
-Сын – Oğul
-Тесть – Kayınpeder
-Тетя – Teyze
-Теща – Kayınvalide
-Фамилия – Soyadı
-Холостяк – Bekâr 
-Хочу пить – İçmek istiyorum
-
-Цифры
-0 – sıfır 
-1 - bir [бир]
-2 - iki [ики]
-3 - üç [юч]
-4 - dört [дёрт]
-5 - beş [беш]
-6 - altı [алты]
-7 - yedi [йеди]
-8 - sekiz [секиз]
-9 - dokuz [докуз]
-10 - on [он]
-20 - yirmi [йирми]
-30 - otuz [отуз]
-40 - kırk [кырк]
-50 - elli [элли]
-60 - altmış [алтмыш]
-70 - yetmiş [йетмиш]
-80 - seksen [сексен]
-90 - doksan [докузан]
-100 - yüz [йюз]
-1000 - bin [бин]
-1000000 – bir milyon
-
-Глаголы
-Арестовать – Tutuklamak
-Арестант – Tutuklu
-Преследовать – Takip etmek
-Преследование – Takip
-Перестань меня преследовать - Beni takip etmeyi bırak
-Продолжать – Devam etmek
-Продолжение – Devam
-Продолжай говорить на турецком – Türkçe konuşmaya devam et
-Приглашать – Davet etmek
-Приглашение – Davet
-Приглашать друзей - Arkadaşlarını davet et
-Предполагать, прогнозировать – Tahmin etmek
-Предположение – Tahmin
-Прогноз погоды – Hava durumunu tahmin et
-Держать – Tutmak
-Держу – Tutuyorum
-Не держи – Sakın tutma
-Бегать – Koşmak
-Бегаю – Koşuyorum
-Продавать – Satmak
+Женщина – Kadın, Bayan
+Жертва – Kurban
+Жест – Jest
+Жетон – Jeton
+Жечь – Yakmak
+Живой – Canlı
+Живот – Karın
+Животное – Hayvan
+Живу – Yaşıyorum
+Жидкость – Sıvı
+Жизнь – Hayat
+Жилет – Yelek
+Жилье – Konut
+Жить – Yaşamak
+Журнал – Dergi
+Журналист – Muhabir
+Журнальный столик – Sehpa
+Забить гол – Gol atmak
+Забор – Çit
 Забывать – Unutmak
 Забываю – Unutuyom
 Забыл – Unutuyordu
-
-Продаю – Satıyorum
-Боюсь – Korkuyorum
-Бояться – Korkmak
-Бриться – Tıraş olmak
-Вера – İnanç
-Верить – İnanmak
-Молитва – Dua
-Верующий – İmanlı, Dindar
-Грешить – Günah işlemek
-Грех – Günah
-Ангел – Melek
-Опаздывать – Gecikmek 
-Опаздываю – Gecikiyom
-Безгрешный ангел – Günahsız melek
-Взрослеть – Büyümek
-Смотреть – İzlemek
-Смотрю – İzliyorum
-Показать – Göstermek 
-Показываю – Gösteriyorum
-Видеть – Görmek
-Вижу – Görüyorum
-Посмотри – Baksana
-Висеть – Asılmak
-Вишу – Asıyorum
-Вешалка – Askı
-Возвращаться, возвращаюсь  – Dönme
-Встретиться – Buluşmak
-Встречаюсь – Buluşuyom
-Выбирать – Seçmek
-Выбираю – Seçiyom
-Выборы – Seçim
-Выиграть – Kazanmak
-Выигрываю – Kazanıyorum
-Играть – Oynamak
-Играю – Oynuyorum
-Готовить – Hazırlamak
-Готовлю – Hazırlıyorum
-Печь в духовке – Fırında pişirme 
-Жарить на кухонной плите – Mutfak ocağında kızartın
-Жарить – Kızartmak
-Дай – Ver
-Дать, давать – Vermek
-Даю – Veriyorum
-Двигаться – Hareket etmek
-Движение – Hareket
-Делать – Yapmak
-Делаю – Yapıyorum
-Лить, наливать – Dökmek
-Разливаю, наливаю – Döküyom
-Добавить – Eklemek
-Добавляю – Ekliyorum
-Наполнять – Doldurmak
-Наполняю – Dolduruyorum
-Доверять – Güvenmek
-Доверяю – Güveniyorum
-Должен – Gereken, Meli
-Долг – Borç
-Думать – Düşünmek
-Думаю – Düşünüyorum
-Дуть – Esmek
-Дую – Esiyom
-Дышать, дышу – Nefes almak
-Есть имеется – Var var
-Жалеть – Acıma
-Жалею – Acımadır
-Обида – Acı, Suç
-Вина – Suç
-Обвинять – Suçlamak
-Обижаться – Alınmak
-Не обижайся – Alınma
-Не обижай – Gücenme
-Жаловаться – Şikâyet etmek
-Ждать – Beklemek
-Жду – Bekliyorum
-Подожди – Bekle, Bekle
-Провожать – Uğurlamak (уурламак)
-Провожаю – Uğurluyorum
-Лежать – Yatmak
-Лежу – Yatıyorum
-Женись – Evlen
-Жениться – Evlenmek
-Живу – Yaşıyorum
-Жить – Yaşamak
-Забить гол – Gol atmak
+Завтра – Yarın
+Завтрак – Kahvaltı
+Загадочный – Esrarengiz
+Загорается – Yanar
+Загорать – Bronzlaşmak
+Загорелый – Bronzlaşmış
+Задний – Arka
+Задница – Kıç
+Задумчивый – Dalgın, Düşünceli
 Задушить, утонуть – Boğmak
 Задушу – Boğuyorum
+Зажигалка – Çakmak 
 Заказ – Sipariş
 Заказать – Sipariş vermek
+Закон – Yasa
+Законный – Yasal
 Закончить – Bitirmek
 Закрывать – Kapatmak
 Закрываю – Kapatıyorum
 Закрыто – Kapalı
+Закрытый – Kapalı
+Закрыть – Kapat
+Закуски – Mezeler
+Зал – Salon
+Зал ожидания – Bekleme salonu
+Замерзать – Buz tutmak
+Замок – Kilit
+Замочная скважина – Anahtar deliği
+Замужество – Evlılık
+Занимать –Borç almak
+Занято – Meşgul
+Запад – Batı
+Запах – Koku
+Запретить – Yasaklamak
+Запрещаю – Yasaklıyorum
+Запутаться – Karışmak
+Запястье – Bilek
+Засуха – Kuraklık
+Заходить – Girmek, Uğramak
+Захожу – Uğruyorum
+Зачетная книжка – Karne
+Защита – Defans
 Защищать – Korumak, Savunmak
 Защищаю – Koruyorum
 Звать – Çağırmak
-Знать – Bilmek
+Звезда – Yıldız
+Звонок – Zil
+Здание – Bina
+Здесь – Burada
+Здоровье – Sağlık
+Зевать – Esnemek
+Зеленый – Yeşil
+Зеленый горошек – Bezelye
+Земледелец – Çiftçi
+Землетрясение – Deprem
+Земля – Toprak, Zemin
+Зеркало – Ayna
+Зима – Kış 
+Зло, плохой – Kötü
+Злой – Ters, Kötü kalpli
+Змея – Yılan
 Знаешь – Biliyorsun 
+Знаменитый – Ünlü
+Знать – Bilmek
+Значение – Değer
+Значение индикатора – Gösterge değeri
 Знаю – Biliyorum
+Золотистый – Altın
+Зонтик – Şemsiye
+Зрители – Seyirci
+Зубная паста – Diş macunu
+Зубная щетка – Diş fırçası
+Зубочистка – Kürdan
+Зубы – Dişler
+Зять – Damat
+И – Ve
+Игла – İğne
+Игра – Oyun
+Играть – Oynamak
+Играю – Oynuyorum
+Игрушка – Oyuncak
+Идет град – Dolu yağıyor
+Избиратели – Seçmen
+Извини – Affedersin
+Извинись – Özür dile
+Икра – Havyar
+Или – Veya
 Иметь – Sahip olmak, Olmak
+Иметь в виду – Akılda tutmak
 Имею – Oluyorum
+Импорт – İthalat
+Имя – Ad
+Инвестиции – Yatırım
+Индейка – Hindi
+Инженер – Mühendis
+Иногда – Bazen
+Иностранец – Yabancı
+Инструмент – Araç
+Интересно – İlginç
+Интернет – İnternet
+Интимный – Samimi
+Инфляция – Enflasyon
+Информационное бюро – Danışma bürosu
+Информировать – Bilgi vermek
+Искать, позвонить – Aramak
+Искусственный – Suni
+Искусство – Sanat
 Использовать – Kullanmak
 Использую – Kullanıyorum
 Испортить – Bozmak, Hasar vermek
-Курить – Sigara içmek
-Кушать – Yemek
-Ешь – Ye
-
-Летать – Uçmak
-Лечить – Tedavi etmek
-Ломать – Kırmak
-Ломаю – Kırıyorum
-Любить – Sevmek
-Люблю – Seviyorum
-Радоваться – Sevinmek
-Радуюсь – Seviniyorum
-Мою, стираю – Yıkıyorum (йыкыорум)
-Мыть стирать – Yıkamak (йыкамак)
-Помой – Yıka (йика)
-Надеюсь – Umuyorum
-Надеяться – Ummak
-Напоминать – Hatırlatmak
-Напоминаю – Hatırlatıyorum
-Память – Hatır, Bellek
-Найти– Bulun
-Нахожу – Buluyorum
-Ненавидеть – Nefret etmek
-Нет – Yok
-Носить, везти – Taşima
-Везу – Taşıyorum
-Отвезти – Götüreyim
-Отвез – Götürdüm
-Принести – Getirmek
-Приношу – Getiriyorum
-Нравиться – Hoşlanmak
-Нуждаться – Ihtiyaç duymak
-Обнимать – Kucaklamak
-Обними меня – Sarıl
-Оставаться – Kalmak
-Остаюсь – Kalıyorum
-Оставь – Bırak
-Отвечать – Yanıtlamak
-Отвечаю – Yanıtlıyorum
-Писать – Yazmak
-Пишу – Yazıyorum
-Плавать – Yüzmek
-Плыву – Yüzüyorum
-Отрастить, распространяться – Uzamak
-Отращиваю, продлеваю – Uzatıyorum
-Плакать – Ağlamak
-Погибли – Öldük
-Покупать, брать, получать – Almak
-Покупаю, беру, получаю – Alıyorum
-Возьми – Al
-Помогать – Yardım etmek
-Помогать, помогаю – Yardımcı olmak
-Помощь – Yardım
-Посылаю – Gönderiyorum
-Посылать – Göndermek
-Отправь – Gönder
-Походить – Benzemek
-Похож – Benzer
-Приказ – Emir
-Приказывать – Emreymek
-Принеси – Getir şunu
-Приносить – Getirmek
-Принимать решение – Karar vermek
-Решенный – Kararlı
-Решение – Çözüm
-Принять - kabul etmek
-Приходить, приезжать, прийти – Gelmek
-Прихожу, иду – Geliyorum
-Ходить – Yürümek
-Уходить, идти, ехать, ездить – Gitmek
-Я ухожу – Birakıyorum
-Я остаюсь – Ben kalıyorum
-Оставлять - Bırakmak
-Пройти – Geçmek
-Ухожу, езжу – Gidiyorum
-Добраться – Ulaşmak için
-Заходить – Girmek, Uğramak
-Захожу – Uğruyorum
-Пробовать – Tatmak, Denemek
-Просить – Rica etmek
-Путешествовать – Seyahat etmek
-Мечта – Rüya
-Пить – İçmek 
-Пью – İçiyom
-Работать – Çalışmak
-Работаю – Çalışıyorumı
-Менять – Değiştirmek
-Меняю – Değiştiriyorum
-Развивать – Geliştirmek
-Развиваю – Geliştiriyorum
-Развивать мускулатуру – Kasları geliştirmek
-Развивать ум – Zihni geliştirmek
-У меня острый ум – Bende keskin zihin
+Исправил – Düzelttim
 Исследовать – Araştırmak
 Исследую – Araştırıyorum
-Разговаривать – Konuşmak
-Разговариваю – Konuşuyom
-Понимать – Anlamak
-Понимаю – Anlıyorum
-Не понимаю – Anlamıyorum
-Договариваться – Anlaşmak
-Договорюсь – Anlaşma
-Различать, разделять – Ayırmak
-Разделяю – Ayırıyorum
-Расставаться – Ayrılmak (айрылмак)
-Расстаюсь – Ayrılıyorum (айрылыорум)
-Искать, позвонить – Aramak
-Найти – Bul
+Истец – Davacı
+Источник – Kaynak
+Их – Onlarin
 Ищу – Arıyorum
-Выбросить – Atmak
-Выбрасываю, бросаю – Atıyorum
-Выбросить мусор – Çöpü atmak
-Разрешаю – İzin vermek
-Разрешить- İzin ver
-Реагировать - Tepki göstermek
-Режу – Kesiyom
-Резать – Kesmek
-Делить – Bölmek
-Делю – Bölüyorum
-Рисовать – Çizmek
-Рисую – Çiziyorum
-Родился – Doğuyordu
-Родиться – Doğmak
-Садись – Otur
-Сажусь – Oturuyorum
-Сидеть – Oturmak
-Скажу – Söylüyorum
-Сказать – Söylemek, Demek
-Петь, пою – Şarkı söylemek
-Скучать – Özlemek
-Скучаю – Özlüyorum
-Тоска – Özlem
-Сломалось – Kırılıyordu
-Не работает – Çalışmıyor, Bozuk 
-Слушать – Dinlemek
-Слушаю – Dinliyorum
-Шить – Dikmek
-Шью – Dikiyom
-Отдыхать – Dinlenmek
-Отдыхаю – Dinliyorum
-Слышать – Duymak
-Слышу – Duyuyorum
-Смеяться – Gülmek
-Смеюсь – Gülüyorum
-Смогу, у меня получается – Başarıyorum
+Июль – Temmuz
+Июнь – Haziran
+Йогурт - Yoğurt  
+К сожалению –Maalesef
+Кабель – Kablo
+Кабина лифта – Asansör kabini
+Каждый – Her
+Каждый день – Her gün
+Каждый день я опаздываю на работу – Her gün işe geç kalıyorum           
+Как – Olarak, Nasıl
+Как называется – Adı ne
+Какой, который – Hangi
+Калькулятор – Hesap makinesi
+Кальмар – Kalamar
+Камера – Kamera
+Камин – Şömine	
+Канал – kanal
+Капать – Damlamak
+Капитан – Kaptan
+Капля – Damla
+Капуста – Lahana
+Карандаш – Kalem
+Карандаш для глаз – Göz kalemi
+Карта – Harita
+Картина – Resim
+Картофель – Patates
+Картофель фри - Patates kızartması
+Касса – Kasa
+Кассета – Kaset
+Кастрюля – Tencere
+Катание на коньках – Paten kaymak
+Кафе – Kafe
+Кафель – Fayans
+Качели – Salıncak
+Качество – Kalite
+Каша – Püresi
+Кашель- Öksürük
+Каюта – Kamara
+Квадратный – Kare
+Квартира – Daire
+Килограмм – Kilo
+Кинотеатр – Sinema
+Кипяченный чай – Kaynamış çay
+Кирпич – Tuğla
+Класс – Sınıf
+Климат – İklim
+Ключ – Anahtar
+Книжный шкаф – Kitaplık
+Ковер – Halı
+Ковш – Kepçe
+Когда – Ne zaman
+Код – Kod
+Кодовый замок – Şifreli kilit
+Кожа – Deri
+Колбаса – Sosis, Salam
+Колготки – Külotlu çorap
+Колесо - Tekerlek
+Колодец – Kuyu
+Колокол – Çan
+Колокольня – Çan Kulesi
+Кольцо – Halka
+Команда – Komut, Takım
+Комбинезон – Tulum
+Коммунальные платежи где платить – Faturalar nerede ödenecek
+Комната – Oda
+Комод – Konsol, Şıfonyer
+Компьютер – Bilgisayar
+Конверт – Zarf
+Кондиционер – Klima
+Консервы – Konserve
+Конфета – Şekerleme
+Коньяк – Konyak
+Копченый – Füme
+Корабль – Gemi
+Коран – Kuran
+Коридор – Koridor
+Коричневый – Kahverengi
+Кормить – Beslemek
+Коробка – Kutu
+Корова – İnek
+Король – Kral
+Короткий – Kısa
+Короткое замыкание – Kontak
+Кости – Kemikler
+Костюм – Kostüm
+Котел - Kazan
+Котлета – Köfte
+Котлета – Pirzola
+Кофеварка – Kahve makinesi
+Кофейник – Cezve
+Кофемолка – Kahve değirmeni
+Кофта – Kazak
+Кошка – Kedi
+Кошмар – Kâbus (кьябус)
+Краб – Yengeç
+Край – Kenar
+Кран – Musluk
+Красивый – Güzel
+Красивый (для мужчины) – Yakışıklı adam
+Красить – Boyamak
+Краска – Boya
+Краска для волос – Saç boyası
+Красный – Kırmızı, kızıl
+Кредитная карта – Kredi kartı
+Крем – Krem
+Крем для рук – El kremi
+Крепость – Kale
+Кресло – Koltuk
+Крест – Haç
+Кривая – Eğri
+Кризис – Kriz
+Кричать – Bağırmak
+Кровать – Karyola (карйола)
+Кровать – Yatak
+Кровь – Kan
+Кровяное давление – Tansiyon
+Кролик – Tavşan
+Кроме – Hariç, Dışında
+Кроссовки – Spor ayakkabı
+Круглый – Yuvarlak
+Крыло – Kanat
+Крыша – Çatı, Dam
+Крышка – Kapak
+Кто – Kim
+Кубок – Kupa
+Куда – Nereye
+Кузен – Kuzen
+Кукуруза – Mısır
+Купальник – Mayo, Bikini
+Курить – Sigara içmek
+Курс – Kurs
+Куртка – Ceket
+Кусок льда – Buz parçası
+Кухня – Mutfak
+Кушать – Yemek
+Лавка – Dükkân
+Ладно – Tamam
+Лай собаки – Köpek havlaması
+Лак для ногтей – Oje
+Лампа – Lamba
+Лапша - Erişte
+Лев – Aslan
+Левый – Sol
+Легкие – Akciğer
+Легкий – Kolay, Hafif
+Лежать – Yatmak
+Лежу – Yatıyorum
+Лезвие – Jilet 
+Лекарство – İlaç
+Ленивый – Tembel
+Лес – Orman
+Лестница – Merdiven
+Летать – Uçmak
+Лето – Yaz
+Лечение – Tedavi 
+Лечить – Tedavi etmek
+Ливень – Sağanak
+Лидер – Lider
+Ликер – Likör
+Лимонад – Limonata
+Линейка – Cetvel
+Линии электропередач – Elektrik hatları
+Лиса – Tilki
+Листья – Yapraklar
+Лить, наливать – Dökmek
+Лифт – Asansör
+Лицей – Lise
+Лицо – Yüz, Kişi
+Личность – Kişilik
+Ложка – Kaşık
+Локоть – Dirsek
+Ломать – Kırmak
+Ломаю – Kırıyorum
+Лошадь – At
+Лук - Soğan 
+Луна – Ay
+Луч – Işın
+Лучше – En iyi
+Лыжник – Kayakçı
+Любитель – Amatör
+Любить – Sevmek
+Люблю – Seviyorum
+Любой – Herhangi
+Люди – İnsanlar
+Люстра – Avize
+Лягушка – Kurbağa
+Магазин – Market, Mağaza
+Магнитофон – Teyp
+Май – Mayıs
+Майка – Atlet
+Майонез – Mayonez
+Макароны - Makarna
+Максимальный – En yüksek
+Максимум – Maksimum
+Маленькая бутылка – Küçük şişe
+Маленький – Küçük
+Малина – Ahududu
+Мало – Az
+Мальчик – Oğlan
+Мама – Anne
+Мандарин – Mandalina
+Манная каша – İrmik lapası
+Маргарин - Margarin
+Марка – Marka
+Мармелад – Marmelat
+Март – Mart
+Масло - Yağ 
+Масло сливочное - Tereyağlı tereyağı  
+Материал – Malzeme
+Матрас – Şilte
+Матч – Maç
+Мебель – Mobilya
+Мед - Bal
+Медведь – Ayı
+Медленный – Yavaş
+Медсестра – Hemşire
+Между – Araşında
+Международный – Uluslararası
+Меньше – Daha az
+Меню – Menü
+Менять – Değiştirmek
+Меняю – Değiştiriyorum
+Мер – Belediye Başkanı
+Место рождения – Doğum yeri
+Место, полы – Yer
+Местонахождение – Mevki
+Месяц – Ay
+Месяца – Ayın
+Метель – Kar fırtınası
+Метро – Metro
+Мех – Kürk
+Мечеть – Cami
+Мечта – Rüya
+Мешок – Torba
+Микроволновая печь – Mikrodalga fırın
+Микрофон – Mikrofon
+Миксер – Mikser
+Милый – Sevimli
+Минеральная вода – Maden suyu
+Минимум – Minimum
+Министерство – Bakanlık
+Министр – Bakan
+Минус – Eksi
+Минута – Dakika
+Мир – Dünya
+Мираж – Serap
+Младший – En küçük
+Мне трудно говорить – Benim için konuşmak zor 
+Мнение – Görüş
+Многие – Birçok
+Много – Çok
+Многолюдный – Kalabalık
+Модель – Model
+Может быть – Belki mi
+Мозг – Beyin
+Мой, моя, мое – Benim
+Мокрый – Islak
+Молитва – Dua
+Молния – Şimşek, Yıldırım
+Молодой – Genç
+Молоко - Süt 
+Моляр – Boyacı
+Монахиня – Rahibe
+Морепродукты – Deniz ürünleri
+Морковь – Havuç
+Мороженое - Dondurma 
+Мороз – Ayaz, donlar
+Морозильная камера –Derin dondurucu
+Морозный – Ayazlı
+Мост – Köprü
+Мою, стираю – Yıkıyorum (йыкыорум)
+Муж – Koca
+Мужчина – Erkek
+Музей – Müze
+Музыка – Müzik
+Музыкант – Müzisyen
+Мука – Un
+Мулла – Molla
+Мускулистый – Kaslı
+Мусор – Çöp
+Мусульманин – Müslüman
+Муха – Sinek
+Мы – Biz
+Мыло – Sabun
+Мыльница – Sabunluk
+Мыть стирать – Yıkamak (йыкамак)
+Мышца – Kas
+Мышцы – Kaslar
+Мышь – Fare
+Мэрия – Belediye Baskanı
+Мягкий – Yumuşak
+Мясная лавка – Kasap dükkanı
+Мясник – Kasap
+Мясорубка – Kıyma makinesi
+Мята – Nane
+Мяч – Top
+На здоровье – Şerefe
+На краю света – Dünyanın sonunda
+На прошлой неделе – Geçen hafta
+На следующей неделе – Gelecek hafta
+На улице холодно – Dışarısı soğuk
+Наволочка – Yastık kılıfı
+Нагреть – Isıtmak
+Над – Üzerinde
+Надежда – Umut
+Надеюсь – Umuyorum
+Надеяться – Ummak
+Надоесть –Bıkmak
+Надуй шарик – Balony şişir
+Нажать – Basmak
+Название – Ad
+Называть – Adlandırmak
+Найти – Bul, Bulun 
+Наладил – Ayarladım (аярладым)
+Налей сразу - Hemen dökün
+Наличные деньги – Nakit para
+Нам, наша, наше – Bizim
+Наполнять – Doldurmak
+Наполняю – Dolduruyorum
+Напоминать – Hatırlatmak
+Напоминаю – Hatırlatıyorum
+Направление – Yön
+Народ - Halk
+Нарушение – İhlal
+Настенная вешалка – Duvar askısı
+Настольная лампа – Masa lambası
+Настольный теннис – Pinpon, Masa tenisi, tenis
+Настроение – Keyif, Ruh hali
+Натуральный – Doğal
+Наушник – Kulaklık
+Нахожу – Buluyorum
+Национальный – Milli
+Начать – Başlamak
+Не – Değil
+Не держи – Sakın tutma
+Не зевай – Esneme
 Не могу – Yapamam
-Я согласен – Ediyorum
-Снять – Çıkarmak
-Снимаю – Çıkarıyorum
-Сними – Çıkar şunu
+Не обижай – Gücenme
+Не обижайся – Alınma
+Не понимаю – Anlamıyorum
+Не приходить – Gelmemek
+Не работает – Çalışmıyor, Bozuk 
+Не свежий – Taze değil, Bayat
+Не сложно – Zor olmayan
+Не смей – Sakın
+Не стучись в дверь – Kapıyı çalma
+Не толкай – Zorlama
+Небезопасный – Güvensiz
+Небо – Gökyüzü
+Невестка – Gelin
+Невинный – Suçsuz
+Невкусный – Tatsız
+Невнимательный, неосторожный  – Dikkatsiz
+Невоспитанный – Terbiyesiz
+Неделя – Hafta
+Недовольные – Memnun olmayan
+Незабываемый – Unutulmaz
+Незаконный – Yasadışı, Kanunsuz
+Незамерзающая жидкость – Donmayan sıvı
+Ненавидеть – Nefret etmek
+Необходимый – Lazım (лязым)
+Неподвижный – Hareketsiz
+Непонятное вещество – Anlaşılmaz madde
+Неправильно – Yanlış
+Неприятный – Sevimsiz
+Нервный – Sinirli
+Несправедливый – Haksız
+Нет – Yok
+Неудачный – Başarısız, Şansız
+Нижний этаж – Alt kat
+Низкий – Düşük
+Никогда не говори никогда - Asla asla deme
+Никому – Kimseye
+Никто – Kimse
+Нить – İplik
+Но – Ama
+Новогодняя елка – Noel ağacı
+Новости – Haber
+Новый – Yeni
+Нога – Ayak
+Ногти – Tırnaklar
+Ноет – Sızlı
+Нож – Bıçak
+Ножницы – Makas
+Номер – Numara
+Нормальный – Normal
+Нос – Burun
+Носить, везти – Taşima
+Носовой платок – Mendil
+Носок – Çorap
+Нотариус – Noter
+Ночной клуб – Gece kulübü
+Ночь – Gece
+Ноябрь – Kasım
+Нрав, характер – Karakter, Huy
+Нравиться – Hoşlanmak
+Нужда – İhtiyaç
+Нуждаться – Ihtiyaç duymak
+Нужный, необходимый – Gerekli
+О чем думаешь – Ne hakkında düşünüyorsun
+Обвинять – Suçlamak
+Обед – Yemek
+Обезьяна – Maymun
+Обида – Acı, Suç
+Обижаться – Alınmak
+Обижаться – Alınmak
+Облако – Bulut
+Обмануть – Aldatmak
+Обнимать – Kucaklamak
+Обними меня – Sarıl
+Обогреватель – Kalorifer
+Обои – Duvar kağıdı
+Обратно – Geri
+Обслуживание – Servis
+Общие слова –  Ortak kelimeler
+Общий – Genel
+Объявлять – Anons etmek
+Объясни – Açıkla
+Объяснять – Açıklamak
+Обычный – Sıradan
+Овес – Yulaf
+Овощи – Sebze
+Овсяная каша – Yulaf lâpası
+Ограбить – Soymak
+Огурец - Salatalık 
 Одевать – Giydirmek
 Одеваю – Giydiriyorum
 Одень – Giydir
+Одинаковые брюки - Aynı pantolonlar
+Одинокий – Yalnız
+Озеро – Göl
+Октябрь – Ekim
+Оливковое масло – Zeytinyağı
+Он, она, оно – O
+Они – Onlar
+Опаздывать – Gecikmek 
+Опаздываю – Gecikiyom
+Опасный – Tehlikeli
+Опасный техник – Tehlikeli teknisyen
+Опозорился – Rezil oldum
+Оптовый – Toptan
+Оранжевый – Turuncu
+Орех - Ceviz
+Оригинальный – Orijinal
+Освобождать – Boşaltmak
+Осел – Eşek
+Осень – Sonbahar
+Основной – Ana
+Основные блюда – Ana yemekler
+Оставаться – Kalmak
+Оставить – Bırakmak
+Оставляю – Bırakıyorum
+Оставь – Bırak
+Остановка – Durak
+Остаюсь – Kalıyorum
+Острый – Keskin
+Осьминог – Ahtapot
+Отвез – Götürdüm
+Отвезти – Götüreyim
+Отвечать – Yanıtlamak
+Отвечаю – Yanıtlıyorum
+Отдал – Verdim
+Отдых – Tatil
+Отдыхать – Dinlenmek
+Отдыхаю – Dinliyorum
+Отель – Otel 
+Открывашка – Açacak
+Открытка – Kartpostal
+Открытый – Açık
+Открыть – Açmak
+Отлично – Mükemmel, Yolunda
+Отложить – Ertelemek
+Отойди – Geri Çekil
+Отправь – Gönder
+Отрастить, распространяться – Uzamak
+Отращиваю, продлеваю – Uzatıyorum
+Офис – Ofis
+Охранная сигнализация – Hırsız alarmı
+Очки – Gözlük
+Пакет – Paket, Paşet
+Пальто – Palto, Kat
+Пальцы – Parmaklar
+Память – Hatır, Bellek
+Папа – Baba
+Пароль – Parola
+Пароход, паром – Vapur, Feribot, Yolci gemisi
+Пахлава – Baklava
+Пена для бритья – Tıraş köpüğü
+Перегреться – Isınmak
+Перед – Önce
+Перекресток – Kavşak
+Перестань меня преследовать - Beni takip etmeyi bırak
+Перец - Biber 
+Перечница – Biberlik
+Перила – Korkuluk
+Перчатки – Eldiven
+Перчить – Biberlemek
+Песня – Şarkı
+Песок – Kum
+Петля – Menteşe
+Петух – Horoz
+Петь, пою – Şarkı söylemek
+Печень – Karaciğer
+Печенье – Bisküvi, kurabıeler
+Печь – Fırın
+Печь в духовке – Fırında pişirme 
+Пиво – Bira
+Пироги – Turta
+Пирожок – Börek
+Писать – Yazmak
+Письмо – Mektup
+Пить – İçmek 
+Питьевая вода – Içme suyu
+Пиццерия – Pizzacı
+Пишу – Yazıyorum
+Пишущая машинка – Daktilo
+Пища – Gıda
+Пищевые продукты – Gıda ürünleri
+Плавать – Yüzmek
+Плакать – Ağlamak
+План – Plan
+Пластиковый – Plastik
+Платить – Ödemek
+Платье – Elbise
+Плечо – Omuz
+Плоский – Düz
+Плохой – Kötü
+Площадь – Alan, Meydan
+Плыву – Yüzüyorum
+Плюнул - Tükürdum
+Плюс – Artı
+Пляж – Plaj
+Побелка – Badana
+Погибли – Öldük
+Погода – Hava
+Погода ниже нуля – Hava sıfırın altında
+Погода холодная – Hava soğuk
+Погреб – Mahzen
+Под – Altına
+Под водой – Su altı
+Подарок – Hediye
+Подвал –Bodrum
+Поддельный – Sahte
+Подземный переход – Yeraltı geçidi
+Подключение – Bağlanmak (связать – bağlamak)
+Подметать – Süpürmek
+Подними – Kaldır şunu.
+Поднос – Tepsi
+Поднять – Kaldırmak
+Поднять карандаш – Kalemi kaldır
+Подожди – Bekle, Bekle
+Подоконник – Pencere kenarı 
+Подписаться – Abone olmak
+Подсвечник – Mumluk
+Подсолнечное масло – Ayçiçeği yağı
+Подушка - Yastık
+Поезд – Tren
+Поездка в Турцию – Türkiye bınmek
+Поездка на лифте – Asansöre binmek
+Пожалуйста – Lütfen
+Пожилой – Yaşlı
+Позволь мне обнять тебя – Bırak sana sarılmama izin ver
+Поздно – Geç
+Позже, потом – Sonra
+Пойдем – Hadi gidelim
+Пойдем у выходу – Çıkışa gidelim
+Пока нет – henüz (değil)
+Показать – Göstermek 
+Показываю – Gösteriyorum
+Покупать, брать, получать – Almak
+Покупаю, беру, получаю – Alıyorum
+Полицейский – Polis
+Полка – Rafı
+Полный – Tam
+Половик – Paspas
+Половина – Yarım
+Половину чая налей – Çayın yarısını dökün
+Положи сумку в машину – Çantayı arabaya birak (koy)
+Положить – Koymak
+Положу – Koyacağım
+Полотенце – Havlu
+Помидор - Domates 
+Помогать – Yardım etmek
+Помогать, помогаю – Yardımcı olmak
+Помоги – Yardım et
+Помой – Yıka (йика)
+Помой чашку - Bardağı yıka
+Помощь – Yardım
+Понедельник – Pazartesi
+Понимать – Anlamak
+Понимаю – Anlıyorum
+Понос – İshal
+                Понял – Anlaşıldı
+Попробовать – Denemek
+Попробовать – Denemek
+Попугай – Papağan
+Порт – Liman
+Портной – Terzi
+Поселок – Kasaba
+После обеда – Öğleden sonra
+Последний – En son
+Последний, прошлый – Son
+Посмотри – Baksana
+Посмотри на это – Şuna bak
+Постоянно – Sürekli
+Постучись в дверь – Kapıyı çal
+Посуда – Kap
+Посудомоечная машина – Bulaşık makinesi
+Посылать – Göndermek
+Посылаю – Gönderiyorum
+Потерять – Kaybetmek
+Потолок – Tavan
+Потому что – Çünkü
+Потратил – Harcıyordu
+Походить, выглядеть – Benzemek
+Похож – Benzer
+Почему – Neden
+Почему-то – Nedense
+Почки – Böbrekler
+Почта – Posta, Postane
+Почтовый ящик –Posta Kutusu
+Поясница - Bel
+Правильный – Doğru
+Правительство – Hükümet
+Право - Hak
+Правый – Sağ
+Праздник – Bayram
+Превышать скорость – Hızı aşmak
+Предполагать, прогнозировать – Tahmin etmek
+Предположение – Tahmin
+Президент –Cumhurbaşkan
+Прекрасный – Harıka
+Премьер-министр – Başbakan
+Преследование – Takip
+Преследовать – Takip etmek
+Преступление – Cinayet
+Прибыль – Kâr
+Привлекательный – Çekici
+Приглашать – Davet etmek
+Приглашать друзей - Arkadaşlarını davet et
+Приглашение – Davet
+Приказ – Emir
+Приказывать – Emreymek
+Прикроватная тумбочка – Komodin
+Принеси – Getir şunu
+Принимать решение – Karar vermek
+Приносить – Getirmek
+Приношу – Getiriyorum
+Принять - kabul etmek
+Приправы – Baharatlar
+Приходить, приезжать, прийти – Gelmek
+Прихожая – Antre, Hol
+Прихожу, иду – Geliyorum
+Приятного аппетита – Afiyet olsun
+Проблема – Sorun, problem
+Пробовать – Tatmak, Denemek
+Провод – Tel
+Провожать – Uğurlamak (уурламак)
+Провожаю – Uğurluyorum
+Прогноз погоды – Hava durumunu tahmin et
+Проголодался – Ben açıktım
+Программное обеспечение – Yazılım
+Продавать – Satmak
+Продавец – Satıcı, Tezgâhtar
+Продаю – Satıyorum
+Продолжай говорить на турецком – Türkçe konuşmaya devam et
+Продолжать – Devam etmek
+Продолжение – Devam
+Продукты – Gıda
+Прозрачный – Saydam
+Пройти – Geçmek
+Пройти мимо – Yanından geçmek
+Проповедь – Vaaz
+Просить – Rica etmek
+Просить прощения – Özür dilerım
+Проспект – Cadde
+Простыня – Çarşaf
+Против – Karşı
+Профессионал – Profesyonel
+Профессия – Meslek
+Профессор – Profesör
+Прохладный – Serin
+Прочный, выносливый – Dayanıklı
+Прошу у Аллаха прощения – Estağfurullah
+Прыгать – Atlamak
+Прямо – Doğrudan
+Птица – Kuş
+Пудра – Pudra
+Пульс – Nabız
+Пульт – Kumanda
+Пунктуальный – Dakik
+Пустая болтовня – Boş laf
+Пустой, свободный – Boş
+Путаница – Karışıklık
+Путешественник – Gezgin
+Путешествовать – Gezmek
+Путешествовать – Seyahat etmek
+Пчела - Arı (Боль -Ağrı)
+Пшеница – Buğday
+Пылесос – Elektrik süpürgesi
+Пыль – Toz
+Пью – İçiyom
+Пьяное состояние – Sarhoş durum	
+Пьяный – Sarhoş
+Пятница – Cuma
+Работа – Çalışma, Iş
+Работать – Çalışmak
+Работаю – Çalışıyorumı
+Рабочий – İşçi
+Радио – Radyo
+Радоваться – Sevinmek
+Радость – Sevinç
+Радуга – Gökkuşağı	
+Радуюсь – Seviniyorum
+Развивать – Geliştirmek
+Развивать мускулатуру – Kasları geliştirmek
+Развивать ум – Zihni geliştirmek
+Развиваю – Geliştiriyorum
+Развлекаться – Eğlenmek
+Разговаривать – Konuşmak
+Разговариваю – Konuşuyom
+Разговор – Konuşma, Laf
+Разливаю, наливаю – Döküyom
+Различаб, разделяю – Ayırıyorum
+Различать, разделять – Ayırmak
+Размер – Boyut
+Разные сорта – Farklı çeşitler
+Разогрей мне блины – Krepleri bana ısıt
+Разрешаю – İzin vermek
+Разрешить- İzin ver
+Рай – Cennet
+Район – Mahalle
+Раковина – Kabuk, Lavado
+Рано – Erken
+Расписание – Program
+Расставаться – Ayrılmak (айрылмак)
+Расстаюсь – Ayrılıyorum (айрылыорум)
+Растение – Bitki
+Расти – Artmak
+Расческа – Tarak
+Реагировать - Tepki göstermek
+Реактивный самолет – Jet uçağı
+Реакция – Reaksiyon, tepkı
+Ребенок – Çocuk
+Ревнивый – Kıskanç
+Редкий – Nadir
+Режим – Rejim
+Режу – Kesiyom
+Резать – Kesmek
+Резина – Kauçuk
+Река – Nehir
+Рекорд – Rekor
+Религия – Din
+Ремень – Kemer
+Ремонт – Onarım: tamır
+Рентген – Röntgen
+Республика – Cumhuriyet
+Ресторан – Lokanta
+Рецепт – Tarif, Reçete
+Решение – Çözüm
+Решенный – Kararlı
+Решетка, ограда – Parmaklık
+Ржавый – Paslanmış
+Рис - Pirinç  
+Рискованный – Riskli
+Рисовать – Çizmek
+Рисунок – Şekil
+Рисую – Çiziyorum
+Родился – Doğuyordu
+Родина – Vatan, Yurt
+Родители – Ebeveyn
+Родиться – Doğmak
+Родственник – Akraba
+Роза – Gül
+Розничный – Perakende
+Розовый – Pembe
+Роль – Rol
+Роман – Roman
+Рост – Büyüme, Boy
+Рот – Ağız
+Рубашка – Gömlek
+Рука – El
+Руководитель – Yönetici
+Румяна – Allık
+Ручка – Kol
+Рыба - Balık
+Рыбалка – Balık tutmak
+Рынок – Pazar: çarşı
+Рюмка – Kadeh
+Рядом – Yanında
+С – İle
+С начала, сколько времени назад – Önce
+С нетерпеньем ждем встречи – Buluşmayı dört gözle bekliyoruz
+Сад – Bahçe
+Садись – Otur
+Сажусь – Oturuyorum
+Салфетка – Peçete
+Самолет – Uçak
+Самолет, плоскость – Düzlem
+Самый большой – En büyük
+Сапоги – Çizmeler
+Сатана – Şeytan, Iblis
+Сахар – Şeker
+Сахарница – Şekerlik
+Свадебное платье – Gelinlik
+Свежий – Taze
+Свекла – Pancar
+Свет – Işık
+Светлый – Açık
+Светофор –Trafık ışıklar
+Свеча – Mum
+Свинина – Domuz eti
+Свинья – Domuz
+Связать – Bağlamak
+Связь – Bağlantı
+Святой – Kutsal
+Священник – Rahip
+Сделай это – Bunu yap
+Сделаю – Yapacağım
+Север – Kuzey
+Сегодня – Bugün
+Сейчас – Şimdi 
+Секрет – Sır
+Секунда – Saniye
+Сельский дом – Kırsal ev
+Семейный – Ailevi
+Семинар – Seminer
+Семья – Aile
+Сентябрь – Eylül
+Сервис – Servis
+Сердитый – Kızgın
+Сердце – Kalp
+Серебристый – Gümüş
+Серый – Gri
+Серьги – Küpe
+Сзади – Arkada
+Сидеть – Oturmak
+Сильный – Güçlü
+Симпатичный – Sempatik
+Синий – Mavi
+Сиреневый – Leylak	
+Скажу – Söylüyorum
+Сказать – Demek
+Сказать – Söylemek, Demek
+Сказка – Masal
+Скатерть – Masa örtüsü
+Скидка – İndirim
+Склад – Depo
+Сковорода – Tava
+Сколько денег – Ne kadar para var
+Сколько человек – Kaç kişi var
+Скорее собирайся – Çabuk toplan
+Скорость – Hız
+Скрип – Gıcırtı
+Скромность – Mütevazi
+Скупой – Cimri
+Скучать – Özlemek
+Скучаю – Özlüyorum
+Слева – Solda
+Следующий – Sonraki
+Слепой – Kör
+Слива – Erik
+Слишком много работы – Çok fazla iş var
+Сложное выражение – Karmaşık ifade
+Сложный – Karmaşık
+Сломалось – Kırılıyordu
+Слон – Fil
+Слушать – Dinlemek
+Слушаю – Dinliyorum
+Слышать – Duymak
+Слышу – Duyuyorum
+Смелый – Cesur
+Сметана, скользить – Kaymak, Ekşi krema
+Смешать – Karıştırmak
+Смеюсь – Gülüyorum
+Смеяться – Gülmek
+Смогу, у меня получается – Başarıyorum
+Смотреть – İzlemek
+Смотрю – İzliyorum
+Снаружи – Dışarısı
+Сначала подойди ко мне - Önce bana gel
+Снег – Kar
+Снимаю – Çıkarıyorum
+Сними – Çıkar şunu
+Снотворное – Uyku hapı
+Снять – Çıkarmak
+Собака – Köpek
+Собирайся скорее нет времени – Çabuk toplan vaktim yok
 Собирать – Toplamak
 Собираю – Topluyorum
-Жечь – Yakmak
-Жгу – Yakıyorum
+Совет – Tavsiye 
+Советоваться –Danışmak 
+Совок – Faraş
+Современный – Modern
+Согласие -Kabul
+Сожаление – Yazık
+Сок – Meyve su
+Соковыжималка – Meyve sıkacağı
+Солдат – Asker
+Солнечно – Güneşli
+Солнце – Güneş
+Солнце светит – Güneş parlıyor
+Солнцезащитные очки – Güneş gözlüğü
+Соль – Tuz
+Сон – Uyku
+Сонный – Uykulu
+Соревнования – Yarış
+Сосед – Komşu
+Сосна – Çam
+Состояние – Durum, Hal
+Соус – Sos
+Спальня – yatak Odası
+Спасатель – Cankurtaran
+Спасательный жилет – Can yeleğı
 Спасать – Kurtarmak
 Спасаю – Kurtarıyorum
+Спасибо – Teşekkürler
+Спаситель – Kurtarıcı
 Спать – Uyumak
+Специалист - Uzman
+Спешить – Acele etmek
+Спина – Sırt
+Спинка – Arkalık
 Сплю – Uyuyorum
-Будить – Uyanmak
-Спорить – Tartışmak
-Спорю – Tartışıyorum
 Спор – Tartışma
+Спорить – Tartışmak
+Спорт – Spor
+Спорю – Tartışıyorum
+Справа – Sağdan
+Справочная, консультация – Danişma
 Спрашивать – Sormak
 Спрашиваю – Soruyorum
-Вопрос – Soru
 Спрячь – Sakla
-Хранить – Saklamak
-Запретить – Yasaklamak
-Запрещаю – Yasaklıyorum
+Спутниковая антенна – Uydu anteni
 Сражаться – Dövüşmek
 Сражаюсь – Savaşıyorum
-Драться – Savaşmak
+Сразу – Birden, Hemen
+Сразу запомнил – Hemen hatırladım
+Среда – Çarşamba
+Средний – Orta
+Стакан – Bardak
+Старый – Eski
+Стена – Duvar
+Стерка – Silgi
+Стиральный порошок – Ğamaşır deterjanı
+Стирать, удалить, вычеркивать – Silmek
+Стол – Masa
+Столица – Başkent
+Столовая – Yemek Odası
+Столяр – Marangoz
+Стоматолог – Dişçi
+Стоны – Inleme
 Стою – Duruyorum
 Стоять – Durmak
-Вставать – Kalkmak
-Встаю – Kalkıyorum
+Страна – Ülke
+Страница – Sayfa
+Страшный – Korkunç, Çirkin
+Стук в дверь – Kapıyı çalmak
+Стул – Sandalye
+Ступени – Basamaklar
+Суббота – Cumartesi
+Суд – Mahkeme
+Судьба – Kader
+Судья – Yargıç: hakem
+Суеверный – Batıl
+Сумашедший – Deli, Çılgın
+Сумка – Çanta
+Суп – Çorba
+Сухой – Kuru
+Сушильная машина – Kurutucu makinesi
+Счастливый – Mutlu
+Счет – Hesap, 
+Сын – Oğul
+Сынок – evlat (эвлят)
+Сыр - Peynir 
+Сытый – Tok, Doluyum
+Сюда – Buraya 
+Сюда иди – Buraya git
+Сюрприз – Sürpriz
+Таблетка – Hap
+Таз – Leğen
+Тайфун – Tayfun
+Так – Böylece
+Такой – Böyle
+Такси – Taksi
+Там – Orada
+Там много счастья – Orada çok mutluluk var
+Таможня – Gümrük
 Танцевать, танцую – Dans etmek
+Тапочки – Terlik
+Тарелка – Tabak
+Твердый – Sert
+Твой, твоя, твое – Senin
+Творог ¬– Çökelek
+Театр – Tiyatro
+Тебе снились сны – Rüyalar gördün mü
+Телевизор – Televızyon
+Тележка – El arabası
+Теленок – Buzağı, Dana
+Телефон – Telefon
+Телятина – Dana eti
+Тема – Tema, Konu
+Темный – Karanlık, Koyu
+Тени для век – Göz farı
+Тень – Far, Gölge
+Теплица – Limonluk, Sera
+Тепло –Isı
+Теплый – Ilık
+Тереть – Sürtmek
+Термометр – Termometre
+Терпеливый – Sabırlı
+Терпенье – Sabır
+Тесто – Hamur
+Тесть – Kayınpeder
+Тетрадь – Defter
+Тетя – Teyze
+Техник – Teknisyen
+Течь – Akmak
+Теща – Kayınvalide
+Тихий – Huzurlu
+Тишина – Sessizlik
+Товар – Mal
+Тогда – O zaman
+Толстый – Kalın
+Толстый (для людей) – Şişman adam
+Тоник – Tonik
+Тонкий – İnce
+Тонуть – Boğulmak
+Торговля – Alışveriş
+Торт – Pasta, Kek
+Тоска – Özlem
+Тостер – Tost makinesi
+Точка с запятой – Noktalı virgül
+Точный – Tam
+Трава – Ot
+Трамвай – Tramvay
+Транспорт – Taşıma, Ulaşim
 Тратить – Harcamak
-Потратил – Harcıyordu
+Тревога - Alarm
+Трезвый – Ayık
+Тренер – Antrenör
+Тренироваться – Antrenman yapmak
+Треск – Çatırtı
 Трогать – Dokunmak
 Трогаю – Dokunuyorum
+Трос – Halat
+Труба – Baca, Boru
+Труба течет – Boru akıyor
+Трубка – Tüp
+Трудный – Zor
+Трудолюбивый – Çalışkan
+Трусливый – Korkak
+Трусы – Külot
+Тряпка – Bez
+Туалетная бумага – Tuvalet kâğıdı
+Туман – Sis
+Туманный день – Sisli bir gün
+Турецкий кофе – Türk kahvesi
+Туфли – Pabuç
+Тучи – Bulutlar
+Туш для ресниц – Rimel
+Ты – Sen
+Ты не знаешь прогноз погоды – Hava tahminini bilmiyor musun
+Ты понял – Anladın
 Ты сделаешь это - Sen yapacaksın
-Сделаю – Yapacağım
+Тыква – Kabak
+Тьма – Karanlık
+Тяжелый – Ağır
+У меня все в порядке – Benim için her şey yolunda
+У меня есть – Bende var
+У меня острый ум – Bende keskin zihin
+У нас – Bizde
+У тебя получается шить – Senin başarıyorum dikmek
 Убегать – Kaçmak
 Убегаю – Kaçıyorum
-Умереть – Ölmek
-Умираю – Ölüyorum
 Убивать – Öldürmek
 Убиваю – Öldürüyorum
 Убираться – Temizliyorken
+Убытки – Zararlar
+Уважаемый – Saygın
+Уважаю - Saygı
+Уверенный – Emin
+Увидимся – Görüşürüz
+Угол – Köşe
 Угрожать – Tehdit etmek
-Поднять – Kaldırmak
 Ударить – Vurmak
+Удача – Şans
+Удачный – Başarılı
+Удлиненный – Uzatılmış
+Удобная – Rahat
+Уже, собственно – Zaten
+Ужин – Akşam yemeği
+Узкий – Dar
 Узнавать – Tanımak
 Узнаю – Haber almak
+Уйти на пенсию – Emekli olmak
+Уклонение от военной службы – Askerlikten kaçmak
+Укол – İğne
+Улица – Sokak
 Улыбаться – Gülümsemek
-Улыбнись – Gülümse
 Улыбаюсь – Gülümsüyorum
-Упасть – Düşmek
+Улыбка – Gülümseme
+Улыбнись – Gülümse
+Ум – Zihin
+Уменьшать – Eksiltmek 
+Умереть – Ölmek
+Умираю – Ölüyorum
+Умный – Akıllı
+Университет – Üniversite
+Унитаз – Klozet
 Упаду – Düşüyom
+Упасть – Düşmek
+Упрямый – İnatçı
+Урок – Ders
+Условие – Koşul
 Успеть, догнать – Yetişmek
+Успех – Başarı
+Уставший – Yorgun
+Устрица – Istiridye
 Утвердить – Onaylanma
+Утка – Ördek
+Утомительный – Yorucu
+Утро – Sabah
+Утюг – Ütü
+Ухо – Kulak
+Уходить, идти, ехать, ездить – Gitmek
+Ухожу, езжу – Gidiyorum
+Ученик – Öğrenci
+Учитель – Öğretmen
 Учиться – Öğrenmek
 Учусь – Öğreniyorum
+Фабрика – Fabrika
+Факультет – Fakülte
+Фамилия – Soyadı
+Фармацевт – Eczacı
+Фарш – Kıyma
+Фасоль – Fasulye
+Февраль – Şubat
+Фен для волос – Saç kurutma makinesi
+Фигурное катание – Buz pateni
+Фильтровать – Filtre etmek
+Финал – Final
+Финики –  Hurmalar
+Фиолетовый – Mor
+Фирма –Şirket
+Флаг – Bayrak
+Фляга – Matara
+Форель – Alabalık
+Фотоаппарат – Fotoğraf makinesi
+Фотограф – Fotoğrafçı
+Фотография – Fotoğraf
+Фрукты – Yemiş, Meyve
+Футболка – Tişört
+Футбольный матч – Futbol maçı 
+Хватит – Yetiyor
+Хитрый – Kurnaz
+Хлеб – Ekmek
+Хлопок – Pamuk, Kot
+Ходить – Yürümek
+Ходить по магазинам – Alışverişe gitmek
+Холодильник – Buzdolabı
+Холодно – Soğuk
+Холостяк – Bekâr 
+Хорошо – İyi, Peki
 Хотеть – İstemek
 Хочешь, будешь - Ister misin 
 Хочу – İstiyorum
+Хочу пить – İçmek istiyorum
+Храбрый, смелый – Cesaretli, cesur
+Хранение – Muhafaza
+Хранить – Saklamak
+Христианин – Hıristiyan
+Хрупкий – Kırılgan
+Художник – Sanatçı
+Худой, слабый – Zayıf
+Цвет - Renk
 Целовать – Öpmek
 Целую тебя – Seni öpüyorum
+Цель – Amaç
+Цена – Fiyat
+Центр – Merkez
+Центр города – Şehir merkezi
+Церковь – Kilise
+Циклон – Siklon
+Цифры – Rakamlar
+Цыпленок – Civciv, Piliç
+Чаевые – Bahşiş
+Чайник – Demlik, Çaydanlık
+Час – Saat
+Частная собственность – Özel mülkiyet
+Часы – Kol saati
+Чашка – Fincan
+Человек – Insan, Kişi
+Чемодан – Bavul, Valiz
+Чемпион – Şampiyon
+Черепаха – Kaplumbağa
+Черепица – Kiremit
+Черный – Siyah
+Черствый хлеб – Bayat ekmek
+Чеснок – Sarımsak
+Честный – Dürüst
+Четверг – Perşembe
+Чехол – Kılıf
+Чечевица – Mercimek
+Чистить зубы – Dişlerini fırçalamak
+Чистый – Saf, Temiz
 Читать – Okumak
 Читаю – Okuyorum
+Член – Yarak, Erkek horoz
+Что – Ne
+Что делал – Ne yaptın
+Чувство – Duygu
 Чувствовать – Hissetmek
 Чувствую – Hissediyorum
+Чуть-чуть – Birazcık
+Шампанское – Şampanya
+Шампунь – Şampuan
+Шапка – Şapka
+Шарф – Eşarp
+Шатенка, шатен – Kumral
+Шахта – Maden
+Швабра для пола – Zemin paspası
+Швейная машина – Dikiş makinesi
+Шелк – İpek
+Шерсть – Yün
+Шея – Boyun
+Шины – Lastikler
+Широкий – Geniş
+Шить – Dikmek
+Шкаф – Dolap
+Школа – Okul
+Шорты – Şort
+Шофер – Şoför
+Шпинат – Ispanak
+Штопор – Tirbuşon
+Шторм – Fırtına
+Шуба – Kürk manto
+Шуметь – Gürültü etmek
 Шутить – Şaka yapmak
 Шутка – Şaka
-Положить – Koymak
-Положу – Koyacağım
-Оставить – Bırakmak
-Оставляю – Bırakıyorum
-
-Дом, вещи
-
-Верхний этаж – Üst kat
-Нижний этаж – Alt kat
-Замочная скважина – Anahtar deliği
-Прихожая – Antre, Hol
-Спинка – Arkalık
-Лифт – Asansör
-Кабина лифта – Asansör kabini
-Поездка на лифте – Asansöre binmek
-Висячий замок – Asma kilit
-Люстра – Avize
-Двор – Avlu
-Было – Vardı
-Труба – Baca, Boru
-Труба течет – Boru akıyor
-Побелка – Badana
-Ступени – Basamaklar
-Перечница – Biberlik
-Здание – Bina
-Осел – Eşek
-Подвал –Bodrum
-Погреб – Mahzen
-Стирать, удалить, вычеркивать – Silmek
-Подними – Kaldır şunu.
-Поднять карандаш – Kalemi kaldır
-Глаза опухли – Gözler şişti
-Связать – Bağlamak
-Найди – Bulun 
-Я найду – Bulacağım
-Я нашел – Buldum
-Горло – Boğaz
-Посудомоечная машина – Bulaşık makinesi
-Грязная посуда – Bulaşık
-Кофейник – Cezve
-Пишущая машинка – Daktilo
-Чайник – Demlik, Çaydanlık
-Еда – Yiyecek (иеджек)
-Морозильная камера –Derin dondurucu
-Швейная машина – Dikiş makinesi
-Шить – Dikmek
-Чистить зубы – Dişlerini fırçalamak
-Настенная вешалка – Duvar askısı
-Обои – Duvar kağıdı
-Вставлять – Sokmak, takmak
-Гардероб – Elbise dolabı
-Шкаф – Dolap
-Электрическая кнопка – Elektrik düğmesi
-Электрическая розетка – Elektrik prizi
-Электрическая выключатель – Elektrik şalteri
-Линии электропередач – Elektrik hatları
-Электрическая плита – Elektrik ocaği
-Электрический счетчик – Elektrik sayacı
-Этажерка – Etajer
-Дверные пороги – Kapı eşikleri
-Совок – Faraş
-Веник, метла – Süpürge
-Подметать – Süpürmek
-Фильтровать – Filtre etmek
-Выключить – Kapamak
-Закрыть – Kapat
-Печь – Fırın
-Бочка – Fıçı
-Газовая плита – Gaz sobası
-Значение индикатора – Gösterge değeri
-Значение – Değer
-Скрип – Gıcırtı
-Пищевые продукты – Gıda ürünleri
-Бассейн – Havuz
-Охранная сигнализация – Hırsız alarmı
-Вор - Hırsız
-Тревога - Alarm
-Жалюзи – Jaluzi
-Кофемолка – Kahve değirmeni
-Кофеварка – Kahve makinesi
-Крышка – Kapak
-Дверной глазок – Kapı gözü
-Дверной телефон – Kapı telefonu
-Не стучись в дверь – Kapıyı çalma
-Постучись в дверь – Kapıyı çal
-Стук в дверь – Kapıyı çalmak
-Путаница – Karışıklık
-Кассета – Kaset
-Магнитофон – Teyp
-Банка – Kavanoz
-Ковш – Kepçe
-Черепица – Kiremit
-Грязь – Kir
-Нагреть – Isıtmak
-Включи свет – Işıkları aç
-Луч – Işın
-Вытри стол – Masayı sil
-Полка – Rafı
-Код – Kod
-Открывашка – Açacak
-Штопор – Tirbuşon
-Консервы – Konserve
-Перила – Korkuluk
-Ведро – Kova
-Наушник – Kulaklık
-Коробка – Kutu
-Колодец – Kuyu
-Угол – Köşe
-Ванна – Küvet
-Маленькая бутылка – Küçük şişe
-Мясорубка – Kıyma makinesi
-Таз – Leğen
-Теплица – Limonluk, Sera
-Настольная лампа – Masa lambası
-Фляга – Matara
-Петля – Menteşe
-Соковыжималка – Meyve sıkacağı
-Микроволновая печь – Mikrodalga fırın
-Волна – Dalga
-Микрофон – Mikrofon
-Миксер – Mikser
-Мебель – Mobilya
-Свеча – Mum
-Подсвечник – Mumluk
-Кран – Musluk
-Дрова – Odun
-Решетка, ограда – Parmaklık
-Половик – Paspas
-Швабра для пола – Zemin paspası
-Подоконник – Pencere kenarı 
-Край – Kenar
-Почтовый ящик –Posta Kutusu
-Мыльница – Sabunluk
-Качели – Salıncak
-Фен для волос – Saç kurutma makinesi
-Губка – Sünger
-Графин – Sürahi
-Поднос – Tepsi
-Мешок – Torba
-Тостер – Tost makinesi
-Кирпич – Tuğla
-Трубка – Tüp
-Пена для бритья – Tıraş köpüğü
-Наволочка – Yastık kılıfı
-Чехол – Kılıf
-Белье – Çamaşır
-Дождевая труба – Yağmur borusu
-Столовая – Yemek Odası
-Стиральный порошок – Ğamaşır deterjanı
-Забор – Çit
-Основной – Ana
-Частная собственность – Özel mülkiyet
-Гладильная доска – Ütü masası
-Сахарница – Şekerlik
-Кодовый замок – Şifreli kilit
-Камин – Şömine	
-Крыша – Çatı
-Сельский дом – Kırsal ev
-Сюда иди – Buraya git
-Холодно – Soğuk
-
-Религия
-Бог – Tanrı, Allah
-Коран – Kuran
-Спаситель – Kurtarıcı
-Суеверный – Batıl
-Ведьма – Cadı
-Религия – Din
-Грешник – Günahkâr
-Крест – Haç
-Христианин – Hıristiyan
-Сатана – Şeytan, Iblis
-Святой – Kutsal
-Зло, плохой – Kötü
-Мулла – Molla
-Мусульманин – Müslüman
-Король – Kral
-Монахиня – Rahibe
-Священник – Rahip
-Дух – Ruh
-Проповедь – Vaaz
-Вампир – Вампир
-Колокольня – Çan Kulesi
-
-Прилагательные
-
-Подписаться – Abone olmak
-Спешить – Acele etmek
-Высокое напряжение – YÜKSEK GERİLİM
-Деревянный – Ahşap
-Семейный – Ailevi
-Безжалостный – Amansız
-Археология – Arkeoloji
-Трезвый – Ayık
-Загорелый – Bronzlaşmış
-Безоблачный – Bulutsuz
-Живой – Canlı
-Храбрый, смелый – Cesaretli, cesur
-Преступление – Cinayet
-Пунктуальный – Dakik
-Задумчивый – Dalgın, Düşünceli
-Прочный – Dayanıklı
-Вертикальный – Dikey
-Горизонтальный – Yatay
-Честный – Dürüst
-Плоский – Düz
-Враг – Düşman
-Самый большой – En büyük
-Лучше – En iyi
-Младший – En küçük
-Последний – En son
-Ближайший – En yakın
-Максимальный – En yüksek
-Загадочный – Esrarengiz
-Кривая – Eğri
-Общий – Genel
-Нужный, необходимый – Gerekli
-Доверчивый – Güvenen
-Безопасный – Güvenli
-Небезопасный – Güvensiz
-Несправедливый – Haksız
-Право - Hak
-Неподвижный – Hareketsiz
-Блестящие – Parlaklar
-Жизнь – Hayat
-Для себя – Kendim için
-Мираж – Serap
-Готовый – Hazır
-Акция – Hisse senedi
-Юрист – Hukukçu
-Грубый – Kaba
-Сложный – Karmaşık
-Мускулистый – Kaslı
-Песок – Kum
-Хитрый – Kurnaz
-Выгодный – Kârlı
-Слепой – Kör
-Злой – Ters, Kötü kalpli
-Хрупкий – Kırılgan
-Короткое замыкание – Kontak
-Ревнивый – Kıskanç
-Максимум – Maksimum
-Минимум – Minimum
-Недовольные – Memnun olmayan
-Mеталл – Metal
-Позволь мне обнять тебя – Bırak sana sarılmama izin ver
-Разогрей мне блины – Krepleri bana ısıt
-Вместе пойдем – Birlikte gidelim
-Отдал – Verdim
-Котел - Kazan
-Плюнул - Tükürdum
-Подушка - Yastık
-Вспотел - Terledim
-Сначала подойди ко мне - Önce bana gel
-Впереди большая жизнь - Önde büyük hayat
-Все люди одинаковые - Bütün insanlar aynıdır
-Одинаковые брюки - Aynı pantolonlar
-Весь дом празднует - Bütün ev kutluyor
-Налей сразу - Hemen dökün
-Гарантия - Garanti
-Пчела - Arı (Боль -Ağrı)
-Никогда не говори никогда - Asla asla deme
-Согласие -Kabul
-Я тебя уважаю - Sana saygı duyuyorum
-Уважаю - Saygı
-Национальный – Milli
-Современный – Modern
-Великолепный – Muhteşem
-Возможный – Mümkün
-Скромность – Mütevazi
-Благодарен – Müteşekkir
-Редкий – Nadir
-Вежливый – Nazik, Terbiyeli
-Точка с запятой – Noktalı virgül
-Цифры – Rakamlar
-Нормальный – Normal
-Ядерный – Nükleer
-Ядерное оружие – Nükleer silah
-Оригинальный – Orijinal
-Яркий – Parlak
-Ржавый – Paslanmış
-Розничный – Perakende
-Оптовый – Toptan
-Пластиковый – Plastik
-Опозорился – Rezil oldum
-Рискованный – Riskli
-Чистый – Saf
-Поддельный – Sahte
-Интимный – Samimi
-Прозрачный – Saydam
-Уважаемый – Saygın
-Неприятный – Sevimsiz
-Волшебный – Sihirli
-Под водой – Su altı
-Искусственный – Suni
-Натуральный – Doğal
-Невинный – Suçsuz
-Обычный – Sıradan
-Жидкость – Sıvı
-Мелкий – Sığ
-Неприятный – Tatsız
-Единственный – Tek olan
-Невоспитанный – Terbiyesiz
+Шью – Dikiyom
+Щедрый – Cömert
+Щеки – Yanaklar
+Щетка – Fırça
+Эгоист – Bencil
+Экзамен – Sınav
+Экономика – Ekonomi
 Экономный – Tutumlu
-Международный – Uluslararası
-Будет стыдно – Utanılacak
-Снотворное – Uyku hapı
-Сонный – Uykulu
-Бессонный – Uykusuz
-Удлиненный – Uzatılmış
-Загорается – Yanar
-Половина – Yarım
-Программное обеспечение – Yazılım
-Подземный переход – Yeraltı geçidi
-Утомительный – Yorucu
-Круглый – Yuvarlak
-Не сложно – Zor olmayan
-Исправил – Düzelttim
-Наладил – Ayarladım
-Удобная – Rahat
-Ноет – Sızlı
-Вовремя – Zamanında
-В обратном направлении – Ters yönde
-
-Погода
-
-Мороз – Ayaz, donlar
-Морозный – Ayazlı
-Кусок льда – Buz parçası
-Землетрясение – Deprem
-Идет град – Dolu yağıyor
-Дым – Duman
-Гремит гром – Gök gürültüsü gürlüyor
-Шуметь – Gürültü etmek
-Погода холодная – Hava soğuk
-Лай собаки – Köpek havlaması
-Стоны – Inleme
-Метель – Kar fırtınası
-Лыжник – Kayakçı
-Засуха – Kuraklık
-Шуба – Kürk manto
-Мех – Kürk
-Влажность – Nem
-Катание на коньках – Paten kaymak
-Ливень – Sağanak
-Тишина – Sessizlik
-Циклон – Siklon
-Туманный день – Sisli bir gün
-Погода ниже нуля – Hava sıfırın altında
-Тайфун – Tayfun
-Термометр – Termometre
-Дождь – Yağmur
-Голос – Ses
-Громко – Yüksek sesle
-Треск – Çatırtı
-Cкрип обуви – Ayakkabı gıcırtısı
-Вовремя – Zamanında
-В обратном направлении – Ters yönde
- 
-Еда
-
-Осьминог – Ahtapot
-Малина – Ahududu
-Форель – Alabalık
-Подсолнечное масло – Ayçiçeği yağı
-Цыпленок – Civciv
-Телятина – Dana eti
-Лавровый лист – Defne yaprağı
-Диета – Diyet
-Слива – Erik
-Бульон – Et suyu
-Копченый – Füme
-Гарнир – Garnitür
-Вафля – Gofret
-Грейпфрут – Greypfrut
-Горчица – Hardal
-Индейка – Hindi
-Устрица – istiridye
-питьевая вода – içme suyu
-Большой аппетит – Büyük iştah
-Проголодался – Ben açıktım
-Вареный – kaynamış
-Кипяченный чай – Kaynamış çay
-Никому – Kimseye
+Экспорт – İhracat
+Экспорт – İhracat
+Электрическая выключатель – Elektrik şalteri
+Электрическая кнопка – Elektrik düğmesi
+Электрическая плита – Elektrik ocaği
+Электрическая розетка – Elektrik prizi
+Электрический счетчик – Elektrik sayacı
+Электронная почта – E-posta
+Энергия – Enerji
+Эта собака много гадит – Bu köpek çok sıçıyor
+Этаж – Kat
+Этажерка – Etajer
+Это – Bu
+Юбка – Etek
+Ювелир – Kuyumcu
+Юг – Güney
+Юрист – Hukukçu
+Я – Ben
+Я вышел из леса – Ormandan çıktım
+Я ем – Ben yiyorum
+Я задумался – Düşünmüştüm.
+Я знаю мало слов – Çok az kelime biliyorum
+Я могу взять – Ben alabilirim
+Я найду – Bulacağım
+Я начал забывать – Unutmaya başladım
+Я нашел – Buldum
 Я никому не должен – Ben kimseye borç yok
+Я остаюсь – Ben kalıyorum
+Я соблюдаю пост – Oruç tutuyorum
+Я согласен – Ediyorum
+Я тебя уважаю - Sana saygı duyuyorum
+Я ухожу – Birakıyorum
+Яблоко – Elma
+Ягненок – Kuzu
+Ядерное оружие – Nükleer silah
+Ядерный – Nükleer
+Язва – Ülser
+Язык – Dil 
+Язык – Dil
+Яйцо – Yumurta
+Январь – Ocak
+Яркий – Parlak
+Яхта – Yat
