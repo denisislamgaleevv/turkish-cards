@@ -7,7 +7,7 @@ class FlashCards {
         this.currentCardIndex = 0;
         this.isFlipped = false;
         this.synth = window.speechSynthesis;
-        this.wordsPerBlock = 300; // Количество слов в блоке
+        this.wordsPerBlock = 200; // Количество слов в блоке
         this.motivationalInterval = 150; // Мотивация каждые 150 карточек в блоке
         
         this.init();
