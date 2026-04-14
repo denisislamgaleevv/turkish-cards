@@ -20,15 +20,39 @@ class FlashCards {
         this.setupEventListeners();
     }
 
-    async loadWords() {
+async loadWords() {
+    // Проверяем, есть ли глобальная переменная WORDS_DATA
+    if (typeof WORDS_DATA !== 'undefined') {
+        this.allCards = WORDS_DATA.map(word => ({
+            russian: word.ru,
+            turkish: word.tr,
+            category: 'Основные слова',
+            type: 'word',
+            id: `Основные слова-${word.ru}`
+        }));
+        console.log(`Загружено слов из words.js: ${this.allCards.length}`);
+    } else if (typeof window.wordList !== 'undefined') {
+        this.allCards = window.wordList.map(word => ({
+            russian: word.ru,
+            turkish: word.tr,
+            category: 'Основные слова',
+            type: 'word',
+            id: `Основные слова-${word.ru}`
+        }));
+        console.log(`Загружено слов из window.wordList: ${this.allCards.length}`);
+    } else {
+        // Fallback: пытаемся загрузить из файла (если есть интернет)
         try {
             const response = await fetch('words.txt');
             const text = await response.text();
             this.parseWords(text);
         } catch (error) {
-            console.error('Ошибка загрузки файла:', error);
+            console.error('Ошибка загрузки слов:', error);
+            alert('Не удалось загрузить слова. Убедитесь, что файл words.js подключен.');
         }
     }
+}
+
 
     parseWords(text) {
         const lines = text.split('\n');
