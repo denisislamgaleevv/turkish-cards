@@ -356,7 +356,15 @@ document.addEventListener('DOMContentLoaded', () => {
 });
 // Регистрация Service Worker для офлайн-работы
 if ('serviceWorker' in navigator) {
-    navigator.serviceWorker.register('/sw.js')
-        .then(reg => console.log('SW зарегистрирован:', reg))
-        .catch(err => console.error('Ошибка SW:', err));
+    window.addEventListener('load', () => {
+        navigator.serviceWorker.register('/sw.js')
+            .then(reg => {
+                console.log('✅ SW зарегистрирован:', reg);
+                // Проверяем обновления
+                reg.update();
+            })
+            .catch(err => {
+                console.error('❌ Ошибка SW:', err);
+            });
+    });
 }
