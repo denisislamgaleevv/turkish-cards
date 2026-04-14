@@ -21,8 +21,12 @@ class FlashCards {
     }
 
 async loadWords() {
+    // Проверяем интернет соединение для отладки
+    console.log('Онлайн режим:', navigator.onLine);
+    
     // Проверяем, есть ли глобальная переменная WORDS_DATA
     if (typeof WORDS_DATA !== 'undefined') {
+        console.log('✅ Загружаем слова из WORDS_DATA');
         this.allCards = WORDS_DATA.map(word => ({
             russian: word.ru,
             turkish: word.tr,
@@ -30,27 +34,13 @@ async loadWords() {
             type: 'word',
             id: `Основные слова-${word.ru}`
         }));
-        console.log(`Загружено слов из words.js: ${this.allCards.length}`);
-    } else if (typeof window.wordList !== 'undefined') {
-        this.allCards = window.wordList.map(word => ({
-            russian: word.ru,
-            turkish: word.tr,
-            category: 'Основные слова',
-            type: 'word',
-            id: `Основные слова-${word.ru}`
-        }));
-        console.log(`Загружено слов из window.wordList: ${this.allCards.length}`);
-    } else {
-        // Fallback: пытаемся загрузить из файла (если есть интернет)
-        try {
-            const response = await fetch('words.txt');
-            const text = await response.text();
-            this.parseWords(text);
-        } catch (error) {
-            console.error('Ошибка загрузки слов:', error);
-            alert('Не удалось загрузить слова. Убедитесь, что файл words.js подключен.');
-        }
+        console.log(`📚 Загружено слов: ${this.allCards.length}`);
+        return; // Выходим, всё готово
     }
+    
+    // Если сюда дошли - что-то пошло не так
+    console.error('❌ WORDS_DATA не найдена!');
+    alert('Ошибка: не найден файл words.js');
 }
 
 
@@ -364,3 +354,9 @@ let flashCards;
 document.addEventListener('DOMContentLoaded', () => {
     flashCards = new FlashCards();
 });
+// Регистрация Service Worker для офлайн-работы
+if ('serviceWorker' in navigator) {
+    navigator.serviceWorker.register('/sw.js')
+        .then(reg => console.log('SW зарегистрирован:', reg))
+        .catch(err => console.error('Ошибка SW:', err));
+}
