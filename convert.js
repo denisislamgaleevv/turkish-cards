@@ -12,11 +12,10 @@ for (const line of lines) {
     
     if (!trimmedLine) continue;
     
-    // Пропускаем строки с цифрами (типа "90 - doksan")
-    if (/^\d+\s*[–-]/.test(trimmedLine)) continue;
+    // УДАЛИТЕ ЭТИ 3 СТРОКИ:
+    // if (/^\d+\s*[–-]/.test(trimmedLine)) continue;
     
     // Проверяем, является ли строка категорией
-    // Категория: только буквы, пробелы, без тире/дефиса, не слишком короткая
     if (!trimmedLine.includes('–') && !trimmedLine.includes('-') && 
         /^[А-Яа-яЁёA-Za-z\s]+$/.test(trimmedLine) && trimmedLine.length > 2) {
         currentCategory = trimmedLine;
@@ -31,11 +30,13 @@ for (const line of lines) {
         const russian = parts[0].trim();
         const turkish = parts.slice(1).join(',').trim();
         
-        // Фильтруем пустые и слишком короткие записи
-        if (russian && turkish && russian.length > 0 && turkish.length > 0) {
+        // Очищаем турецкую часть от квадратных скобок с транскрипцией
+        const cleanTurkish = turkish.replace(/\s*\[[^\]]*\]/g, '').trim();
+        
+        if (russian && cleanTurkish && russian.length > 0 && cleanTurkish.length > 0) {
             wordsArray.push({
                 ru: russian,
-                tr: turkish
+                tr: cleanTurkish
             });
         }
     }
