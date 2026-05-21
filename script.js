@@ -317,6 +317,31 @@ async loadWords() {
             }
         });
     }
+    // Добавьте эту функцию в класс FlashCards
+async clearAllCache() {
+    // 1. Очищаем кэш Service Worker
+    if ('caches' in window) {
+        const cacheNames = await caches.keys();
+        await Promise.all(
+            cacheNames.map(cacheName => {
+                console.log(`Удаляем кэш: ${cacheName}`);
+                return caches.delete(cacheName);
+            })
+        );
+        console.log('✅ Весь кэш очищен');
+    }
+    
+    // 2. Очищаем localStorage
+    localStorage.clear();
+    console.log('✅ localStorage очищен');
+    
+    // 3. Очищаем sessionStorage
+    sessionStorage.clear();
+    console.log('✅ sessionStorage очищен');
+    
+    // 4. Перезагружаем страницу без кэша
+    window.location.reload(true); // true означает принудительную перезагрузку
+}
 
     flipCard() {
         const cardElement = document.getElementById('card');
@@ -367,4 +392,13 @@ if ('serviceWorker' in navigator) {
                 console.error('❌ Ошибка SW:', err);
             });
     });
+    // Принудительное обновление кэша
+if ('serviceWorker' in navigator) {
+    navigator.serviceWorker.getRegistrations().then(function(registrations) {
+        for(let registration of registrations) {
+            registration.unregister();
+            console.log('SW деактивирован');
+        }
+    });
+}
 }
