@@ -4,8 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Турецкие слова - Блоки</title>
-    <!-- Добавьте в index.html в <head> временные иконки -->
-<link rel="apple-touch-icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Crect width='100' height='100' fill='%234CAF50'/%3E%3Ctext x='50' y='67' font-size='50' text-anchor='middle' fill='white'%3E🇹🇷%3C/text%3E%3C/svg%3E">
+ <link rel="apple-touch-icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Crect width='100' height='100' fill='%234CAF50'/%3E%3Ctext x='50' y='67' font-size='50' text-anchor='middle' fill='white'%3E🇹🇷%3C/text%3E%3C/svg%3E">
     <link rel="manifest" href="manifest.json">
     <link rel="stylesheet" href="style.css">
 </head>
@@ -13,7 +12,9 @@
     <div class="container">
         <header>
             <h1>Турецкие слова - Блоки</h1>
-            <div id="block-info" class="block-info">Выберите блок для изучения</div>
+            <div id="block-info" class="block-info">
+                <span id="online-status">🟢 Онлайн</span> • Выберите блок для изучения
+            </div>
         </header>
         
         <main id="main-content">
@@ -52,12 +53,13 @@
         <footer>
             <p>Нажмите на карточку чтобы перевернуть • Кликните на 🔊 для озвучки</p>
             <p>Используйте ← → для навигации, S для озвучки, B для возврата к блокам</p>
-            <p>Version 4.0 Никакие права не защищены, Den, Feel Good Inc, 2025</p>
+            <p>Добавлена возможность очистки кэша</p>
+            <p>Version 5.0 Никакие права не защищены, Den, Feel Good Inc, 2025</p>
         </footer>
     
-<button onclick="flashCards.clearAllCache()" style="position: fixed; bottom: 10px; right: 10px; background: red; color: white; padding: 10px; border: none; border-radius: 5px; z-index: 9999;">
-    Очистить кэш
-</button>
+<button onclick="flashCards.clearAllCache()" style="position: fixed; bottom: 10px; right: 10px; background: red; color: white; padding: 10px; border: none; border-radius: 5px; z-index: 9999; cursor: pointer;">
+            Очистить кэш
+        </button>
     </div>
      
     

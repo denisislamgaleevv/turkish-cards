@@ -401,4 +401,22 @@ if ('serviceWorker' in navigator) {
         }
     });
 }
+// Отслеживание статуса онлайн/офлайн
+window.addEventListener('load', () => {
+    const statusElement = document.getElementById('online-status');
+    
+    function updateOnlineStatus() {
+        if (navigator.onLine) {
+            statusElement.textContent = '🟢 Онлайн';
+            statusElement.style.color = 'green';
+        } else {
+            statusElement.textContent = '📴 Офлайн (работает из кэша)';
+            statusElement.style.color = 'orange';
+        }
+    }
+    
+    window.addEventListener('online', updateOnlineStatus);
+    window.addEventListener('offline', updateOnlineStatus);
+    updateOnlineStatus();
+});
 }
