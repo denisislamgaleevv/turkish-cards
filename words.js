@@ -1,5 +1,5 @@
 // Автоматически сгенерированный файл слов
-// Всего слов: 2137
+// Всего слов: 2344
 
 const WORDS_DATA = [
   {
@@ -91,26 +91,6 @@ const WORDS_DATA = [
     "tr": "doksan"
   },
   {
-    "ru": "Cвободное время",
-    "tr": "Boş zaman"
-  },
-  {
-    "ru": "Cкрип обуви",
-    "tr": "Ayakkabı gıcırtısı"
-  },
-  {
-    "ru": "Kaç",
-    "tr": "Сколько (для предметов)"
-  },
-  {
-    "ru": "Mеталл",
-    "tr": "Metal"
-  },
-  {
-    "ru": "Varış",
-    "tr": "Прибытие"
-  },
-  {
     "ru": "Абрикос",
     "tr": "Kayısı"
   },
@@ -121,6 +101,10 @@ const WORDS_DATA = [
   {
     "ru": "Август",
     "tr": "Ağustos"
+  },
+  {
+    "ru": "Авокадо",
+    "tr": "Avokado"
   },
   {
     "ru": "Автовокзал",
@@ -167,6 +151,10 @@ const WORDS_DATA = [
     "tr": "Adres"
   },
   {
+    "ru": "Аквариум",
+    "tr": "Akvaryum"
+  },
+  {
     "ru": "Акула",
     "tr": "Köpekbalığı"
   },
@@ -191,8 +179,20 @@ const WORDS_DATA = [
     "tr": "Analizler"
   },
   {
+    "ru": "Ананас",
+    "tr": "Ananas"
+  },
+  {
     "ru": "Ангел",
     "tr": "Melek"
+  },
+  {
+    "ru": "Анекдот",
+    "tr": "Fıkra"
+  },
+  {
+    "ru": "Античный",
+    "tr": "Antik"
   },
   {
     "ru": "Апельсин",
@@ -275,8 +275,16 @@ const WORDS_DATA = [
     "tr": "Bagaj"
   },
   {
+    "ru": "Байдарка",
+    "tr": "Kayık"
+  },
+  {
     "ru": "Баклажан",
     "tr": "Patlıcan"
+  },
+  {
+    "ru": "Баланс",
+    "tr": "Denge"
   },
   {
     "ru": "Балкон",
@@ -451,6 +459,10 @@ const WORDS_DATA = [
     "tr": "Müteşekkir"
   },
   {
+    "ru": "Бледный",
+    "tr": "Soluk"
+  },
+  {
     "ru": "Блестящие",
     "tr": "Parlaklar"
   },
@@ -461,6 +473,10 @@ const WORDS_DATA = [
   {
     "ru": "Близкий",
     "tr": "Yakın"
+  },
+  {
+    "ru": "Близнецы",
+    "tr": "Ikizler"
   },
   {
     "ru": "Блондинка, блондин",
@@ -485,6 +501,10 @@ const WORDS_DATA = [
   {
     "ru": "Богатый ум",
     "tr": "Zengin zihin"
+  },
+  {
+    "ru": "Болгарский перец",
+    "tr": "Dolmalık biber"
   },
   {
     "ru": "Болельщики",
@@ -519,6 +539,10 @@ const WORDS_DATA = [
     "tr": "Büyük"
   },
   {
+    "ru": "Борец",
+    "tr": "Güreşçi"
+  },
+  {
     "ru": "Борода",
     "tr": "Sakal"
   },
@@ -545,6 +569,10 @@ const WORDS_DATA = [
   {
     "ru": "Бояться",
     "tr": "Korkmak"
+  },
+  {
+    "ru": "Браконьер",
+    "tr": "Kaçak avcı"
   },
   {
     "ru": "Браслет",
@@ -647,6 +675,10 @@ const WORDS_DATA = [
     "tr": "Vardı"
   },
   {
+    "ru": "Быстро",
+    "tr": "Çabuk"
+  },
+  {
     "ru": "Быстро растет",
     "tr": "Hızla büyüyor"
   },
@@ -705,6 +737,10 @@ const WORDS_DATA = [
   {
     "ru": "Ваза",
     "tr": "Vazo"
+  },
+  {
+    "ru": "Валюта",
+    "tr": "Döviz"
   },
   {
     "ru": "Вампир",
@@ -799,6 +835,10 @@ const WORDS_DATA = [
     "tr": "Veranda"
   },
   {
+    "ru": "Верблюд",
+    "tr": "Deve"
+  },
+  {
     "ru": "Веревка",
     "tr": "İp"
   },
@@ -819,6 +859,10 @@ const WORDS_DATA = [
     "tr": "Dikey"
   },
   {
+    "ru": "Вертолет",
+    "tr": "Helikopter"
+  },
+  {
     "ru": "Верующий",
     "tr": "İmanlı, Dindar"
   },
@@ -833,6 +877,10 @@ const WORDS_DATA = [
   {
     "ru": "Весна",
     "tr": "Bahar"
+  },
+  {
+    "ru": "Веснушки",
+    "tr": "Çiller"
   },
   {
     "ru": "Весы",
@@ -851,6 +899,10 @@ const WORDS_DATA = [
     "tr": "Rüzgar esiyor"
   },
   {
+    "ru": "Ветка",
+    "tr": "Dal"
+  },
+  {
     "ru": "Ветренный",
     "tr": "Rüzgarlı"
   },
@@ -861,6 +913,10 @@ const WORDS_DATA = [
   {
     "ru": "Вечеринка",
     "tr": "Parti"
+  },
+  {
+    "ru": "Вечный",
+    "tr": "Sonsuz"
   },
   {
     "ru": "Вешалка",
@@ -909,6 +965,10 @@ const WORDS_DATA = [
   {
     "ru": "Виза",
     "tr": "Vize"
+  },
+  {
+    "ru": "Визитная карточка",
+    "tr": "Kartvizit"
   },
   {
     "ru": "Вилка",
@@ -1219,6 +1279,10 @@ const WORDS_DATA = [
     "tr": "Terledim"
   },
   {
+    "ru": "Вспышка",
+    "tr": "Flaş"
+  },
+  {
     "ru": "Вставать",
     "tr": "Kalkmak"
   },
@@ -1233,6 +1297,10 @@ const WORDS_DATA = [
   {
     "ru": "Встретиться",
     "tr": "Buluşmak"
+  },
+  {
+    "ru": "Встреча",
+    "tr": "Karşılaşma, Randevu"
   },
   {
     "ru": "Встречаюсь",
@@ -1295,6 +1363,10 @@ const WORDS_DATA = [
     "tr": "Çöpü atmak"
   },
   {
+    "ru": "Выгода",
+    "tr": "Fayda"
+  },
+  {
     "ru": "Выгодный",
     "tr": "Kârlı"
   },
@@ -1317,6 +1389,18 @@ const WORDS_DATA = [
   {
     "ru": "Выражения",
     "tr": "İfadeler"
+  },
+  {
+    "ru": "Выращиваю",
+    "tr": "Yetiştiriyorum"
+  },
+  {
+    "ru": "Высморкайся",
+    "tr": "Burnunu üfle"
+  },
+  {
+    "ru": "Высморкаться",
+    "tr": "Burnunu sümkürmek"
   },
   {
     "ru": "Высокий человек",
@@ -1363,6 +1447,10 @@ const WORDS_DATA = [
     "tr": "Kravat"
   },
   {
+    "ru": "Гангстер",
+    "tr": "Gangster"
+  },
+  {
     "ru": "Гандбол",
     "tr": "Hentbol"
   },
@@ -1381,6 +1469,22 @@ const WORDS_DATA = [
   {
     "ru": "Где",
     "tr": "Nerede"
+  },
+  {
+    "ru": "Гектар",
+    "tr": "Hektar"
+  },
+  {
+    "ru": "Геометрия",
+    "tr": "Geometri"
+  },
+  {
+    "ru": "Героизм",
+    "tr": "Kahramanlık"
+  },
+  {
+    "ru": "Герой",
+    "tr": "Kahraman"
   },
   {
     "ru": "Гигант",
@@ -1449,6 +1553,14 @@ const WORDS_DATA = [
   {
     "ru": "Голос",
     "tr": "Ses"
+  },
+  {
+    "ru": "Голубь",
+    "tr": "Güvercin"
+  },
+  {
+    "ru": "Гомосексуалист",
+    "tr": "Homoseksüel"
   },
   {
     "ru": "Гонки",
@@ -1539,12 +1651,24 @@ const WORDS_DATA = [
     "tr": "Vatandaşlık"
   },
   {
+    "ru": "Грамм",
+    "tr": "Gram"
+  },
+  {
+    "ru": "Грамматика",
+    "tr": "Gramer"
+  },
+  {
     "ru": "Гранат",
     "tr": "Nar"
   },
   {
     "ru": "Граната",
     "tr": "El bombası"
+  },
+  {
+    "ru": "Гранит",
+    "tr": "Granit"
   },
   {
     "ru": "Граница",
@@ -1605,6 +1729,10 @@ const WORDS_DATA = [
   {
     "ru": "Грузовая машина",
     "tr": "Kamyon"
+  },
+  {
+    "ru": "Группа",
+    "tr": "Grup"
   },
   {
     "ru": "Группа крови",
@@ -1727,6 +1855,10 @@ const WORDS_DATA = [
     "tr": "Saray"
   },
   {
+    "ru": "Двухместный номер",
+    "tr": "Iki kişilik oda"
+  },
+  {
     "ru": "Дева",
     "tr": "Başak"
   },
@@ -1737,6 +1869,10 @@ const WORDS_DATA = [
   {
     "ru": "Дедушка",
     "tr": "Büyükbaba"
+  },
+  {
+    "ru": "Дежурный, сотрудник",
+    "tr": "Görevli"
   },
   {
     "ru": "Декабрь",
@@ -1765,6 +1901,10 @@ const WORDS_DATA = [
   {
     "ru": "Делиться",
     "tr": "Paylaşmak"
+  },
+  {
+    "ru": "Дельфин",
+    "tr": "Yunus"
   },
   {
     "ru": "Делю",
@@ -1829,6 +1969,14 @@ const WORDS_DATA = [
   {
     "ru": "Джинцы",
     "tr": "Kot"
+  },
+  {
+    "ru": "Дзюдо",
+    "tr": "Judo"
+  },
+  {
+    "ru": "Дзюдоист",
+    "tr": "Judocu"
   },
   {
     "ru": "Диалог",
@@ -1907,6 +2055,10 @@ const WORDS_DATA = [
     "tr": "İyi"
   },
   {
+    "ru": "Доверие",
+    "tr": "Güven"
+  },
+  {
     "ru": "Доверчивый",
     "tr": "Güvenen"
   },
@@ -1917,6 +2069,10 @@ const WORDS_DATA = [
   {
     "ru": "Доверяю",
     "tr": "Güveniyorum"
+  },
+  {
+    "ru": "Довести до кипения",
+    "tr": "Kaynata"
   },
   {
     "ru": "Довольный",
@@ -2023,6 +2179,10 @@ const WORDS_DATA = [
     "tr": "Başka"
   },
   {
+    "ru": "Дружественный",
+    "tr": "Dost"
+  },
+  {
     "ru": "Дуб",
     "tr": "Meşe"
   },
@@ -2099,6 +2259,10 @@ const WORDS_DATA = [
     "tr": "Günlük"
   },
   {
+    "ru": "Если позволит бог",
+    "tr": "Allah izin verirse"
+  },
+  {
     "ru": "Есть имеется",
     "tr": "Var var"
   },
@@ -2173,6 +2337,10 @@ const WORDS_DATA = [
   {
     "ru": "Жду",
     "tr": "Bekliyorum"
+  },
+  {
+    "ru": "Желание ¬",
+    "tr": "Istek"
   },
   {
     "ru": "Железная дорога",
@@ -2263,6 +2431,10 @@ const WORDS_DATA = [
     "tr": "Hayat"
   },
   {
+    "ru": "Жизнь после смерти",
+    "tr": "Ölüm sonrası hayat"
+  },
+  {
     "ru": "Жилет",
     "tr": "Yelek"
   },
@@ -2287,12 +2459,20 @@ const WORDS_DATA = [
     "tr": "Sehpa"
   },
   {
+    "ru": "Жюри",
+    "tr": "Jüri"
+  },
+  {
     "ru": "Забить гол",
     "tr": "Gol atmak"
   },
   {
     "ru": "Заблудиться",
     "tr": "Yolunu kaybetmek"
+  },
+  {
+    "ru": "Заболел",
+    "tr": "Hastalanıyordu"
   },
   {
     "ru": "Забор",
@@ -2317,6 +2497,10 @@ const WORDS_DATA = [
   {
     "ru": "Завидовать",
     "tr": "Kıskanmak"
+  },
+  {
+    "ru": "Завоеватель",
+    "tr": "Fatih"
   },
   {
     "ru": "Завтра",
@@ -2635,6 +2819,10 @@ const WORDS_DATA = [
     "tr": "Şemsiye"
   },
   {
+    "ru": "Зоопарк",
+    "tr": "Hayvanat bahçesi"
+  },
+  {
     "ru": "Зрители",
     "tr": "Seyirci"
   },
@@ -2683,8 +2871,16 @@ const WORDS_DATA = [
     "tr": "Oyuncak"
   },
   {
+    "ru": "Идеал",
+    "tr": "Ideal"
+  },
+  {
     "ru": "Идет град",
     "tr": "Dolu yağıyor"
+  },
+  {
+    "ru": "Идея",
+    "tr": "Fikir"
   },
   {
     "ru": "Избиратели",
@@ -2721,6 +2917,10 @@ const WORDS_DATA = [
   {
     "ru": "Имею",
     "tr": "Oluyorum"
+  },
+  {
+    "ru": "Иммигрант",
+    "tr": "Göçmen"
   },
   {
     "ru": "Импорт",
@@ -2785,6 +2985,10 @@ const WORDS_DATA = [
   {
     "ru": "Информировать",
     "tr": "Bilgi vermek"
+  },
+  {
+    "ru": "Ипподром",
+    "tr": "Hipodrom"
   },
   {
     "ru": "Искать, позвонить",
@@ -2887,6 +3091,14 @@ const WORDS_DATA = [
     "tr": "Her gün işe geç kalıyorum"
   },
   {
+    "ru": "Казино",
+    "tr": "Kazino"
+  },
+  {
+    "ru": "Казнь",
+    "tr": "Idam"
+  },
+  {
     "ru": "Как",
     "tr": "Olarak, Nasıl"
   },
@@ -2915,8 +3127,24 @@ const WORDS_DATA = [
     "tr": "Şömine"
   },
   {
+    "ru": "Кампания",
+    "tr": "Kampanya"
+  },
+  {
+    "ru": "Канава",
+    "tr": "Hendek"
+  },
+  {
     "ru": "Канал",
-    "tr": "kanal"
+    "tr": "Kanal"
+  },
+  {
+    "ru": "Канализация",
+    "tr": "Kanalizasyon"
+  },
+  {
+    "ru": "Канатная дорога",
+    "tr": "Teleferik"
   },
   {
     "ru": "Канистра с бензином",
@@ -2947,6 +3175,18 @@ const WORDS_DATA = [
     "tr": "Göz kalemi"
   },
   {
+    "ru": "Каратист",
+    "tr": "Karateci"
+  },
+  {
+    "ru": "Каратэ",
+    "tr": "Karate"
+  },
+  {
+    "ru": "Кардинал",
+    "tr": "Kardinal"
+  },
+  {
     "ru": "Карман",
     "tr": "Cep"
   },
@@ -2957,6 +3197,10 @@ const WORDS_DATA = [
   {
     "ru": "Картина",
     "tr": "Resim"
+  },
+  {
+    "ru": "Картон",
+    "tr": "Karton"
   },
   {
     "ru": "Картофель",
@@ -2975,12 +3219,28 @@ const WORDS_DATA = [
     "tr": "Kaset"
   },
   {
+    "ru": "Кассир",
+    "tr": "Kasiyer"
+  },
+  {
     "ru": "Кастрюля",
     "tr": "Tencere"
   },
   {
+    "ru": "Каталог",
+    "tr": "Katalog"
+  },
+  {
     "ru": "Катание на коньках",
     "tr": "Paten kaymak"
+  },
+  {
+    "ru": "Катастрофа",
+    "tr": "Felaket"
+  },
+  {
+    "ru": "Категория",
+    "tr": "Kategori"
   },
   {
     "ru": "Кафе",
@@ -3019,6 +3279,10 @@ const WORDS_DATA = [
     "tr": "Daire"
   },
   {
+    "ru": "Кемпинг",
+    "tr": "Kamp yapma"
+  },
+  {
     "ru": "Килограмм",
     "tr": "Kilo"
   },
@@ -3039,12 +3303,24 @@ const WORDS_DATA = [
     "tr": "Tuğla"
   },
   {
+    "ru": "Кит",
+    "tr": "Balina"
+  },
+  {
     "ru": "Класс",
     "tr": "Sınıf"
   },
   {
+    "ru": "Клещи",
+    "tr": "Kerpeten"
+  },
+  {
     "ru": "Климат",
     "tr": "İklim"
+  },
+  {
+    "ru": "Клубника",
+    "tr": "Çilek"
   },
   {
     "ru": "Ключ",
@@ -3115,6 +3391,14 @@ const WORDS_DATA = [
     "tr": "Komut, Takım"
   },
   {
+    "ru": "Командировка",
+    "tr": "Iş gezisi"
+  },
+  {
+    "ru": "Комар",
+    "tr": "Sivrisinek"
+  },
+  {
     "ru": "Комбинезон",
     "tr": "Tulum"
   },
@@ -3159,6 +3443,22 @@ const WORDS_DATA = [
     "tr": "Danışman"
   },
   {
+    "ru": "Консьерж",
+    "tr": "Kapıcı"
+  },
+  {
+    "ru": "Контрабанда",
+    "tr": "Kaçak mal"
+  },
+  {
+    "ru": "Контрабандист",
+    "tr": "Kaçakçı"
+  },
+  {
+    "ru": "Контроль качества",
+    "tr": "Kalite kontrolü"
+  },
+  {
     "ru": "Конфета",
     "tr": "Şekerleme"
   },
@@ -3181,6 +3481,10 @@ const WORDS_DATA = [
   {
     "ru": "Коран",
     "tr": "Kuran"
+  },
+  {
+    "ru": "Корень",
+    "tr": "Kök"
   },
   {
     "ru": "Коридор",
@@ -3215,6 +3519,10 @@ const WORDS_DATA = [
     "tr": "Kontak"
   },
   {
+    "ru": "Костер",
+    "tr": "Kamp ateşi"
+  },
+  {
     "ru": "Кости",
     "tr": "Kemikler"
   },
@@ -3239,6 +3547,10 @@ const WORDS_DATA = [
     "tr": "Cezve"
   },
   {
+    "ru": "Кофейня",
+    "tr": "Kahvehane"
+  },
+  {
     "ru": "Кофемолка",
     "tr": "Kahve değirmeni"
   },
@@ -3257,6 +3569,10 @@ const WORDS_DATA = [
   {
     "ru": "Краб",
     "tr": "Yengeç"
+  },
+  {
+    "ru": "Кража",
+    "tr": "Hırsızlık"
   },
   {
     "ru": "Край",
@@ -3343,6 +3659,10 @@ const WORDS_DATA = [
     "tr": "Tansiyon"
   },
   {
+    "ru": "Крокодил",
+    "tr": "Timsah"
+  },
+  {
     "ru": "Кролик",
     "tr": "Tavşan"
   },
@@ -3371,6 +3691,10 @@ const WORDS_DATA = [
     "tr": "Kapak"
   },
   {
+    "ru": "Ксерокс",
+    "tr": "Fotokopi makinesi"
+  },
+  {
     "ru": "Кто",
     "tr": "Kim"
   },
@@ -3389,6 +3713,10 @@ const WORDS_DATA = [
   {
     "ru": "Кукуруза",
     "tr": "Mısır"
+  },
+  {
+    "ru": "Кумир",
+    "tr": "Idol"
   },
   {
     "ru": "Купальник",
@@ -3421,6 +3749,10 @@ const WORDS_DATA = [
   {
     "ru": "Лавка",
     "tr": "Dükkân"
+  },
+  {
+    "ru": "Лагерь",
+    "tr": "Kamp"
   },
   {
     "ru": "Ладно",
@@ -3457,6 +3789,10 @@ const WORDS_DATA = [
   {
     "ru": "Левый",
     "tr": "Sol"
+  },
+  {
+    "ru": "Легенда",
+    "tr": "Efsane"
   },
   {
     "ru": "Легкие",
@@ -3571,6 +3907,10 @@ const WORDS_DATA = [
     "tr": "Kişilik"
   },
   {
+    "ru": "Лодка",
+    "tr": "Tekne"
+  },
+  {
     "ru": "Ложка",
     "tr": "Kaşık"
   },
@@ -3585,6 +3925,10 @@ const WORDS_DATA = [
   {
     "ru": "Ломаю",
     "tr": "Kırıyorum"
+  },
+  {
+    "ru": "Лопата",
+    "tr": "Kürek"
   },
   {
     "ru": "Лошадь",
@@ -3719,6 +4063,10 @@ const WORDS_DATA = [
     "tr": "Marka"
   },
   {
+    "ru": "Маркер",
+    "tr": "Fosforlu kalem"
+  },
+  {
     "ru": "Мармелад",
     "tr": "Marmelat"
   },
@@ -3775,6 +4123,10 @@ const WORDS_DATA = [
     "tr": "Hemşire"
   },
   {
+    "ru": "Медуза",
+    "tr": "Denizanası"
+  },
+  {
     "ru": "Между",
     "tr": "Araşında"
   },
@@ -3825,6 +4177,10 @@ const WORDS_DATA = [
   {
     "ru": "Метель",
     "tr": "Kar fırtınası"
+  },
+  {
+    "ru": "Mеталл",
+    "tr": "Metal"
   },
   {
     "ru": "Метро",
@@ -3975,6 +4331,10 @@ const WORDS_DATA = [
     "tr": "Genç"
   },
   {
+    "ru": "Молодость",
+    "tr": "Gençlik"
+  },
+  {
     "ru": "Молоко",
     "tr": "Süt"
   },
@@ -4017,6 +4377,10 @@ const WORDS_DATA = [
   {
     "ru": "Мост",
     "tr": "Köprü"
+  },
+  {
+    "ru": "Мошенник",
+    "tr": "Dolandırıcı"
   },
   {
     "ru": "Мою, стираю",
@@ -4223,6 +4587,10 @@ const WORDS_DATA = [
     "tr": "Bizim"
   },
   {
+    "ru": "Нападать",
+    "tr": "Saldırmak"
+  },
+  {
     "ru": "Наполнять",
     "tr": "Doldurmak"
   },
@@ -4243,8 +4611,16 @@ const WORDS_DATA = [
     "tr": "Yön"
   },
   {
+    "ru": "Напряжение",
+    "tr": "Gerilim"
+  },
+  {
     "ru": "Народ",
     "tr": "Halk"
+  },
+  {
+    "ru": "Наружная реклама",
+    "tr": "Dış reklam"
   },
   {
     "ru": "Нарушение",
@@ -4297,6 +4673,10 @@ const WORDS_DATA = [
   {
     "ru": "Начать",
     "tr": "Başlamak"
+  },
+  {
+    "ru": "Начинка",
+    "tr": "Dolma"
   },
   {
     "ru": "Не",
@@ -4371,6 +4751,10 @@ const WORDS_DATA = [
     "tr": "Gökyüzü"
   },
   {
+    "ru": "Небоскреб",
+    "tr": "Gökdelen"
+  },
+  {
     "ru": "Невестка",
     "tr": "Gelin"
   },
@@ -4399,6 +4783,10 @@ const WORDS_DATA = [
     "tr": "Hafta"
   },
   {
+    "ru": "Недоверие",
+    "tr": "Güvensizlik"
+  },
+  {
     "ru": "Недовольные",
     "tr": "Memnun olmayan"
   },
@@ -4423,6 +4811,10 @@ const WORDS_DATA = [
     "tr": "Lazım (лязым)"
   },
   {
+    "ru": "Неопределенный",
+    "tr": "Belirsiz"
+  },
+  {
     "ru": "Неподвижный",
     "tr": "Hareketsiz"
   },
@@ -4435,6 +4827,10 @@ const WORDS_DATA = [
     "tr": "Yanlış"
   },
   {
+    "ru": "Неправильно выразился",
+    "tr": "Yanlış ifade ettim"
+  },
+  {
     "ru": "Неприятный",
     "tr": "Sevimsiz"
   },
@@ -4445,6 +4841,10 @@ const WORDS_DATA = [
   {
     "ru": "Нервный",
     "tr": "Sinirli"
+  },
+  {
+    "ru": "Несправедливость",
+    "tr": "Adaletsizlik"
   },
   {
     "ru": "Несправедливый",
@@ -4485,6 +4885,10 @@ const WORDS_DATA = [
   {
     "ru": "Нить",
     "tr": "İplik"
+  },
+  {
+    "ru": "Ничего",
+    "tr": "Hiçbir"
   },
   {
     "ru": "Нищий",
@@ -4543,6 +4947,10 @@ const WORDS_DATA = [
     "tr": "Burun"
   },
   {
+    "ru": "Носильщик",
+    "tr": "Hamal"
+  },
+  {
     "ru": "Носить, везти",
     "tr": "Taşima"
   },
@@ -4557,6 +4965,10 @@ const WORDS_DATA = [
   {
     "ru": "Нотариус",
     "tr": "Noter"
+  },
+  {
+    "ru": "Ноутбук",
+    "tr": "Dizüstü bilgisayar"
   },
   {
     "ru": "Ночной клуб",
@@ -4655,6 +5067,10 @@ const WORDS_DATA = [
     "tr": "Duvar kağıdı"
   },
   {
+    "ru": "Оборудование",
+    "tr": "Donanım"
+  },
+  {
     "ru": "Обратно",
     "tr": "Geri"
   },
@@ -4747,8 +5163,16 @@ const WORDS_DATA = [
     "tr": "Ekim"
   },
   {
+    "ru": "Окурок",
+    "tr": "Izmarit"
+  },
+  {
     "ru": "Оливковое масло",
     "tr": "Zeytinyağı"
+  },
+  {
+    "ru": "Он может видеть",
+    "tr": "Görebilir"
   },
   {
     "ru": "Он, она, оно",
@@ -4773,6 +5197,10 @@ const WORDS_DATA = [
   {
     "ru": "Опасный техник",
     "tr": "Tehlikeli teknisyen"
+  },
+  {
+    "ru": "Операция",
+    "tr": "İşlem"
   },
   {
     "ru": "Оплата счета",
@@ -4815,6 +5243,10 @@ const WORDS_DATA = [
     "tr": "Sonbahar"
   },
   {
+    "ru": "Оскорбление",
+    "tr": "Hakaret"
+  },
+  {
     "ru": "Основной",
     "tr": "Ana"
   },
@@ -4837,6 +5269,10 @@ const WORDS_DATA = [
   {
     "ru": "Оставь",
     "tr": "Bırak"
+  },
+  {
+    "ru": "Остальное",
+    "tr": "Geri kalan"
   },
   {
     "ru": "Остановись",
@@ -4935,6 +5371,10 @@ const WORDS_DATA = [
     "tr": "Geri Çekil"
   },
   {
+    "ru": "Отправитель",
+    "tr": "Gönderen"
+  },
+  {
     "ru": "Отправь",
     "tr": "Gönder"
   },
@@ -4951,8 +5391,16 @@ const WORDS_DATA = [
     "tr": "Ofis"
   },
   {
+    "ru": "Официант",
+    "tr": "Garson"
+  },
+  {
     "ru": "Охладить",
     "tr": "Serinletmek"
+  },
+  {
+    "ru": "Охлаждать",
+    "tr": "Soğutmak"
   },
   {
     "ru": "Охота",
@@ -4967,12 +5415,20 @@ const WORDS_DATA = [
     "tr": "Hırsız alarmı"
   },
   {
+    "ru": "Охранник",
+    "tr": "Koruyucu"
+  },
+  {
     "ru": "Очки",
     "tr": "Gözlük"
   },
   {
     "ru": "Пакет",
     "tr": "Paket, Paşet"
+  },
+  {
+    "ru": "Палка",
+    "tr": "Sopa"
   },
   {
     "ru": "Пальто",
@@ -5019,8 +5475,20 @@ const WORDS_DATA = [
     "tr": "Kokmak"
   },
   {
+    "ru": "Пекарь",
+    "tr": "Fırıncı"
+  },
+  {
     "ru": "Пена для бритья",
     "tr": "Tıraş köpüğü"
+  },
+  {
+    "ru": "Перевод",
+    "tr": "Çeviri"
+  },
+  {
+    "ru": "Переговоры",
+    "tr": "Görüşme"
   },
   {
     "ru": "Перегреться",
@@ -5053,6 +5521,10 @@ const WORDS_DATA = [
   {
     "ru": "Период",
     "tr": "Süre"
+  },
+  {
+    "ru": "Персик",
+    "tr": "Şeftali"
   },
   {
     "ru": "Перчатки",
@@ -5187,6 +5659,10 @@ const WORDS_DATA = [
     "tr": "Omuz"
   },
   {
+    "ru": "Плитка",
+    "tr": "Karo"
+  },
+  {
     "ru": "Плоский",
     "tr": "Düz"
   },
@@ -5213,6 +5689,14 @@ const WORDS_DATA = [
   {
     "ru": "Пляж",
     "tr": "Plaj"
+  },
+  {
+    "ru": "Побег",
+    "tr": "Kaçma"
+  },
+  {
+    "ru": "Победитель",
+    "tr": "Galip"
   },
   {
     "ru": "Побелка",
@@ -5311,6 +5795,10 @@ const WORDS_DATA = [
     "tr": "Abone olmak"
   },
   {
+    "ru": "Подпись",
+    "tr": "Imza"
+  },
+  {
     "ru": "Подсвечник",
     "tr": "Mumluk"
   },
@@ -5327,6 +5815,10 @@ const WORDS_DATA = [
     "tr": "Tren"
   },
   {
+    "ru": "Поездка",
+    "tr": "Gezi"
+  },
+  {
     "ru": "Поездка в Турцию",
     "tr": "Türkiye bınmek"
   },
@@ -5337,6 +5829,18 @@ const WORDS_DATA = [
   {
     "ru": "Пожалуйста",
     "tr": "Lütfen"
+  },
+  {
+    "ru": "Пожар",
+    "tr": "Yangın"
+  },
+  {
+    "ru": "Пожарный",
+    "tr": "Itfaiye"
+  },
+  {
+    "ru": "Пожелание",
+    "tr": "Dilek"
   },
   {
     "ru": "Пожилой",
@@ -5417,6 +5921,10 @@ const WORDS_DATA = [
   {
     "ru": "Половину чая налей",
     "tr": "Çayın yarısını dökün"
+  },
+  {
+    "ru": "Положение",
+    "tr": "Hüküm"
   },
   {
     "ru": "Положи сумку в машину",
@@ -5527,6 +6035,10 @@ const WORDS_DATA = [
     "tr": "Şuna bak"
   },
   {
+    "ru": "Посольство",
+    "tr": "Büyükelçilik"
+  },
+  {
     "ru": "Постирайте одежду",
     "tr": "Giysilerinizi yıkayın"
   },
@@ -5591,6 +6103,10 @@ const WORDS_DATA = [
     "tr": "Cenaze"
   },
   {
+    "ru": "Похудеть",
+    "tr": "Kilo vermek"
+  },
+  {
     "ru": "Почему",
     "tr": "Neden"
   },
@@ -5619,6 +6135,10 @@ const WORDS_DATA = [
     "tr": "Doğru"
   },
   {
+    "ru": "Правитель",
+    "tr": "Hükümdar"
+  },
+  {
     "ru": "Правительство",
     "tr": "Hükümet"
   },
@@ -5641,6 +6161,14 @@ const WORDS_DATA = [
   {
     "ru": "Превышать скорость",
     "tr": "Hızı aşmak"
+  },
+  {
+    "ru": "Предатель",
+    "tr": "Hain"
+  },
+  {
+    "ru": "Предательский",
+    "tr": "Haince"
   },
   {
     "ru": "Предполагать, прогнозировать",
@@ -5679,12 +6207,20 @@ const WORDS_DATA = [
     "tr": "Kâr"
   },
   {
+    "ru": "Прибытие",
+    "tr": "Varış"
+  },
+  {
     "ru": "Приветствие",
     "tr": "Selamüm aleyküm"
   },
   {
     "ru": "Приветствовать",
     "tr": "Selamlamak"
+  },
+  {
+    "ru": "Привидение",
+    "tr": "Hayalet"
   },
   {
     "ru": "Привлекательный",
@@ -5705,6 +6241,10 @@ const WORDS_DATA = [
   {
     "ru": "Приглашение",
     "tr": "Davet"
+  },
+  {
+    "ru": "Пригород",
+    "tr": "Banliyö"
   },
   {
     "ru": "Приказ",
@@ -5831,6 +6371,10 @@ const WORDS_DATA = [
     "tr": "Saydam"
   },
   {
+    "ru": "Произнесение тоста",
+    "tr": "Kadeh kaldırma"
+  },
+  {
     "ru": "Пройти",
     "tr": "Geçmek"
   },
@@ -5863,6 +6407,10 @@ const WORDS_DATA = [
     "tr": "Affet beni"
   },
   {
+    "ru": "Проститутка",
+    "tr": "Fahişe"
+  },
+  {
     "ru": "Простыня",
     "tr": "Çarşaf"
   },
@@ -5885,6 +6433,10 @@ const WORDS_DATA = [
   {
     "ru": "Прохладный",
     "tr": "Serin"
+  },
+  {
+    "ru": "Процент",
+    "tr": "Faiz"
   },
   {
     "ru": "Прочный, выносливый",
@@ -6079,6 +6631,10 @@ const WORDS_DATA = [
     "tr": "Boyut"
   },
   {
+    "ru": "Разница",
+    "tr": "Fark"
+  },
+  {
     "ru": "Разные сорта",
     "tr": "Farklı çeşitler"
   },
@@ -6089,6 +6645,10 @@ const WORDS_DATA = [
   {
     "ru": "Разрешаю",
     "tr": "İzin vermek"
+  },
+  {
+    "ru": "Разрешительная бумага",
+    "tr": "Izin belgesi"
   },
   {
     "ru": "Разрешить",
@@ -6107,12 +6667,20 @@ const WORDS_DATA = [
     "tr": "Mahalle"
   },
   {
+    "ru": "Ракета",
+    "tr": "Roket"
+  },
+  {
     "ru": "Раковина",
     "tr": "Kabuk, Lavado"
   },
   {
     "ru": "Рано",
     "tr": "Erken"
+  },
+  {
+    "ru": "Раскопки",
+    "tr": "Kazı"
   },
   {
     "ru": "Расписание",
@@ -6139,6 +6707,10 @@ const WORDS_DATA = [
     "tr": "Tarak"
   },
   {
+    "ru": "Расчет",
+    "tr": "Hesaplama"
+  },
+  {
     "ru": "Реагировать",
     "tr": "Tepki göstermek"
   },
@@ -6157,6 +6729,10 @@ const WORDS_DATA = [
   {
     "ru": "Ревнивый",
     "tr": "Kıskanç"
+  },
+  {
+    "ru": "Редис",
+    "tr": "Turp"
   },
   {
     "ru": "Редкий",
@@ -6261,6 +6837,10 @@ const WORDS_DATA = [
   {
     "ru": "Рисую",
     "tr": "Çiziyorum"
+  },
+  {
+    "ru": "Рога",
+    "tr": "Boynuzlar"
   },
   {
     "ru": "Родился",
@@ -6375,6 +6955,10 @@ const WORDS_DATA = [
     "tr": "Buluşmayı dört gözle bekliyoruz"
   },
   {
+    "ru": "Саван",
+    "tr": "Kefen"
+  },
+  {
     "ru": "Сад",
     "tr": "Bahçe"
   },
@@ -6387,6 +6971,10 @@ const WORDS_DATA = [
     "tr": "Oturuyorum"
   },
   {
+    "ru": "Салон красоты",
+    "tr": "Güzellik salonu"
+  },
+  {
     "ru": "Салфетка",
     "tr": "Peçete"
   },
@@ -6397,6 +6985,10 @@ const WORDS_DATA = [
   {
     "ru": "Самолет, плоскость",
     "tr": "Düzlem"
+  },
+  {
+    "ru": "Самый",
+    "tr": "En"
   },
   {
     "ru": "Самый большой",
@@ -6439,6 +7031,14 @@ const WORDS_DATA = [
     "tr": "Pancar"
   },
   {
+    "ru": "Свекровь",
+    "tr": "Kaynana"
+  },
+  {
+    "ru": "Сверло",
+    "tr": "Matkap"
+  },
+  {
     "ru": "Свет",
     "tr": "Işık"
   },
@@ -6467,6 +7067,14 @@ const WORDS_DATA = [
     "tr": "Domuz"
   },
   {
+    "ru": "Свист",
+    "tr": "Islık"
+  },
+  {
+    "ru": "Свистеть",
+    "tr": "Islık çalmak"
+  },
+  {
     "ru": "Связать",
     "tr": "Bağlamak"
   },
@@ -6481,6 +7089,10 @@ const WORDS_DATA = [
   {
     "ru": "Священник",
     "tr": "Rahip"
+  },
+  {
+    "ru": "Cвободное время",
+    "tr": "Boş zaman"
   },
   {
     "ru": "Сдача сдачи",
@@ -6611,6 +7223,10 @@ const WORDS_DATA = [
     "tr": "Depo"
   },
   {
+    "ru": "Складной",
+    "tr": "Katlanır"
+  },
+  {
     "ru": "Сковорода",
     "tr": "Tava"
   },
@@ -6619,12 +7235,20 @@ const WORDS_DATA = [
     "tr": "Ne kadar para var"
   },
   {
+    "ru": "Сколько",
+    "tr": "Kaç  (для предметов)"
+  },
+  {
     "ru": "Сколько человек",
     "tr": "Kaç kişi var"
   },
   {
     "ru": "Скорее собирайся",
     "tr": "Çabuk toplan"
+  },
+  {
+    "ru": "Скорлупа",
+    "tr": "Kabuk"
   },
   {
     "ru": "Скорость",
@@ -6637,6 +7261,10 @@ const WORDS_DATA = [
   {
     "ru": "Скрип",
     "tr": "Gıcırtı"
+  },
+  {
+    "ru": "Cкрип обуви",
+    "tr": "Ayakkabı gıcırtısı"
   },
   {
     "ru": "Скромность",
@@ -6667,6 +7295,10 @@ const WORDS_DATA = [
     "tr": "Slavlar"
   },
   {
+    "ru": "Сладкий",
+    "tr": "Tatlı"
+  },
+  {
     "ru": "Слева",
     "tr": "Solda"
   },
@@ -6689,6 +7321,10 @@ const WORDS_DATA = [
   {
     "ru": "Слишком много работы",
     "tr": "Çok fazla iş var"
+  },
+  {
+    "ru": "Словарь",
+    "tr": "Sözlük"
   },
   {
     "ru": "Сложное выражение",
@@ -6729,6 +7365,10 @@ const WORDS_DATA = [
   {
     "ru": "Сметана, скользить",
     "tr": "Kaymak, Ekşi krema"
+  },
+  {
+    "ru": "Смех",
+    "tr": "Gülme"
   },
   {
     "ru": "Смешать",
@@ -6839,6 +7479,10 @@ const WORDS_DATA = [
     "tr": "Meyve sıkacağı"
   },
   {
+    "ru": "Сокровище",
+    "tr": "Hazine"
+  },
+  {
     "ru": "Солдат",
     "tr": "Asker"
   },
@@ -6893,6 +7537,10 @@ const WORDS_DATA = [
   {
     "ru": "Соус",
     "tr": "Sos"
+  },
+  {
+    "ru": "Спагетти",
+    "tr": "Spagetti"
   },
   {
     "ru": "Спальня",
@@ -6995,6 +7643,10 @@ const WORDS_DATA = [
     "tr": "Uydu anteni"
   },
   {
+    "ru": "Сравнение",
+    "tr": "Karşılaştırma"
+  },
+  {
     "ru": "Сражаться",
     "tr": "Dövüşmek"
   },
@@ -7021,6 +7673,10 @@ const WORDS_DATA = [
   {
     "ru": "Стакан",
     "tr": "Bardak"
+  },
+  {
+    "ru": "Сталь",
+    "tr": "Çelik"
   },
   {
     "ru": "Старый",
@@ -7168,7 +7824,7 @@ const WORDS_DATA = [
   },
   {
     "ru": "Счет",
-    "tr": "Hesap,"
+    "tr": "Fatura"
   },
   {
     "ru": "Сын",
@@ -7207,6 +7863,10 @@ const WORDS_DATA = [
     "tr": "Leğen"
   },
   {
+    "ru": "Тайна",
+    "tr": "Gizgi"
+  },
+  {
     "ru": "Тайфун",
     "tr": "Tayfun"
   },
@@ -7231,6 +7891,18 @@ const WORDS_DATA = [
     "tr": "Orada çok mutluluk var"
   },
   {
+    "ru": "Таможенная декларация",
+    "tr": "Gümrük beyannamesi"
+  },
+  {
+    "ru": "Таможенник",
+    "tr": "Gümrükçü"
+  },
+  {
+    "ru": "Таможенный налог",
+    "tr": "Gümrük vergisi"
+  },
+  {
     "ru": "Таможня",
     "tr": "Gümrük"
   },
@@ -7248,7 +7920,7 @@ const WORDS_DATA = [
   },
   {
     "ru": "Твердый",
-    "tr": "Sert"
+    "tr": "Katı"
   },
   {
     "ru": "Твой, твоя, твое",
@@ -7419,6 +8091,10 @@ const WORDS_DATA = [
     "tr": "Tost makinesi"
   },
   {
+    "ru": "Точилка",
+    "tr": "Kalemtıraş"
+  },
+  {
     "ru": "Точка с запятой",
     "tr": "Noktalı virgül"
   },
@@ -7527,6 +8203,14 @@ const WORDS_DATA = [
     "tr": "Türk kahvesi"
   },
   {
+    "ru": "Турист",
+    "tr": "Kampçı"
+  },
+  {
+    "ru": "Тусклый",
+    "tr": "Renksiz"
+  },
+  {
     "ru": "Туфли",
     "tr": "Pabuç"
   },
@@ -7567,6 +8251,10 @@ const WORDS_DATA = [
     "tr": "Karanlık"
   },
   {
+    "ru": "Тюрьма",
+    "tr": "Hapishane"
+  },
+  {
     "ru": "Тяжелый",
     "tr": "Ağır"
   },
@@ -7605,6 +8293,10 @@ const WORDS_DATA = [
   {
     "ru": "Убиваю",
     "tr": "Öldürüyorum"
+  },
+  {
+    "ru": "Убийца",
+    "tr": "Katil"
   },
   {
     "ru": "Убираться",
@@ -7661,6 +8353,10 @@ const WORDS_DATA = [
   {
     "ru": "Удачный",
     "tr": "Başarılı"
+  },
+  {
+    "ru": "Удивление",
+    "tr": "Şaşkınlık"
   },
   {
     "ru": "Удлиненный",
@@ -7775,6 +8471,10 @@ const WORDS_DATA = [
     "tr": "Düşmek"
   },
   {
+    "ru": "Упражнение",
+    "tr": "Egzersiz"
+  },
+  {
     "ru": "Упражнение на велосипеде",
     "tr": "Bisikletle egzersiz yapmak"
   },
@@ -7839,6 +8539,10 @@ const WORDS_DATA = [
     "tr": "Gidiyorum"
   },
   {
+    "ru": "Участие",
+    "tr": "Katılım"
+  },
+  {
     "ru": "Ученик",
     "tr": "Öğrenci"
   },
@@ -7879,6 +8583,14 @@ const WORDS_DATA = [
     "tr": "Fasulye"
   },
   {
+    "ru": "Фашизм",
+    "tr": "Faşizm"
+  },
+  {
+    "ru": "Фашист",
+    "tr": "Faşist"
+  },
+  {
     "ru": "Февраль",
     "tr": "Şubat"
   },
@@ -7889,6 +8601,10 @@ const WORDS_DATA = [
   {
     "ru": "Фигурное катание",
     "tr": "Buz pateni"
+  },
+  {
+    "ru": "Физический",
+    "tr": "Fizik"
   },
   {
     "ru": "Фильтровать",
@@ -7919,8 +8635,32 @@ const WORDS_DATA = [
     "tr": "Matara"
   },
   {
+    "ru": "Фонарь",
+    "tr": "Fener"
+  },
+  {
+    "ru": "Фонд",
+    "tr": "Fon"
+  },
+  {
     "ru": "Форель",
     "tr": "Alabalık"
+  },
+  {
+    "ru": "Формула",
+    "tr": "Formül"
+  },
+  {
+    "ru": "Форс мажор",
+    "tr": "Fors majör"
+  },
+  {
+    "ru": "Форум",
+    "tr": "Forum"
+  },
+  {
+    "ru": "Фотоальбом",
+    "tr": "Fotoğraf albümü"
   },
   {
     "ru": "Фотоаппарат",
@@ -7983,6 +8723,10 @@ const WORDS_DATA = [
     "tr": "Bekâr"
   },
   {
+    "ru": "Хомут",
+    "tr": "Kelepçe"
+  },
+  {
     "ru": "Хорошо",
     "tr": "İyi, Peki"
   },
@@ -8015,6 +8759,14 @@ const WORDS_DATA = [
     "tr": "Saklamak"
   },
   {
+    "ru": "Храп",
+    "tr": "Horultu"
+  },
+  {
+    "ru": "Хрен",
+    "tr": "Yaban turpu (дикий редис)"
+  },
+  {
     "ru": "Христианин",
     "tr": "Hıristiyan"
   },
@@ -8031,12 +8783,20 @@ const WORDS_DATA = [
     "tr": "Zayıf"
   },
   {
+    "ru": "Хулиган",
+    "tr": "Holigan"
+  },
+  {
     "ru": "Царапать",
     "tr": "Tırmalamak"
   },
   {
     "ru": "Цвет",
     "tr": "Renk"
+  },
+  {
+    "ru": "Цветок",
+    "tr": "Çiçek"
   },
   {
     "ru": "Целовать",
@@ -8053,6 +8813,10 @@ const WORDS_DATA = [
   {
     "ru": "Цена",
     "tr": "Fiyat"
+  },
+  {
+    "ru": "Ценник",
+    "tr": "Fiyat etiketi"
   },
   {
     "ru": "Центр",
@@ -8133,6 +8897,10 @@ const WORDS_DATA = [
   {
     "ru": "Чеснок",
     "tr": "Sarımsak"
+  },
+  {
+    "ru": "Честность",
+    "tr": "Dürüstlük"
   },
   {
     "ru": "Честный",
@@ -8243,6 +9011,10 @@ const WORDS_DATA = [
     "tr": "İpek"
   },
   {
+    "ru": "Шепот",
+    "tr": "Fısıltı"
+  },
+  {
     "ru": "Шерсть",
     "tr": "Yün"
   },
@@ -8253,6 +9025,10 @@ const WORDS_DATA = [
   {
     "ru": "Шины",
     "tr": "Lastikler"
+  },
+  {
+    "ru": "Ширина",
+    "tr": "Genişlik"
   },
   {
     "ru": "Широкий",
@@ -8269,6 +9045,10 @@ const WORDS_DATA = [
   {
     "ru": "Школа",
     "tr": "Okul"
+  },
+  {
+    "ru": "Шланг",
+    "tr": "Hortum"
   },
   {
     "ru": "Шорты",
@@ -8347,6 +9127,10 @@ const WORDS_DATA = [
     "tr": "Sınav"
   },
   {
+    "ru": "Экзотический",
+    "tr": "Egzotik"
+  },
+  {
     "ru": "Экономика",
     "tr": "Ekonomi"
   },
@@ -8367,8 +9151,16 @@ const WORDS_DATA = [
     "tr": "İhracat"
   },
   {
+    "ru": "Экстренный",
+    "tr": "Acil"
+  },
+  {
     "ru": "Электрическая выключатель",
     "tr": "Elektrik şalteri"
+  },
+  {
+    "ru": "Электрическая дрель",
+    "tr": "Elektrikli matkap"
   },
   {
     "ru": "Электрическая кнопка",
@@ -8387,12 +9179,28 @@ const WORDS_DATA = [
     "tr": "Elektrik şebekesi"
   },
   {
+    "ru": "Электрическая станция",
+    "tr": "Elektrik istasyonu"
+  },
+  {
+    "ru": "Электрическая энергия",
+    "tr": "Elektrik enerjisi"
+  },
+  {
     "ru": "Электрический счетчик",
     "tr": "Elektrik sayacı"
   },
   {
+    "ru": "Электроинструмент",
+    "tr": "Elektrikli alet"
+  },
+  {
     "ru": "Электронная почта",
     "tr": "E-posta"
+  },
+  {
+    "ru": "Эмоции",
+    "tr": "Duygular"
   },
   {
     "ru": "Энергия",
@@ -8417,6 +9225,10 @@ const WORDS_DATA = [
   {
     "ru": "Это",
     "tr": "Bu"
+  },
+  {
+    "ru": "Юбилей",
+    "tr": "Jübile"
   },
   {
     "ru": "Юбка",
@@ -8479,6 +9291,10 @@ const WORDS_DATA = [
     "tr": "Buldum"
   },
   {
+    "ru": "Я не могу терпеть",
+    "tr": "Dayanamıyorum"
+  },
+  {
     "ru": "Я никому не должен",
     "tr": "Ben kimseye borç yok"
   },
@@ -8489,6 +9305,10 @@ const WORDS_DATA = [
   {
     "ru": "Я ошибся",
     "tr": "Ben yanılmışım"
+  },
+  {
+    "ru": "Я пописал и покакал",
+    "tr": "İşedim ve kaka yaptım"
   },
   {
     "ru": "Я пошел за молоком",
@@ -8505,6 +9325,10 @@ const WORDS_DATA = [
   {
     "ru": "Я тебя уважаю",
     "tr": "Sana saygı duyuyorum"
+  },
+  {
+    "ru": "Я удивлен",
+    "tr": "Şaşırdım"
   },
   {
     "ru": "Я ухожу",
@@ -8537,6 +9361,10 @@ const WORDS_DATA = [
   {
     "ru": "Яйцо",
     "tr": "Yumurta"
+  },
+  {
+    "ru": "Яма",
+    "tr": "Çukur"
   },
   {
     "ru": "Январь",

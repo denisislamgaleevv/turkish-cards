@@ -1,7 +1,7 @@
 0 – sıfır 
 1 - bir [бир]
 10 - on [он]
-100 - yüz [йюз]
+100 - yüz [йюз] 
 1000 - bin [бин]
 1000000 – bir milyon
 2 - iki [ики]
@@ -20,14 +20,10 @@
 80 - seksen [сексен]
 9 - dokuz [докуз]
 90 - doksan [докузан]
-Cвободное время – Boş zaman
-Cкрип обуви – Ayakkabı gıcırtısı
-Kaç – Сколько (для предметов)  
-Mеталл – Metal
-Varış – Прибытие
 Абрикос – Kayısı
 Авария – Kaza
 Август – Ağustos
+Авокадо – Avokado
 Автовокзал – Otogar
 Автограф – El yazısı
 Автозаправка – Benzin istasyonu
@@ -39,13 +35,17 @@ Varış – Прибытие
 Адвокат – Avukat
 Альпинист – Dağcı
 Адрес – Adres
+Аквариум – Akvaryum
 Акула – Köpekbalığı
 Акция – Hisse senedi
 Алкогольный напиток – Alkollü içki
 Альпинизм – Dağcılık
 Анализировать – Analiz etmek
 Анализы – Analizler
+Ананас – Ananas
 Ангел – Melek
+Анекдот – Fıkra
+Античный – Antik
 Апельсин - Portakal
 Аппетит – Iştah
 Апрель – Nisan
@@ -66,7 +66,9 @@ Varış – Прибытие
 Бабочка – Kelebek
 Бабушка –  Nine
 Багаж – Bagaj
+Байдарка – Kayık
 Баклажан – Patlıcan
+Баланс – Denge
 Балкон – Balkon
 Банан – Muz
 Банк – Banka
@@ -110,15 +112,18 @@ Varış – Прибытие
 Биржа – Borsa
 Бифштекс – Biftek 
 Благодарен – Müteşekkir
+Бледный – Soluk
 Блестящие – Parlaklar
 Ближайший – En yakın
 Близкий – Yakın
+Близнецы – Ikizler
 Блондинка, блондин – Sarışın
 Блузка – Bluz
 Блюдце – Fincan tabağı
 Бог – Tanrı, Allah
 Богатый – Zengin
 Богатый ум – Zengin zihin
+Болгарский перец – Dolmalık biber
 Болельщики – Taraftarlar
 Болтливый – Geveze
 Боль – Ağrı
@@ -127,6 +132,7 @@ Varış – Прибытие
 Больше – Fazla, Daha
 Большое чувство любовь – Büyük duygu aşk
 Большой – Büyük
+Борец – Güreşçi
 Борода – Sakal
 Бороться – Güreşmek
 Борьба – Güreş
@@ -134,6 +140,7 @@ Varış – Прибытие
 Бочка – Fıçı
 Боюсь – Korkuyorum
 Бояться – Korkmak
+Браконьер – Kaçak avcı
 Браслет – Bilezik
 Брат – Kardeş
 Брелок – Anahtarlık
@@ -159,6 +166,7 @@ Varış – Прибытие
 Бывает – Oluyor
 Бык – Boğa
 Было – Vardı
+Быстро – Çabuk 
 Быстро растет – Hızla büyüyor
 Быстрый – Hızlı
 Быть в отпуске – Tatilde olmak
@@ -174,6 +182,7 @@ Varış – Прибытие
 В середине – Ortada
 В этом мире – Bu dünyada
 Ваза – Vazo
+Валюта – Döviz
 Вампир – Вампир
 Ванна – Banyo, Küvet
 Варвары – Barbarlar
@@ -197,22 +206,27 @@ Varış – Прибытие
 Веник, метла – Süpürge
 Вера – İnanç
 Веранда – Veranda
+Верблюд – Deve
 Веревка – İp
 Верить – İnanmak
 Вернуть – Geri vermek
 Верный – Güvenilir
 Вертикальный – Dikey
+Вертолет – Helikopter
 Верующий – İmanlı, Dindar
 Верхний этаж – Üst kat
 Веселый – Eğlenceli
 Весна – Bahar
+Веснушки – Çiller
 Весы – Terazi
 Весь дом празднует - Bütün ev kutluyor
 Ветер – Rüzgâr
 Ветер дует – Rüzgar esiyor
+Ветка – Dal
 Ветренный – Rüzgarlı
 Вечер – Akşam
 Вечеринка – Parti
+Вечный – Sonsuz
 Вешалка – Askı
 Вещество – Madde
 Вещь – Şey
@@ -225,6 +239,7 @@ Varış – Прибытие
 Видеть – Görmek
 Вижу – Görüyorum
 Виза – Vize
+Визитная карточка – Kartvizit
 Вилка – Çatal
 Вина – Suç
 Вино – Şarap
@@ -304,10 +319,12 @@ Varış – Прибытие
 Всегда – Daima
 Всегда рад – Daima sevindim
 Вспотел - Terledim
+Вспышка – Flaş
 Вставать – Kalkmak
 Вставлять – Sokmak, takmak
 Встаю – Kalkıyorum
 Встретиться – Buluşmak
+Встреча – Karşılaşma, Randevu
 Встречаюсь – Buluşuyom
 Вторник – Salı
 Вход – Giriş
@@ -323,12 +340,16 @@ Varış – Прибытие
 Выбрасываю, бросаю – Atıyorum
 Выбросить – Atmak
 Выбросить мусор – Çöpü atmak
+Выгода – Fayda
 Выгодный – Kârlı
 Выиграть – Kazanmak
 Выигрываю – Kazanıyorum
 Выключить – Kapamak
 Выпускник – Mezun
 Выражения – İfadeler
+Выращиваю – Yetiştiriyorum
+Высморкайся – Burnunu üfle
+Высморкаться – Burnunu sümkürmek
 Высокий человек – Uzun adam
 Высокое напряжение – YÜKSEK GERİLİM
 Вытри стол – Masayı sil
@@ -340,11 +361,16 @@ Varış – Прибытие
 Газировка – Gazoz, Soda
 Газовая плита – Gaz sobası
 Галстук – Kravat 
+Гангстер – Gangster
 Гандбол – Hentbol
 Гарантия - Garanti
 Гардероб – Elbise dolabı
 Гарнир – Garnitür
 Где – Nerede
+Гектар – Hektar
+Геометрия – Geometri
+Героизм – Kahramanlık
+Герой – Kahraman
 Гигант – Dev
 Гид – Rehber
 Гимнастика – Jimnastik
@@ -362,6 +388,8 @@ Varış – Прибытие
 Голова – Kafa, Baş
 Голодный – Aç
 Голос – Ses
+Голубь – Güvercin
+Гомосексуалист – Homoseksüel
 Гонки – Yarışı
 Гора – Dağ
 Гордиться – Gurur duymak
@@ -384,8 +412,11 @@ Varış – Прибытие
 Градус – Derece
 Гражданин – Uyruk
 Гражданство – Vatandaşlık
+Грамм – Gram
+Грамматика – Gramer
 Гранат – Nar
 Граната – El bombası
+Гранит – Granit
 Граница – Sınır
 Графин – Sürahi
 Грейпфрут – Greyfurt
@@ -401,6 +432,7 @@ Varış – Прибытие
 Грубый – Kaba
 Грудь – Göğüs
 Грузовая машина – Kamyon
+Группа – Grup
 Группа крови – Kan grubu
 Грустный – Üzgün
 Грусть – Hüzün
@@ -431,9 +463,11 @@ Varış – Прибытие
 Движение – Hareket
 Двор – Avlu
 Дворец – Saray
+Двухместный номер – Iki kişilik oda
 Дева – Başak
 Девственница – Bakire 
 Дедушка – Büyükbaba
+Дежурный, сотрудник – Görevli 
 Декабрь – Aralık
 Дела закончены – İşler bitti
 Делать – Yapmak
@@ -441,6 +475,7 @@ Varış – Прибытие
 Делаю – Yapıyorum
 Делить – Bölmek
 Делиться – Paylaşmak
+Дельфин – Yunus
 Делю – Bölüyorum
 Демократия – Demokrasi
 День рождения – Doğum günü
@@ -457,6 +492,8 @@ Varış – Прибытие
 Детский сад – Anaokulu
 Дешевый – Ucuz
 Джинцы – Kot
+Дзюдо – Judo
+Дзюдоист – Judocu
 Диалог – Diyalog
 Диван – Kanepe
 Диета – Diyet
@@ -465,6 +502,7 @@ Varış – Прибытие
 Диплом – Diploma
 Директор – Müdür
 Дискотека – Disko
+Дисциплина – Disiplin
 Дисциплина – Disiplin
 Длинный – Yüksek
 Для себя – Kendim için
@@ -476,9 +514,11 @@ Varış – Прибытие
 Добраться – Ulaşmak için
 Добро пожаловать – Hoş geldiniz
 Добрый – İyi
+Доверие – Güven
 Доверчивый – Güvenen
 Доверять – Güvenmek
 Доверяю – Güveniyorum
+Довести до кипения – Kaynata
 Довольный – Memnun
 Договариваться – Anlaşmak
 Договорюсь – Anlaşma
@@ -505,6 +545,7 @@ Varış – Прибытие
 Другие – Diğer
 Другие женщины противные – Diğer kadınlar iğrenç
 Другой – Başka
+Дружественный – Dost
 Дуб – Meşe
 Дума – Meclis
 Думать – Düşünmek
@@ -524,6 +565,7 @@ Varış – Прибытие
 Единственный – Tek olan
 Еду не ешь – Yemek yeme
 Ежедневный – Günlük
+Если позволит бог – Allah izin verirse
 Есть имеется – Var var
 Ешь – Ye
 Еще – Halâ
@@ -543,6 +585,7 @@ Varış – Прибытие
 Жгу – Yakıyorum
 Ждать – Beklemek
 Жду – Bekliyorum
+Желание ¬– Istek 
 Железная дорога – Demiryolu
 Железнодорожный вокзал – Tren istasyonu
 Железо – Demir
@@ -565,20 +608,24 @@ Varış – Прибытие
 Живу – Yaşıyorum
 Жидкость – Sıvı
 Жизнь – Hayat
+Жизнь после смерти – Ölüm sonrası hayat
 Жилет – Yelek
 Жилье – Konut
 Жить – Yaşamak
 Журнал – Dergi
 Журналист – Muhabir
 Журнальный столик – Sehpa
+Жюри – Jüri
 Забить гол – Gol atmak
 Заблудиться – Yolunu kaybetmek
+Заболел – Hastalanıyordu
 Забор – Çit
 Забронировать столик – Masa ayırtmak
 Забывать – Unutmak
 Забываю – Unutuyom
 Забыл – Unutuyordu
 Завидовать – Kıskanmak
+Завоеватель – Fatih
 Завтра – Yarın
 Завтрак – Kahvaltı
 Загадка – Bilmece
@@ -658,6 +705,7 @@ Varış – Прибытие
 Знаю – Biliyorum
 Золотистый – Altın
 Зонтик – Şemsiye
+Зоопарк – Hayvanat bahçesi
 Зрители – Seyirci
 Зубная паста – Diş macunu
 Зубная щетка – Diş fırçası
@@ -670,7 +718,9 @@ Varış – Прибытие
 Играть – Oynamak
 Играю – Oynuyorum
 Игрушка – Oyuncak
+Идеал – Ideal
 Идет град – Dolu yağıyor
+Идея – Fikir
 Избиратели – Seçmen
 Извини – Affedersin
 Извинись – Özür dile
@@ -680,6 +730,7 @@ Varış – Прибытие
 Иметь – Sahip olmak, Olmak
 Иметь в виду – Akılda tutmak
 Имею – Oluyorum
+Иммигрант – Göçmen
 Импорт – İthalat
 Имя – Ad
 Инвестиции – Yatırım
@@ -696,6 +747,7 @@ Varış – Прибытие
 Инфляция – Enflasyon
 Информационное бюро – Danışma bürosu
 Информировать – Bilgi vermek
+Ипподром – Hipodrom
 Искать, позвонить – Aramak
 Искусственный – Suni, Yapay
 Искусство – Sanat
@@ -721,6 +773,8 @@ Varış – Прибытие
 Каждый – Her
 Каждый день – Her gün
 Каждый день я опаздываю на работу – Her gün işe geç kalıyorum           
+Казино – Kazino
+Казнь – Idam 
 Как – Olarak, Nasıl
 Как называется – Adı ne
 Какой, который – Hangi
@@ -728,7 +782,11 @@ Varış – Прибытие
 Кальмар – Kalamar
 Камера – Kamera
 Камин – Şömine	
-Канал – kanal
+Кампания – Kampanya
+Канава – Hendek
+Канал – Kanal
+Канализация – Kanalizasyon
+Канатная дорога – Teleferik
 Канистра с бензином – Benzin bidonu
 Капать – Damlamak
 Капитан – Kaptan
@@ -736,15 +794,23 @@ Varış – Прибытие
 Капуста – Lahana
 Карандаш – Kalem
 Карандаш для глаз – Göz kalemi
+Каратист – Karateci
+Каратэ – Karate
+Кардинал – Kardinal
 Карман – Cep
 Карта – Harita
 Картина – Resim
+Картон – Karton
 Картофель – Patates
 Картофель фри - Patates kızartması
 Касса – Kasa
 Кассета – Kaset
+Кассир – Kasiyer
 Кастрюля – Tencere
+Каталог – Katalog
 Катание на коньках – Paten kaymak
+Катастрофа – Felaket
+Категория – Kategori
 Кафе – Kafe
 Кафель – Fayans
 Качели – Salıncak
@@ -754,13 +820,17 @@ Varış – Прибытие
 Каюта – Kamara
 Квадратный: к – Kare
 Квартира – Daire
+Кемпинг – Kamp yapma
 Килограмм – Kilo
 Кинотеатр – Sinema
 Кипеть – Kaynamak
 Кипяченный чай – Kaynamış çay
 Кирпич – Tuğla
+Кит – Balina
 Класс – Sınıf
+Клещи – Kerpeten
 Климат – İklim
+Клубника – Çilek
 Ключ – Anahtar
 Книжный шкаф – Kitaplık
 Ковер – Halı
@@ -778,6 +848,8 @@ Varış – Прибытие
 Колокольня – Çan Kulesi
 Кольцо – Halka
 Команда – Komut, Takım
+Командировка – Iş gezisi
+Комар – Sivrisinek
 Комбинезон – Tulum
 Коммунальные платежи где платить – Faturalar nerede ödenecek
 Комната – Oda
@@ -789,12 +861,18 @@ Varış – Прибытие
 Консервы – Konserve
 Конституция – Anayasa
 Консультант – Danışman
+Консьерж – Kapıcı
+Контрабанда – Kaçak mal
+Контрабандист – Kaçakçı
+Контроль качества – Kalite kontrolü
 Конфета – Şekerleme
 Коньяк – Konyak
 Копать – Çapalamak
+Копать – Kazmak
 Копченый – Füme
 Корабль – Gemi
 Коран – Kuran
+Корень – Kök
 Коридор – Koridor
 Коричневый – Kahverengi
 Кормить – Beslemek
@@ -803,6 +881,7 @@ Varış – Прибытие
 Король – Kral
 Короткий – Kısa
 Короткое замыкание – Kontak
+Костер – Kamp ateşi
 Кости – Kemikler
 Костюм – Kostüm
 Котел - Kazan
@@ -810,11 +889,13 @@ Varış – Прибытие
 Котлета – Pirzola
 Кофеварка – Kahve makinesi
 Кофейник – Cezve
+Кофейня – Kahvehane
 Кофемолка – Kahve değirmeni
 Кофта – Kazak
 Кошка – Kedi
 Кошмар – Kâbus (кьябус)
 Краб – Yengeç
+Кража – Hırsızlık
 Край – Kenar
 Кран – Musluk
 Красивый – Güzel
@@ -837,6 +918,7 @@ Varış – Прибытие
 Кровать – Yatak
 Кровь – Kan
 Кровяное давление – Tansiyon
+Крокодил – Timsah
 Кролик – Tavşan
 Кроме – Hariç, Dışında
 Кроссовки – Spor ayakkabı
@@ -844,11 +926,13 @@ Varış – Прибытие
 Крыло – Kanat
 Крыша – Çatı, Dam
 Крышка – Kapak
+Ксерокс – Fotokopi makinesi
 Кто – Kim
 Кубок – Kupa
 Куда – Nereye
 Кузен – Kuzen
 Кукуруза – Mısır
+Кумир – Idol
 Купальник – Mayo, Bikini
 Курить – Sigara içmek
 Курс – Kurs
@@ -857,6 +941,7 @@ Varış – Прибытие
 Кухня – Mutfak
 Кушать – Yemek
 Лавка – Dükkân
+Лагерь – Kamp
 Ладно – Tamam
 Лай собаки – Köpek havlaması
 Лак для ногтей – Oje
@@ -866,6 +951,7 @@ Varış – Прибытие
 Лгать – Yalan söylemek
 Лев – Aslan
 Левый – Sol
+Легенда – Efsane
 Легкие – Akciğer
 Легкий – Kolay, Hafif
 Лежать – Yatmak
@@ -894,10 +980,12 @@ Varış – Прибытие
 Лицей – Lise
 Лицо – Yüz, Kişi
 Личность – Kişilik
+Лодка – Tekne
 Ложка – Kaşık
 Локоть – Dirsek
 Ломать – Kırmak
 Ломаю – Kırıyorum
+Лопата – Kürek
 Лошадь – At
 Лук - Soğan 
 Луна – Ay
@@ -931,6 +1019,7 @@ Varış – Прибытие
 Манная каша – İrmik lapası
 Маргарин - Margarin
 Марка – Marka
+Маркер – Fosforlu kalem
 Мармелад – Marmelat
 Март – Mart
 Масло - Yağ 
@@ -945,6 +1034,7 @@ Varış – Прибытие
 Медленный – Yavaş
 Медовый месяц – Balayı
 Медсестра – Hemşire
+Медуза – Denizanası
 Между – Araşında
 Международный – Uluslararası
 Меньше – Daha az
@@ -958,6 +1048,7 @@ Varış – Прибытие
 Месяц – Ay
 Месяца – Ayın
 Метель – Kar fırtınası
+Mеталл – Metal
 Метро – Metro
 Мех – Kürk
 Мечеть – Cami
@@ -995,6 +1086,7 @@ Varış – Прибытие
 Молитва – Dua
 Молния – Şimşek, Yıldırım
 Молодой – Genç
+Молодость – Gençlik
 Молоко - Süt 
 Моляр – Boyacı
 Монахиня – Rahibe
@@ -1006,6 +1098,7 @@ Varış – Прибытие
 Морозильная камера –Derin dondurucu
 Морозный – Ayazlı
 Мост – Köprü
+Мошенник – Dolandırıcı
 Мою, стираю – Yıkıyorum (йыкыорум)
 Муж – Koca
 Мужество – Cesaret
@@ -1057,12 +1150,15 @@ Varış – Прибытие
 Налей сразу - Hemen dökün
 Наличные деньги – Nakit para
 Нам, наша, наше – Bizim
+Нападать – Saldırmak
 Наполнять – Doldurmak
 Наполняю – Dolduruyorum
 Напоминать – Hatırlatmak
 Напоминаю – Hatırlatıyorum
 Направление – Yön
+Напряжение – Gerilim
 Народ - Halk
+Наружная реклама – Dış reklam
 Нарушение – İhlal
 Настенная вешалка – Duvar askısı
 Настольная лампа – Masa lambası
@@ -1077,6 +1173,7 @@ Varış – Прибытие
 Начало – Başlangıç
 Начальник – Amir, Şef
 Начать – Başlamak
+Начинка – Dolma 
 Не – Değil
 Не беспокоить – Rahatsız etmeyin
 Не держи – Sakın tutma
@@ -1095,6 +1192,7 @@ Varış – Прибытие
 Не толкай – Zorlama
 Небезопасный – Güvensiz
 Небо – Gökyüzü
+Небоскреб – Gökdelen
 Невестка – Gelin
 Невинный – Suçsuz
 Невкусный – Tatsız
@@ -1102,18 +1200,22 @@ Varış – Прибытие
 Невоспитанный – Terbiyesiz
 Недвижимость – Gayrimenkul
 Неделя – Hafta
+Недоверие – Güvensizlik
 Недовольные – Memnun olmayan
 Незабываемый – Unutulmaz
 Незаконный – Yasadışı, Kanunsuz
 Незамерзающая жидкость – Donmayan sıvı
 Ненавидеть – Nefret etmek
 Необходимый – Lazım (лязым)
+Неопределенный – Belirsiz
 Неподвижный – Hareketsiz
 Непонятное вещество – Anlaşılmaz madde
 Неправильно – Yanlış
+Неправильно выразился – Yanlış ifade ettim
 Неприятный – Sevimsiz
 Нервничать – Sinirlenmek
 Нервный – Sinirli
+Несправедливость – Adaletsizlik
 Несправедливый – Haksız
 Нет – Yok
 Нет свободных мест – Boş yer yok 
@@ -1124,6 +1226,7 @@ Varış – Прибытие
 Никому – Kimseye
 Никто – Kimse
 Нить – İplik
+Ничего – Hiçbir
 Нищий – Dilenci
 Но – Ama
 Новогодняя елка – Noel ağacı
@@ -1138,10 +1241,12 @@ Varış – Прибытие
 Номер – Numara
 Нормальный – Normal
 Нос – Burun
+Носильщик – Hamal
 Носить, везти – Taşima
 Носовой платок – Mendil
 Носок – Çorap
 Нотариус – Noter
+Ноутбук – Dizüstü bilgisayar
 Ночной клуб – Gece kulübü
 Ночь – Gece
 Ноябрь – Kasım
@@ -1162,10 +1267,12 @@ Varış – Прибытие
 Облако – Bulut
 Обмануть – Aldatmak
 Обмен валюты – Döviz bürosu
+Обмен валюты – Kambiyo
 Обнимать – Kucaklamak
 Обними меня – Sarıl
 Обогреватель – Kalorifer
 Обои – Duvar kağıdı
+Оборудование – Donanım
 Обратно – Geri
 Обслуживание – Servis
 Общение – Iletişim
@@ -1189,13 +1296,16 @@ Varış – Прибытие
 Одинокий – Yalnız
 Озеро – Göl
 Октябрь – Ekim
+Окурок – Izmarit
 Оливковое масло – Zeytinyağı
+Он может видеть – Görebilir 
 Он, она, оно – O
 Они – Onlar
 Опаздывать – Gecikmek 
 Опаздываю – Gecikiyom
 Опасный – Tehlikeli
 Опасный техник – Tehlikeli teknisyen
+Операция – İşlem
 Оплата счета – Hesabı ödemek
 Опозорился – Rezil oldum
 Опрос – Anket
@@ -1206,12 +1316,14 @@ Varış – Прибытие
 Освобождать – Boşaltmak
 Осел – Eşek
 Осень – Sonbahar
+Оскорбление – Hakaret
 Основной – Ana
 Основные блюда – Ana yemekler
 Оставаться – Kalmak
 Оставить – Bırakmak
 Оставляю – Bırakıyorum
 Оставь – Bırak
+Остальное – Geri kalan
 Остановись – Dur
 Остановить – Durdurmak
 Остановка – Durak
@@ -1219,6 +1331,7 @@ Varış – Прибытие
 Остерегайтесь собака есть – Dikkat köpek var
 Остерегаться –Sakınmak
 Острый – Keskin
+Острый – Sivri
 Осьминог – Ahtapot
 Отвез – Götürdüm
 Отвезти – Götüreyim
@@ -1236,16 +1349,21 @@ Varış – Прибытие
 Отлично – Mükemmel, Yolunda
 Отложить – Ertelemek
 Отойди – Geri Çekil
+Отправитель – Gönderen
 Отправь – Gönder
 Отрастить, распространяться – Uzamak
 Отращиваю, продлеваю – Uzatıyorum
 Офис – Ofis
+Официант – Garson
 Охладить – Serinletmek 
+Охлаждать – Soğutmak
 Охота - Av
 Охотник – Avcı
 Охранная сигнализация – Hırsız alarmı
+Охранник – Koruyucu
 Очки – Gözlük
 Пакет – Paket, Paşet
+Палка – Sopa
 Пальто – Palto, Kat
 Пальцы – Parmaklar
 Памятник – Anıt
@@ -1257,7 +1375,10 @@ Varış – Прибытие
 Пахлава – Baklava
 Пахнет – Kokuyor
 Пахнуть – Kokmak
+Пекарь – Fırıncı
 Пена для бритья – Tıraş köpüğü
+Перевод – Çeviri
+Переговоры – Görüşme
 Перегреться – Isınmak
 Перед – Önce
 Перекресток – Kavşak
@@ -1266,6 +1387,7 @@ Varış – Прибытие
 Перечница – Biberlik
 Перила – Korkuluk
 Период – Süre
+Персик – Şeftali
 Перчатки – Eldiven
 Перчить – Biberlemek
 Песня – Şarkı
@@ -1299,6 +1421,7 @@ Varış – Прибытие
 Платить – Ödemek
 Платье – Elbise
 Плечо – Omuz
+Плитка – Karo
 Плоский – Düz
 Плохой – Kötü
 Площадь – Alan, Meydan
@@ -1306,6 +1429,9 @@ Varış – Прибытие
 Плюнул - Tükürdum
 Плюс – Artı
 Пляж – Plaj
+Побег – Kaçma
+Победитель – Galip
+Победитель – Kazanan
 Побелка – Badana
 Повернуть – Dönmek
 Повреждение – Bozma
@@ -1330,13 +1456,18 @@ Varış – Прибытие
 Подожди – Bekle, Bekle
 Подоконник – Pencere kenarı 
 Подписаться – Abone olmak
+Подпись – Imza
 Подсвечник – Mumluk
 Подсолнечное масло – Ayçiçeği yağı
 Подушка - Yastık
 Поезд – Tren
+Поездка – Gezi
 Поездка в Турцию – Türkiye bınmek
 Поездка на лифте – Asansöre binmek
 Пожалуйста – Lütfen
+Пожар – Yangın
+Пожарный – Itfaiye
+Пожелание – Dilek
 Пожилой – Yaşlı
 Позволь мне обнять тебя – Bırak sana sarılmama izin ver
 Поздно – Geç
@@ -1357,6 +1488,7 @@ Varış – Прибытие
 Половик – Paspas
 Половина – Yarım
 Половину чая налей – Çayın yarısını dökün
+Положение – Hüküm
 Положи сумку в машину – Çantayı arabaya birak (koy)
 Положить – Koymak
 Положу – Koyacağım
@@ -1385,6 +1517,7 @@ Varış – Прибытие
 Пословица – Atasözü
 Посмотри – Baksana
 Посмотри на это – Şuna bak
+Посольство – Büyükelçilik
 Постирайте одежду – Giysilerinizi yıkayın
 Постоянно – Sürekli
 Постучись в дверь – Kapıyı çal
@@ -1401,6 +1534,7 @@ Varış – Прибытие
 Походить, выглядеть – Benzemek
 Похож – Benzer
 Похороны – Cenaze
+Похудеть – Kilo vermek
 Почему – Neden
 Почему-то – Nedense
 Почки – Böbrekler
@@ -1408,12 +1542,15 @@ Varış – Прибытие
 Почтовый ящик –Posta Kutusu
 Поясница - Bel
 Правильный – Doğru
+Правитель – Hükümdar
 Правительство – Hükümet
 Право - Hak
 Правый – Sağ
 Праздник – Bayram
 Праздновать – Kutlamak
 Превышать скорость – Hızı aşmak
+Предатель – Hain
+Предательский – Haince
 Предполагать, прогнозировать – Tahmin etmek
 Предположение – Tahmin
 Президент –Cumhurbaşkan
@@ -1423,14 +1560,17 @@ Varış – Прибытие
 Преследовать – Takip etmek
 Преступление – Cinayet
 Прибыль – Kâr
+Прибытие – Varış
 Приветствие – Selamüm aleyküm
 Приветствовать – Selamlamak
+Привидение – Hayalet
 Привлекательный – Çekici
 Привычка – Alışkanlık
 Приглашать – Davet etmek
 Приглашать друзей - Arkadaşlarını davet et
 Приглашение – Davet
 Приглашение – Davetiye
+Пригород – Banliyö
 Приказ – Emir
 Приказывать – Emreymek
 Прикроватная тумбочка – Komodin
@@ -1462,6 +1602,7 @@ Varış – Прибытие
 Продолжение – Devam
 Продукты – Gıda
 Прозрачный – Saydam
+Произнесение тоста – Kadeh kaldırma
 Пройти – Geçmek
 Пройти мимо – Yanından geçmek
 Проповедь – Vaaz
@@ -1470,12 +1611,14 @@ Varış – Прибытие
 Просить прощения – Özür dilerım
 Проспект – Cadde
 Прости меня – Affet beni
+Проститутка – Fahişe
 Простыня – Çarşaf
 Против – Karşı
 Профессионал – Profesyonel
 Профессия – Meslek
 Профессор – Profesör
 Прохладный – Serin
+Процент – Faiz
 Прочный, выносливый – Dayanıklı
 Прошу у Аллаха прощения – Estağfurullah
 Пружина – Yay (яй) 
@@ -1525,26 +1668,32 @@ Varış – Прибытие
 Различать, разделять – Ayırmak
 Различаю, разделяю – Ayırıyorum
 Размер – Boyut
+Разница – Fark
 Разные сорта – Farklı çeşitler
 Разогрей мне блины – Krepleri bana ısıt
 Разрешаю – İzin vermek
+Разрешительная бумага – Izin belgesi
 Разрешить- İzin ver
 Разрывать – Yırtmak
 Рай – Cennet
 Район – Mahalle
+Ракета – Roket
 Раковина – Kabuk, Lavado
 Рано – Erken
+Раскопки – Kazı
 Расписание – Program
 Расставаться – Ayrılmak (айрылмак)
 Расстаюсь – Ayrılıyorum (айрылыорум)
 Растение – Bitki
 Расти – Artmak
 Расческа – Tarak
+Расчет – Hesaplama
 Реагировать - Tepki göstermek
 Реактивный самолет – Jet uçağı
 Реакция – Reaksiyon, tepkı
 Ребенок – Çocuk
 Ревнивый – Kıskanç
+Редис – Turp
 Редкий – Nadir
 Режим – Rejim
 Режу – Kesiyom
@@ -1571,6 +1720,7 @@ Varış – Прибытие
 Рисовать – Çizmek
 Рисунок – Şekil
 Рисую – Çiziyorum
+Рога – Boynuzlar
 Родился – Doğuyordu
 Родина – Vatan, Yurt
 Родители – Ebeveyn
@@ -1599,12 +1749,15 @@ Varış – Прибытие
 С акцентом – Aksan ile
 С начала, сколько времени назад – Önce
 С нетерпеньем ждем встречи – Buluşmayı dört gözle bekliyoruz
+Саван – Kefen
 Сад – Bahçe
 Садись – Otur
 Сажусь – Oturuyorum
+Салон красоты – Güzellik salonu
 Салфетка – Peçete
 Самолет – Uçak
 Самолет, плоскость – Düzlem
+Самый – En
 Самый большой – En büyük
 Санта-Клаус – Noel Baba
 Сапоги – Çizmeler
@@ -1615,6 +1768,8 @@ Varış – Прибытие
 Свадьба – Düğün
 Свежий – Taze
 Свекла – Pancar
+Свекровь – Kaynana
+Сверло – Matkap
 Свет – Işık
 светло-голубой – Açık mavi
 Светлый – Açık
@@ -1622,10 +1777,13 @@ Varış – Прибытие
 Свеча – Mum
 Свинина – Domuz eti
 Свинья – Domuz
+Свист – Islık
+Свистеть – Islık çalmak
 Связать – Bağlamak
 Связь – Bağlantı
 Святой – Kutsal
 Священник – Rahip
+Cвободное время – Boş zaman
 Сдача сдачи –Para üstü vermek
 Сделай это – Bunu yap
 Сделаю – Yapacağım
@@ -1659,13 +1817,17 @@ Varış – Прибытие
 Сквозняк – Cereyan
 Скидка – İndirim
 Склад – Depo
+Складной – Katlanır
 Сковорода – Tava
 Сколько денег – Ne kadar para var
+Сколько – Kaç  (для предметов)  
 Сколько человек – Kaç kişi var
 Скорее собирайся – Çabuk toplan
+Скорлупа – Kabuk
 Скорость – Hız
 Скорпион – Akrep
 Скрип – Gıcırtı
+Cкрип обуви – Ayakkabı gıcırtısı
 Скромность – Mütevazi
 Скука – Sıkıntı
 Скупой – Cimri
@@ -1673,12 +1835,15 @@ Varış – Прибытие
 Скучаю – Özlüyorum
 Слабеть – Zayıflamak
 Славяне – Slavlar
+Сладкий – Tatlı
 Слева – Solda
 След – Ayak izi
+След – Iz
 Следующий – Sonraki
 Слепой – Kör
 Слива – Erik
 Слишком много работы – Çok fazla iş var
+Словарь – Sözlük
 Сложное выражение – Karmaşık ifade
 Сложный – Karmaşık
 Сломалось – Kırılıyordu
@@ -1689,6 +1854,7 @@ Varış – Прибытие
 Слышу – Duyuyorum
 Смелый – Cesur
 Сметана, скользить – Kaymak, Ekşi krema
+Смех – Gülme
 Смешать – Karıştırmak
 Смеюсь – Gülüyorum
 Смеяться – Gülmek
@@ -1716,6 +1882,7 @@ Varış – Прибытие
 Создание копий – Kopya yapmak
 Сок – Meyve su
 Соковыжималка – Meyve sıkacağı
+Сокровище – Hazine
 Солдат – Asker
 Солить – Tuzlamak
 Солнечно – Güneşli
@@ -1730,6 +1897,7 @@ Varış – Прибытие
 Сосна – Çam
 Состояние – Durum, Hal
 Соус – Sos
+Спагетти – Spagetti
 Спальня – yatak Odası
 Спасатель – Cankurtaran
 Спасательный жилет – Can yeleğı
@@ -1755,6 +1923,7 @@ Varış – Прибытие
 Спрашиваю – Soruyorum
 Спрячь – Sakla
 Спутниковая антенна – Uydu anteni
+Сравнение – Karşılaştırma
 Сражаться – Dövüşmek
 Сражаюсь – Savaşıyorum
 Сразу – Birden, Hemen
@@ -1762,6 +1931,7 @@ Varış – Прибытие
 Среда – Çarşamba
 Средний – Orta
 Стакан – Bardak
+Сталь – Çelik
 Старый – Eski
 Стена – Duvar
 Стерка – Silgi
@@ -1799,6 +1969,7 @@ Varış – Прибытие
 Сушить – Kurutmak
 Сходил – Giderdim
 Счастливый – Mutlu
+Счет – Fatura
 Счет – Hesap, 
 Сын – Oğul
 Сынок – evlat (эвлят)
@@ -1809,16 +1980,21 @@ Varış – Прибытие
 Сюрприз – Sürpriz
 Таблетка – Hap
 Таз – Leğen
+Тайна – Gizgi
 Тайфун – Tayfun
 Так – Böylece
 Такой – Böyle
 Такси – Taksi
 Там – Orada
 Там много счастья – Orada çok mutluluk var
+Таможенная декларация – Gümrük beyannamesi
+Таможенник – Gümrükçü
+Таможенный налог – Gümrük vergisi
 Таможня – Gümrük
 Танцевать, танцую – Dans etmek
 Тапочки – Terlik
 Тарелка – Tabak
+Твердый – Katı
 Твердый – Sert
 Твой, твоя, твое – Senin
 Творог ¬– Çökelek
@@ -1862,6 +2038,7 @@ Varış – Прибытие
 Торт – Pasta, Kek
 Тоска – Özlem
 Тостер – Tost makinesi
+Точилка – Kalemtıraş
 Точка с запятой – Noktalı virgül
 Точный – Tam
 Трава – Ot
@@ -1889,6 +2066,8 @@ Varış – Прибытие
 Туман – Sis
 Туманный день – Sisli bir gün
 Турецкий кофе – Türk kahvesi
+Турист – Kampçı
+Тусклый – Renksiz
 Туфли – Pabuç
 Тучи – Bulutlar
 Туш для ресниц – Rimel
@@ -1899,6 +2078,7 @@ Varış – Прибытие
 Ты сделаешь это - Sen yapacaksın
 Тыква – Kabak
 Тьма – Karanlık
+Тюрьма – Hapishane
 Тяжелый – Ağır
 У меня все в порядке – Benim için her şey yolunda
 У меня есть – Bende var
@@ -1909,6 +2089,7 @@ Varış – Прибытие
 Убегаю – Kaçıyorum
 Убивать – Öldürmek
 Убиваю – Öldürüyorum
+Убийца – Katil
 Убираться – Temizliyorken
 Убытки – Zararlar
 Уважаемый – Saygın
@@ -1923,6 +2104,7 @@ Varış – Прибытие
 Ударить – Vurmak
 Удача – Şans
 Удачный – Başarılı
+Удивление – Şaşkınlık
 Удлиненный – Uzatılmış
 Удобная – Rahat
 Уединение – Yalnızlık
@@ -1951,6 +2133,7 @@ Varış – Прибытие
 Упаду – Düşüyom
 Упаковка – Ambalaj
 Упасть – Düşmek
+Упражнение – Egzersiz
 Упражнение на велосипеде – Bisikletle egzersiz yapmak
 Упрямый – İnatçı
 Урок – Ders
@@ -1967,6 +2150,7 @@ Varış – Прибытие
 Ухо – Kulak
 Уходить, идти, ехать, ездить – Gitmek
 Ухожу, езжу – Gidiyorum
+Участие – Katılım
 Ученик – Öğrenci
 Учитель – Öğretmen
 Учиться – Öğrenmek
@@ -1977,9 +2161,12 @@ Varış – Прибытие
 Фармацевт – Eczacı
 Фарш – Kıyma
 Фасоль – Fasulye
+Фашизм – Faşizm
+Фашист – Faşist
 Февраль – Şubat
 Фен для волос – Saç kurutma makinesi
 Фигурное катание – Buz pateni
+Физический – Fizik
 Фильтровать – Filtre etmek
 Финал – Final
 Финики –  Hurmalar
@@ -1987,7 +2174,13 @@ Varış – Прибытие
 Фирма –Şirket
 Флаг – Bayrak
 Фляга – Matara
+Фонарь – Fener
+Фонд – Fon
 Форель – Alabalık
+Формула – Formül
+Форс мажор – Fors majör
+Форум – Forum
+Фотоальбом – Fotoğraf albümü
 Фотоаппарат – Fotoğraf makinesi
 Фотограф – Fotoğrafçı
 Фотография – Fotoğraf
@@ -2003,6 +2196,7 @@ Varış – Прибытие
 Холодильник – Buzdolabı
 Холодно – Soğuk
 Холостяк – Bekâr 
+Хомут – Kelepçe
 Хорошо – İyi, Peki
 Хотеть – İstemek
 Хочешь, будешь - Ister misin 
@@ -2011,16 +2205,21 @@ Varış – Прибытие
 Храбрый, смелый – Cesaretli, cesur
 Хранение – Muhafaza
 Хранить – Saklamak
+Храп – Horultu
+Хрен – Yaban turpu (дикий редис)
 Христианин – Hıristiyan
 Хрупкий – Kırılgan
 Художник – Sanatçı
 Худой, слабый – Zayıf
+Хулиган – Holigan
 Царапать – Tırmalamak
 Цвет - Renk
+Цветок – Çiçek
 Целовать – Öpmek
 Целую тебя – Seni öpüyorum
 Цель – Amaç
 Цена – Fiyat
+Ценник – Fiyat etiketi
 Центр – Merkez
 Центр города – Şehir merkezi
 Церковь – Kilise
@@ -2041,6 +2240,7 @@ Varış – Прибытие
 Черный – Siyah
 Черствый хлеб – Bayat ekmek
 Чеснок – Sarımsak
+Честность – Dürüstlük
 Честный – Dürüst
 Четверг – Perşembe
 Чехол – Kılıf
@@ -2068,13 +2268,16 @@ Varış – Прибытие
 Швабра для пола – Zemin paspası
 Швейная машина – Dikiş makinesi
 Шелк – İpek
+Шепот – Fısıltı
 Шерсть – Yün
 Шея – Boyun
 Шины – Lastikler
+Ширина – Genişlik
 Широкий – Geniş
 Шить – Dikmek
 Шкаф – Dolap
 Школа – Okul
+Шланг – Hortum
 Шорты – Şort
 Шофер – Şoför
 Шпинат – Ispanak
@@ -2094,25 +2297,34 @@ Varış – Прибытие
 Щетка – Fırça
 Эгоист – Bencil
 Экзамен – Sınav
+Экзотический – Egzotik
 Экономика – Ekonomi
 Экономный – Tutumlu
+Экран – Ekran
 Экран – Ekran
 Экскаватор – Ekskavatör
 Экспорт – İhracat
 Экспорт – İhracat
+Экстренный – Acil
 Электрическая выключатель – Elektrik şalteri
+Электрическая дрель – Elektrikli matkap
 Электрическая кнопка – Elektrik düğmesi
 Электрическая плита – Elektrik ocaği
 Электрическая розетка – Elektrik prizi
 Электрическая сеть – Elektrik şebekesi
+Электрическая станция – Elektrik istasyonu
+Электрическая энергия – Elektrik enerjisi
 Электрический счетчик – Elektrik sayacı
+Электроинструмент – Elektrikli alet
 Электронная почта – E-posta
+Эмоции – Duygular
 Энергия – Enerji
 Энциклопедия – Ansiklopedi
 Эта собака много гадит – Bu köpek çok sıçıyor
 Этаж – Kat
 Этажерка – Etajer
 Это – Bu
+Юбилей – Jübile
 Юбка – Etek
 Ювелир – Kuyumcu
 Юг – Güney
@@ -2128,13 +2340,16 @@ Varış – Прибытие
 Я найду – Bulacağım
 Я начал забывать – Unutmaya başladım
 Я нашел – Buldum
+Я не могу терпеть – Dayanamıyorum
 Я никому не должен – Ben kimseye borç yok
 Я остаюсь – Ben kalıyorum
 Я ошибся – Ben yanılmışım
+Я пописал и покакал – İşedim ve kaka yaptım
 Я пошел за молоком – Süt almaya gittim
 Я соблюдаю пост – Oruç tutuyorum
 Я согласен – Ediyorum
 Я тебя уважаю - Sana saygı duyuyorum
+Я удивлен – Şaşırdım
 Я ухожу – Birakıyorum, Ben gidiyorum
 Яблоко – Elma
 Ягненок – Kuzu
@@ -2142,8 +2357,8 @@ Varış – Прибытие
 Ядерный – Nükleer
 Язва – Ülser
 Язык – Dil 
-Язык – Dil
 Яйцо – Yumurta
+Яма – Çukur
 Январь – Ocak
 Яркий – Parlak
 Яхта – Yat
