@@ -20,6 +20,9 @@
 80 - seksen [сексен]
 9 - dokuz [докуз]
 90 - doksan [докузан]
+Cвободное время – Boş zaman
+Cкрип обуви – Ayakkabı gıcırtısı
+Mеталл – Metal
 Абрикос – Kayısı
 Авария – Kaza
 Август – Ağustos
@@ -101,6 +104,7 @@
 Белье – Çamaşır
 Бензин – Benzin
 Береги себя – Iyi bak
+Береги себя – Kendine iyi bak
 Беременная – Hamile
 Бесплатно – Bedava, Ücret
 Беспокойство – Endişe
@@ -183,10 +187,10 @@
 В этом мире – Bu dünyada
 Ваза – Vazo
 Валюта – Döviz
-Вампир – Вампир
+Вампир – Vampir
 Ванна – Banyo, Küvet
 Варвары – Barbarlar
-Вареный – Kaynamış
+Вареный – Kaynamış, Haşlama
 Варенье – Reçel
 Вата – Pamuk
 Вафля – Gofret
@@ -255,6 +259,7 @@
 Вкус – Tat, Tad
 Владелец – Sahip
 Влажность – Nem
+Влажный – Nemli
 Власть – Iktidar
 Влюбленный – Aşık
 Вместе пойдем – Birlikte gidelim
@@ -307,8 +312,8 @@
 Время взлета – Kalkış saati
 Время прибытия – Varış saati
 Все – Bütün
-Все – Her şey
 Все – Herkes
+Все вместе – Hep beraber
 Все готово – Her şey hazır
 Все кончено – Bitti
 Все люди одинаковые - Bütün insanlar aynıdır
@@ -316,6 +321,7 @@
 Все о человеке – İnsan hakkında her şey
 Все сказано – Her şey söylendi
 Все, весь – Tüm
+Всё, весь, все – Her şey, Tüm, Daha
 Всегда – Daima
 Всегда рад – Daima sevindim
 Вспотел - Terledim
@@ -334,6 +340,7 @@
 Вход платный – Giriş ücretili
 Вчера – Dün
 Вы – Siz
+Вы очень добры – Siz çok naziksiniz
 Выбирать – Seçmek
 Выбираю – Seçiyom
 Выборы – Seçim
@@ -670,7 +677,7 @@
 Запутаться – Karışmak
 Запястье – Bilek
 Зарплата – Maaş
-Заставить – Zorlamak
+Заставить, принуждение – Zorlamak
 Застраховать – Sigorta ettirmek
 Застрять – Saplanmak
 Засуха – Kuraklık
@@ -686,6 +693,7 @@
 Здание – Bina
 Здесь – Burada
 Здоровье – Sağlık
+Здоровья вашим рукам – Ellerinize sağlık
 Зевать – Esnemek
 Зеленый – Yeşil
 Зеленый горошек – Bezelye
@@ -1048,7 +1056,6 @@
 Месяц – Ay
 Месяца – Ayın
 Метель – Kar fırtınası
-Mеталл – Metal
 Метро – Metro
 Мех – Kürk
 Мечеть – Cami
@@ -1074,6 +1081,7 @@ Mеталл – Metal
 Мнение – Görüş
 Многие – Birçok
 Много – Çok
+Много живи – Çok yaşa
 Много языков знает – Birçok dil bilen
 Многолюдный – Kalabalık
 Могила – Kabir, Mezar
@@ -1135,6 +1143,7 @@ Mеталл – Metal
 Наволочка – Yastık kılıfı
 Нагреть – Isıtmak
 Над – Üzerinde
+Надевай с удовольствием – Cüle cüle giy
 Надежда – Umut
 Надеюсь – Umuyorum
 Надеяться – Ummak
@@ -1177,6 +1186,7 @@ Mеталл – Metal
 Не – Değil
 Не беспокоить – Rahatsız etmeyin
 Не держи – Sakın tutma
+Не за что – Rıca ederim
 Не зевай – Esneme
 Не злись – Kızma, kızma
 Не могу – Yapamam
@@ -1632,6 +1642,7 @@ Mеталл – Metal
 Пунктуальный – Dakik
 Пустая болтовня – Boş laf
 Пустой, свободный – Boş
+Пусть добрые дела будут лёгкими – Hayırlı isler kolay gelsin
 Путаница – Karışıklık
 Путешественник – Gezgin
 Путешествовать – Gezmek
@@ -1749,6 +1760,7 @@ Mеталл – Metal
 С акцентом – Aksan ile
 С начала, сколько времени назад – Önce
 С нетерпеньем ждем встречи – Buluşmayı dört gözle bekliyoruz
+С обновлением – Sıhhatler olsun
 Саван – Kefen
 Сад – Bahçe
 Садись – Otur
@@ -1783,7 +1795,6 @@ Mеталл – Metal
 Связь – Bağlantı
 Святой – Kutsal
 Священник – Rahip
-Cвободное время – Boş zaman
 Сдача сдачи –Para üstü vermek
 Сделай это – Bunu yap
 Сделаю – Yapacağım
@@ -1819,15 +1830,14 @@ Cвободное время – Boş zaman
 Склад – Depo
 Складной – Katlanır
 Сковорода – Tava
-Сколько денег – Ne kadar para var
 Сколько – Kaç  (для предметов)  
+Сколько денег – Ne kadar para var
 Сколько человек – Kaç kişi var
 Скорее собирайся – Çabuk toplan
 Скорлупа – Kabuk
 Скорость – Hız
 Скорпион – Akrep
 Скрип – Gıcırtı
-Cкрип обуви – Ayakkabı gıcırtısı
 Скромность – Mütevazi
 Скука – Sıkıntı
 Скупой – Cimri
@@ -1968,6 +1978,7 @@ Cкрип обуви – Ayakkabı gıcırtısı
 Сушильная машина – Kurutucu makinesi
 Сушить – Kurutmak
 Сходил – Giderdim
+Счастливого пути – Iyi yolculuklar
 Счастливый – Mutlu
 Счет – Fatura
 Счет – Hesap, 
@@ -2073,6 +2084,7 @@ Cкрип обуви – Ayakkabı gıcırtısı
 Туш для ресниц – Rimel
 Тушить – Söndürmek
 Ты – Sen
+Ты всегда мне помогаешь – Bana her zaman yardım ediyorsun
 Ты не знаешь прогноз погоды – Hava tahminini bilmiyor musun
 Ты понял – Anladın
 Ты сделаешь это - Sen yapacaksın
@@ -2334,6 +2346,7 @@ Cкрип обуви – Ayakkabı gıcırtısı
 Я вышел из леса – Ormandan çıktım
 Я говорю – Ben diyorum
 Я ем – Ben yiyorum
+Я забронировал номер – Oda rezervasyonu yaptım
 Я задумался – Düşünmüştüm.
 Я знаю мало слов – Çok az kelime biliyorum
 Я могу взять – Ben alabilirim
@@ -2346,6 +2359,8 @@ Cкрип обуви – Ayakkabı gıcırtısı
 Я ошибся – Ben yanılmışım
 Я пописал и покакал – İşedim ve kaka yaptım
 Я пошел за молоком – Süt almaya gittim
+Я расстроен – Çok üzgünüm
+Я скучал по тебе дорогой друг – Seni özledim sevgili arkadaşım
 Я соблюдаю пост – Oruç tutuyorum
 Я согласен – Ediyorum
 Я тебя уважаю - Sana saygı duyuyorum

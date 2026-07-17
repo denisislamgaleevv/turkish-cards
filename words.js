@@ -1,5 +1,5 @@
 // Автоматически сгенерированный файл слов
-// Всего слов: 2344
+// Всего слов: 2359
 
 const WORDS_DATA = [
   {
@@ -89,6 +89,18 @@ const WORDS_DATA = [
   {
     "ru": "90",
     "tr": "doksan"
+  },
+  {
+    "ru": "Cвободное время",
+    "tr": "Boş zaman"
+  },
+  {
+    "ru": "Cкрип обуви",
+    "tr": "Ayakkabı gıcırtısı"
+  },
+  {
+    "ru": "Mеталл",
+    "tr": "Metal"
   },
   {
     "ru": "Абрикос",
@@ -744,7 +756,7 @@ const WORDS_DATA = [
   },
   {
     "ru": "Вампир",
-    "tr": "Вампир"
+    "tr": "Vampir"
   },
   {
     "ru": "Ванна",
@@ -756,7 +768,7 @@ const WORDS_DATA = [
   },
   {
     "ru": "Вареный",
-    "tr": "Kaynamış"
+    "tr": "Kaynamış, Haşlama"
   },
   {
     "ru": "Варенье",
@@ -1031,6 +1043,10 @@ const WORDS_DATA = [
     "tr": "Nem"
   },
   {
+    "ru": "Влажный",
+    "tr": "Nemli"
+  },
+  {
     "ru": "Власть",
     "tr": "Iktidar"
   },
@@ -1239,6 +1255,10 @@ const WORDS_DATA = [
     "tr": "Bütün"
   },
   {
+    "ru": "Все вместе",
+    "tr": "Hep beraber"
+  },
+  {
     "ru": "Все готово",
     "tr": "Her şey hazır"
   },
@@ -1265,6 +1285,10 @@ const WORDS_DATA = [
   {
     "ru": "Все, весь",
     "tr": "Tüm"
+  },
+  {
+    "ru": "Всё, весь, все",
+    "tr": "Her şey, Tüm, Daha"
   },
   {
     "ru": "Всегда",
@@ -1337,6 +1361,10 @@ const WORDS_DATA = [
   {
     "ru": "Вы",
     "tr": "Siz"
+  },
+  {
+    "ru": "Вы очень добры",
+    "tr": "Siz çok naziksiniz"
   },
   {
     "ru": "Выбирать",
@@ -2679,7 +2707,7 @@ const WORDS_DATA = [
     "tr": "Maaş"
   },
   {
-    "ru": "Заставить",
+    "ru": "Заставить, принуждение",
     "tr": "Zorlamak"
   },
   {
@@ -2741,6 +2769,10 @@ const WORDS_DATA = [
   {
     "ru": "Здоровье",
     "tr": "Sağlık"
+  },
+  {
+    "ru": "Здоровья вашим рукам",
+    "tr": "Ellerinize sağlık"
   },
   {
     "ru": "Зевать",
@@ -4179,10 +4211,6 @@ const WORDS_DATA = [
     "tr": "Kar fırtınası"
   },
   {
-    "ru": "Mеталл",
-    "tr": "Metal"
-  },
-  {
     "ru": "Метро",
     "tr": "Metro"
   },
@@ -4281,6 +4309,10 @@ const WORDS_DATA = [
   {
     "ru": "Много",
     "tr": "Çok"
+  },
+  {
+    "ru": "Много живи",
+    "tr": "Çok yaşa"
   },
   {
     "ru": "Много языков знает",
@@ -4527,6 +4559,10 @@ const WORDS_DATA = [
     "tr": "Üzerinde"
   },
   {
+    "ru": "Надевай с удовольствием",
+    "tr": "Cüle cüle giy"
+  },
+  {
     "ru": "Надежда",
     "tr": "Umut"
   },
@@ -4689,6 +4725,10 @@ const WORDS_DATA = [
   {
     "ru": "Не держи",
     "tr": "Sakın tutma"
+  },
+  {
+    "ru": "Не за что",
+    "tr": "Rıca ederim"
   },
   {
     "ru": "Не зевай",
@@ -6491,6 +6531,10 @@ const WORDS_DATA = [
     "tr": "Boş"
   },
   {
+    "ru": "Пусть добрые дела будут лёгкими",
+    "tr": "Hayırlı isler kolay gelsin"
+  },
+  {
     "ru": "Путаница",
     "tr": "Karışıklık"
   },
@@ -6955,6 +6999,10 @@ const WORDS_DATA = [
     "tr": "Buluşmayı dört gözle bekliyoruz"
   },
   {
+    "ru": "С обновлением",
+    "tr": "Sıhhatler olsun"
+  },
+  {
     "ru": "Саван",
     "tr": "Kefen"
   },
@@ -7089,10 +7137,6 @@ const WORDS_DATA = [
   {
     "ru": "Священник",
     "tr": "Rahip"
-  },
-  {
-    "ru": "Cвободное время",
-    "tr": "Boş zaman"
   },
   {
     "ru": "Сдача сдачи",
@@ -7231,12 +7275,12 @@ const WORDS_DATA = [
     "tr": "Tava"
   },
   {
-    "ru": "Сколько денег",
-    "tr": "Ne kadar para var"
-  },
-  {
     "ru": "Сколько",
     "tr": "Kaç  (для предметов)"
+  },
+  {
+    "ru": "Сколько денег",
+    "tr": "Ne kadar para var"
   },
   {
     "ru": "Сколько человек",
@@ -7261,10 +7305,6 @@ const WORDS_DATA = [
   {
     "ru": "Скрип",
     "tr": "Gıcırtı"
-  },
-  {
-    "ru": "Cкрип обуви",
-    "tr": "Ayakkabı gıcırtısı"
   },
   {
     "ru": "Скромность",
@@ -7819,6 +7859,10 @@ const WORDS_DATA = [
     "tr": "Giderdim"
   },
   {
+    "ru": "Счастливого пути",
+    "tr": "Iyi yolculuklar"
+  },
+  {
     "ru": "Счастливый",
     "tr": "Mutlu"
   },
@@ -8229,6 +8273,10 @@ const WORDS_DATA = [
   {
     "ru": "Ты",
     "tr": "Sen"
+  },
+  {
+    "ru": "Ты всегда мне помогаешь",
+    "tr": "Bana her zaman yardım ediyorsun"
   },
   {
     "ru": "Ты не знаешь прогноз погоды",
@@ -9267,6 +9315,10 @@ const WORDS_DATA = [
     "tr": "Ben yiyorum"
   },
   {
+    "ru": "Я забронировал номер",
+    "tr": "Oda rezervasyonu yaptım"
+  },
+  {
     "ru": "Я задумался",
     "tr": "Düşünmüştüm."
   },
@@ -9313,6 +9365,14 @@ const WORDS_DATA = [
   {
     "ru": "Я пошел за молоком",
     "tr": "Süt almaya gittim"
+  },
+  {
+    "ru": "Я расстроен",
+    "tr": "Çok üzgünüm"
+  },
+  {
+    "ru": "Я скучал по тебе дорогой друг",
+    "tr": "Seni özledim sevgili arkadaşım"
   },
   {
     "ru": "Я соблюдаю пост",
