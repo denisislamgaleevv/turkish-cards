@@ -1,18 +1,20 @@
-const CACHE_NAME = 'turkish-words-v5';
 
-// Файлы для кэширования (ВСЕ нужные для работы)
+
+const CACHE_NAME = 'turkish-words-v6';
+
+// Файлы для кэширования (относительные пути — работают из любой папки)
 const urlsToCache = [
-    '/',
-    '/index.html',
-    '/style.css',
-    '/script.js',
-    '/words.js',
-    '/manifest.json'
+    './',
+    './index.html',
+    './style.css',
+    './script.js',
+    './words.js',
+    './manifest.json'
 ];
 
 // Установка - кэшируем ВСЕ файлы
 self.addEventListener('install', event => {
-    console.log('🔧 SW устанавливается v5');
+    console.log('🔧 SW устанавливается v6');
     
     event.waitUntil(
         caches.open(CACHE_NAME)
@@ -31,7 +33,7 @@ self.addEventListener('install', event => {
 
 // Активация - чистим старый кэш
 self.addEventListener('activate', event => {
-    console.log('🚀 SW активируется v5');
+    console.log('🚀 SW активируется v6');
     
     event.waitUntil(
         caches.keys().then(cacheNames => {
@@ -54,12 +56,11 @@ self.addEventListener('activate', event => {
 self.addEventListener('fetch', event => {
     const url = event.request.url;
     
-    // Для HTML используем стратегию "сначала сеть, потом кэш" (чтобы получать обновления)
-    if (url.includes('.html') || url === '/' || url.endsWith('/')) {
+    // Для HTML используем стратегию "сначала сеть, потом кэш"
+    if (url.includes('.html') || url.endsWith('/') || event.request.mode === 'navigate') {
         event.respondWith(
             fetch(event.request)
                 .then(response => {
-                    // Кэшируем новую версию HTML
                     const responseToCache = response.clone();
                     caches.open(CACHE_NAME).then(cache => {
                         cache.put(event.request, responseToCache);
@@ -67,8 +68,9 @@ self.addEventListener('fetch', event => {
                     return response;
                 })
                 .catch(() => {
-                    // Если нет сети - отдаём из кэша
-                    return caches.match(event.request);
+                    return caches.match(event.request).then(cached => {
+                        return cached || caches.match('./index.html');
+                    });
                 })
         );
         return;
@@ -83,11 +85,9 @@ self.addEventListener('fetch', event => {
                     return cachedResponse;
                 }
                 
-                // Нет в кэше - грузим из сети и сохраняем
                 console.log('🌐 Из сети:', url.split('/').pop());
                 return fetch(event.request)
                     .then(response => {
-                        // Сохраняем в кэш для следующих раз
                         const responseToCache = response.clone();
                         caches.open(CACHE_NAME).then(cache => {
                             cache.put(event.request, responseToCache);
@@ -96,9 +96,8 @@ self.addEventListener('fetch', event => {
                     })
                     .catch(error => {
                         console.error('❌ Ошибка загрузки:', url.split('/').pop(), error);
-                        // Для навигационных запросов возвращаем index.html
                         if (event.request.mode === 'navigate') {
-                            return caches.match('/index.html');
+                            return caches.match('./index.html');
                         }
                         throw error;
                     });

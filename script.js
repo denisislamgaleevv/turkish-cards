@@ -1,3 +1,5 @@
+
+
 class FlashCards {
     constructor() {
         this.allCards = [];
@@ -7,8 +9,8 @@ class FlashCards {
         this.currentCardIndex = 0;
         this.isFlipped = false;
         this.synth = window.speechSynthesis;
-        this.wordsPerBlock = 200; // Количество слов в блоке
-        this.motivationalInterval = 150; // Мотивация каждые 150 карточек в блоке
+        this.wordsPerBlock = 200;
+        this.motivationalInterval = 150;
         
         this.init();
     }
@@ -20,66 +22,56 @@ class FlashCards {
         this.setupEventListeners();
     }
 
-async loadWords() {
-    // Проверяем интернет соединение для отладки
-    console.log('Онлайн режим:', navigator.onLine);
-    
-    // Проверяем, есть ли глобальная переменная WORDS_DATA
-    if (typeof WORDS_DATA !== 'undefined') {
-        console.log('✅ Загружаем слова из WORDS_DATA');
-        this.allCards = WORDS_DATA.map(word => ({
-            russian: word.ru,
-            turkish: word.tr,
-            category: 'Основные слова',
-            type: 'word',
-            id: `Основные слова-${word.ru}`
-        }));
-        console.log(`📚 Загружено слов: ${this.allCards.length}`);
-        return; // Выходим, всё готово
+    async loadWords() {
+        console.log('Онлайн режим:', navigator.onLine);
+        
+        if (typeof WORDS_DATA !== 'undefined') {
+            console.log('✅ Загружаем слова из WORDS_DATA');
+            this.allCards = WORDS_DATA.map(word => ({
+                russian: word.ru,
+                turkish: word.tr,
+                category: 'Основные слова',
+                type: 'word',
+                id: `Основные слова-${word.ru}`
+            }));
+            console.log(`📚 Загружено слов: ${this.allCards.length}`);
+            return;
+        }
+        
+        console.error('❌ WORDS_DATA не найдена!');
+        alert('Ошибка: не найден файл words.js');
     }
-    
-    // Если сюда дошли - что-то пошло не так
-    console.error('❌ WORDS_DATA не найдена!');
-    alert('Ошибка: не найден файл words.js');
-}
-
 
     parseWords(text) {
         const lines = text.split('\n');
         let currentCategory = 'Основные слова';
-        const uniqueWords = new Set(); // Для отслеживания уникальности
+        const uniqueWords = new Set();
         
         for (const line of lines) {
             const trimmedLine = line.trim();
             
             if (!trimmedLine) continue;
             
-            // Проверяем, является ли строка заголовком категории (нет тире/дефиса)
             if (!trimmedLine.includes('–') && !trimmedLine.includes('-')) {
-                // Если строка содержит только буквы (без цифр и специальных символов)
-                // и достаточно длинная для названия категории
                 if (trimmedLine.length > 2 && /^[А-Яа-яЁёA-Za-z\s]+$/.test(trimmedLine)) {
                     currentCategory = trimmedLine;
                 }
                 continue;
             }
             
-            // Разделяем на русское и турецкое слово
             const separator = trimmedLine.includes('–') ? '–' : '-';
             const parts = trimmedLine.split(separator).map(part => part.trim());
             
             if (parts.length >= 2) {
                 const russian = parts[0].trim();
-                const turkish = parts.slice(1).join(',').trim(); // Объединяем все варианты перевода
+                const turkish = parts.slice(1).join(',').trim();
                 
-                // Проверяем на дубликаты (по русскому слову)
                 const lowercaseRussian = russian.toLowerCase();
                 if (uniqueWords.has(lowercaseRussian)) {
                     console.log(`Пропускаем дубликат: ${russian}`);
                     continue;
                 }
                 
-                // Проверяем, что это действительно слово (не пустая строка и не только знаки препинания)
                 if (russian && turkish && russian.length > 0 && turkish.length > 0) {
                     uniqueWords.add(lowercaseRussian);
                     
@@ -88,7 +80,7 @@ async loadWords() {
                         turkish: turkish,
                         category: currentCategory,
                         type: 'word',
-                        id: `${currentCategory}-${russian}` // Уникальный идентификатор
+                        id: `${currentCategory}-${russian}`
                     });
                 }
             }
@@ -100,14 +92,12 @@ async loadWords() {
     createBlocks() {
         this.blocks = [];
         
-        // Создаем копию карточек без перемешивания
-        const cardsCopy = [...this.allCards];
+        // Копия карточек в ОБРАТНОМ порядке (от последнего к первому)
+        const cardsCopy = [...this.allCards].reverse();
         
         // Разбиваем на блоки
         for (let i = 0; i < cardsCopy.length; i += this.wordsPerBlock) {
             const blockCards = cardsCopy.slice(i, i + this.wordsPerBlock);
-            
-            // Убрали перемешивание карточек внутри блока
             
             this.blocks.push({
                 index: Math.floor(i / this.wordsPerBlock),
@@ -187,7 +177,6 @@ async loadWords() {
         const cardElement = document.getElementById('card');
         const cardInner = document.getElementById('card-inner');
         
-        // Проверяем мотивационную карточку
         if (this.isMotivationalCard(this.currentCardIndex)) {
             cardInner.innerHTML = `
                 <div class="card-face card-front">
@@ -208,7 +197,6 @@ async loadWords() {
                 </div>
             `;
         } else {
-            // Разделяем варианты перевода запятыми
             const turkishWords = card.turkish.split(',').map(word => word.trim());
             
             cardInner.innerHTML = `
@@ -228,11 +216,9 @@ async loadWords() {
             `;
         }
         
-        // Обновляем информацию о блоке
         document.getElementById('block-info').textContent = 
             `${this.currentBlock.name} • ${this.currentCardIndex + 1}/${this.currentBlock.size}`;
         
-        // Сбрасываем состояние переворота
         this.isFlipped = false;
         cardElement.classList.remove('flipped');
     }
@@ -250,7 +236,6 @@ async loadWords() {
         utterance.lang = 'tr-TR';
         utterance.rate = 0.9;
         
-        // Индикатор озвучки
         const soundIcon = document.querySelector('.sound-icon');
         if (soundIcon) {
             soundIcon.classList.add('speaking');
@@ -267,21 +252,18 @@ async loadWords() {
         const nextBtn = document.getElementById('next-btn');
         const blockBtn = document.getElementById('block-btn');
 
-        // Клик по карточке
         cardElement.addEventListener('click', (e) => {
             if (!e.target.closest('.sound-icon')) {
                 this.flipCard();
             }
         });
 
-        // Навигация
         prevBtn.addEventListener('click', () => this.prevCard());
         nextBtn.addEventListener('click', () => this.nextCard());
         blockBtn.addEventListener('click', () => {
             this.showBlocksView();
         });
 
-        // Клавиши клавиатуры
         document.addEventListener('keydown', (e) => {
             switch(e.key) {
                 case 'ArrowLeft':
@@ -302,7 +284,6 @@ async loadWords() {
                     e.preventDefault();
                     if (this.isFlipped && !this.isMotivationalCard(this.currentCardIndex)) {
                         const currentWord = this.currentBlock.cards[this.currentCardIndex].turkish;
-                        // Берем первый вариант перевода для озвучки
                         const firstTranslation = currentWord.split(',')[0].trim();
                         this.speakText(firstTranslation);
                     }
@@ -317,31 +298,27 @@ async loadWords() {
             }
         });
     }
-    // Добавьте эту функцию в класс FlashCards
-async clearAllCache() {
-    // 1. Очищаем кэш Service Worker
-    if ('caches' in window) {
-        const cacheNames = await caches.keys();
-        await Promise.all(
-            cacheNames.map(cacheName => {
-                console.log(`Удаляем кэш: ${cacheName}`);
-                return caches.delete(cacheName);
-            })
-        );
-        console.log('✅ Весь кэш очищен');
+
+    async clearAllCache() {
+        if ('caches' in window) {
+            const cacheNames = await caches.keys();
+            await Promise.all(
+                cacheNames.map(cacheName => {
+                    console.log(`Удаляем кэш: ${cacheName}`);
+                    return caches.delete(cacheName);
+                })
+            );
+            console.log('✅ Весь кэш очищен');
+        }
+        
+        localStorage.clear();
+        console.log('✅ localStorage очищен');
+        
+        sessionStorage.clear();
+        console.log('✅ sessionStorage очищен');
+        
+        window.location.reload(true);
     }
-    
-    // 2. Очищаем localStorage
-    localStorage.clear();
-    console.log('✅ localStorage очищен');
-    
-    // 3. Очищаем sessionStorage
-    sessionStorage.clear();
-    console.log('✅ sessionStorage очищен');
-    
-    // 4. Перезагружаем страницу без кэша
-    window.location.reload(true); // true означает принудительную перезагрузку
-}
 
     flipCard() {
         const cardElement = document.getElementById('card');
@@ -359,7 +336,6 @@ async clearAllCache() {
             this.renderCard();
             this.synth.cancel();
         } else {
-            // Достигли конца блока
             this.showBlocksView();
         }
     }
@@ -379,31 +355,25 @@ let flashCards;
 document.addEventListener('DOMContentLoaded', () => {
     flashCards = new FlashCards();
 });
+
 // Регистрация Service Worker для офлайн-работы
 if ('serviceWorker' in navigator) {
     window.addEventListener('load', () => {
-        navigator.serviceWorker.register('/sw.js')
+        navigator.serviceWorker.register('./sw.js')
             .then(reg => {
                 console.log('✅ SW зарегистрирован:', reg);
-                // Проверяем обновления
                 reg.update();
             })
             .catch(err => {
                 console.error('❌ Ошибка SW:', err);
             });
     });
-    // Принудительное обновление кэша
-if ('serviceWorker' in navigator) {
-    navigator.serviceWorker.getRegistrations().then(function(registrations) {
-        for(let registration of registrations) {
-            registration.unregister();
-            console.log('SW деактивирован');
-        }
-    });
 }
+
 // Отслеживание статуса онлайн/офлайн
 window.addEventListener('load', () => {
     const statusElement = document.getElementById('online-status');
+    if (!statusElement) return;
     
     function updateOnlineStatus() {
         if (navigator.onLine) {
@@ -419,4 +389,3 @@ window.addEventListener('load', () => {
     window.addEventListener('offline', updateOnlineStatus);
     updateOnlineStatus();
 });
-}

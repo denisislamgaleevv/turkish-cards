@@ -2,12 +2,12 @@
     "name": "Турецкие слова",
     "short_name": "Турецкий",
     "description": "Изучение турецких слов с карточками",
-    "start_url": "/",
+    "start_url": "./index.html",
     "display": "standalone",
     "theme_color": "#4CAF50",
     "background_color": "#ffffff",
     "orientation": "portrait",
-    "scope": "/",
+    "scope": "./",
     "icons": [
         {
             "src": "icon-192.png",
