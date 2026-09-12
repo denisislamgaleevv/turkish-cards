@@ -8,6 +8,7 @@ class FlashCards {
         this.isFlipped = false;
         this.wordsPerBlock = 200;
         this.motivationalInterval = 150;
+        this.mode = 'ru-tr'; // 'ru-tr' или 'tr-ru'
         
         this.init();
     }
@@ -17,6 +18,7 @@ class FlashCards {
         this.createBlocks();
         this.showBlocksView();
         this.setupEventListeners();
+        this.updateModeButton();
     }
 
     async loadWords() {
@@ -89,10 +91,8 @@ class FlashCards {
     createBlocks() {
         this.blocks = [];
         
-        // Копия карточек в ОБРАТНОМ порядке (от последнего к первому)
         const cardsCopy = [...this.allCards].reverse();
         
-        // Разбиваем на блоки
         for (let i = 0; i < cardsCopy.length; i += this.wordsPerBlock) {
             const blockCards = cardsCopy.slice(i, i + this.wordsPerBlock);
             
@@ -105,6 +105,23 @@ class FlashCards {
         }
         
         console.log(`Создано блоков: ${this.blocks.length}`);
+    }
+
+    toggleMode() {
+        this.mode = this.mode === 'ru-tr' ? 'tr-ru' : 'ru-tr';
+        this.updateModeButton();
+        
+        // Если открыта карточка — перерисовываем
+        if (this.currentBlock) {
+            this.renderCard();
+        }
+    }
+
+    updateModeButton() {
+        const btn = document.getElementById('mode-toggle');
+        if (btn) {
+            btn.textContent = this.mode === 'ru-tr' ? '🔄 Режим: RU → TR' : '🔄 Режим: TR → RU';
+        }
     }
 
     shuffleArray(array) {
@@ -195,16 +212,34 @@ class FlashCards {
             `;
         } else {
             const russianWords = card.russian.split(',').map(word => word.trim());
-            const turkishFirst = card.turkish.split(',')[0].trim();
+            const turkishWords = card.turkish.split(',').map(word => word.trim());
             
-            cardInner.innerHTML = `
-                <div class="card-face card-front">
-                    <div class="word">${turkishFirst}</div>
-                </div>
-                <div class="card-face card-back">
+            let frontHTML, backHTML;
+            
+            if (this.mode === 'ru-tr') {
+                // Лицо — русский, оборот — турецкий
+                frontHTML = `<div class="word">${russianWords[0]}</div>`;
+                backHTML = `
+                    <div class="turkish-translation">
+                        ${turkishWords.map(word => `<div class="turkish-word">${word}</div>`).join('')}
+                    </div>
+                `;
+            } else {
+                // Лицо — турецкий, оборот — русский
+                frontHTML = `<div class="word">${turkishWords[0]}</div>`;
+                backHTML = `
                     <div class="russian-translation">
                         ${russianWords.map(word => `<div class="russian-word">${word}</div>`).join('')}
                     </div>
+                `;
+            }
+            
+            cardInner.innerHTML = `
+                <div class="card-face card-front">
+                    ${frontHTML}
+                </div>
+                <div class="card-face card-back">
+                    ${backHTML}
                 </div>
             `;
         }
