@@ -4,14 +4,20 @@
     box-sizing: border-box;
 }
 
+html, body {
+    height: 100%;
+}
+
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
     min-height: 100vh;
     display: flex;
-    align-items: center;
+    align-items: flex-start;
     justify-content: center;
     padding: 20px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
 }
 
 .container {
@@ -21,23 +27,86 @@ body {
 }
 
 header {
-    margin-bottom: 30px;
+    margin-bottom: 20px;
 }
 
 h1 {
     color: white;
     font-size: 2.5rem;
-    margin-bottom: 10px;
+    margin-bottom: 12px;
     text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
 }
 
-.counter {
-    color: rgba(255, 255, 255, 0.8);
-    font-size: 1.1rem;
+/* ===== Инфо-панель ===== */
+.info-panel {
+    background: rgba(255, 255, 255, 0.1);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    border-radius: 12px;
+    padding: 12px 15px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    color: white;
 }
 
+.info-status {
+    font-size: 1.05rem;
+    line-height: 1.4;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 6px;
+}
+
+.info-sep {
+    opacity: 0.6;
+}
+
+.info-actions {
+    display: flex;
+    gap: 8px;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.info-btn {
+    padding: 8px 16px;
+    font-size: 0.9rem;
+    border: 1px solid rgba(255, 255, 255, 0.35);
+    border-radius: 20px;
+    background: rgba(255, 255, 255, 0.12);
+    color: white;
+    cursor: pointer;
+    transition: background 0.2s ease, border-color 0.2s ease, transform 0.15s ease;
+    user-select: none;
+    white-space: nowrap;
+    font-family: inherit;
+}
+
+.info-btn:hover {
+    background: rgba(255, 255, 255, 0.25);
+    border-color: rgba(255, 255, 255, 0.6);
+    transform: translateY(-1px);
+}
+
+.info-btn:active {
+    transform: translateY(0) scale(0.97);
+}
+
+.info-btn-danger {
+    background: rgba(255, 80, 80, 0.3);
+    border-color: rgba(255, 80, 80, 0.5);
+}
+
+.info-btn-danger:hover {
+    background: rgba(255, 80, 80, 0.5);
+    border-color: rgba(255, 80, 80, 0.8);
+}
+
+/* ===== Карточка ===== */
 .card-container {
-    perspective: 1000px;
+    perspective: 1200px;
     margin-bottom: 30px;
 }
 
@@ -46,8 +115,10 @@ h1 {
     height: 400px;
     position: relative;
     transform-style: preserve-3d;
-    transition: transform 0.8s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    transition: transform 0.6s cubic-bezier(0.2, 0.8, 0.3, 1);
     cursor: pointer;
+    will-change: transform;
+    -webkit-tap-highlight-color: transparent;
 }
 
 .card.flipped {
@@ -63,9 +134,11 @@ h1 {
 
 .card-face {
     position: absolute;
+    inset: 0;
     width: 100%;
     height: 100%;
     backface-visibility: hidden;
+    -webkit-backface-visibility: hidden;
     border-radius: 20px;
     padding: 40px;
     display: flex;
@@ -73,6 +146,8 @@ h1 {
     align-items: center;
     justify-content: center;
     box-shadow: 0 15px 35px rgba(0,0,0,0.3);
+    transform: translateZ(0);
+    overflow: hidden;
 }
 
 .card-front {
@@ -83,14 +158,16 @@ h1 {
 .card-back {
     background: linear-gradient(45deg, #ff6b6b, #ee5a24);
     color: white;
-    transform: rotateY(180deg);
+    transform: rotateY(180deg) translateZ(0);
 }
 
 .word {
     font-size: 3rem;
     font-weight: bold;
-    margin-bottom: 20px;
     text-align: center;
+    word-break: break-word;
+    line-height: 1.15;
+    color: inherit;
 }
 
 .category {
@@ -107,6 +184,7 @@ h1 {
     color: rgba(255, 255, 255, 0.8);
 }
 
+/* ===== Кнопки управления карточкой ===== */
 .controls {
     display: flex;
     gap: 20px;
@@ -122,8 +200,10 @@ h1 {
     background: white;
     color: #667eea;
     cursor: pointer;
-    transition: all 0.3s ease;
+    transition: transform 0.15s ease, box-shadow 0.2s ease;
     box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+    user-select: none;
+    font-family: inherit;
 }
 
 .btn:hover {
@@ -132,7 +212,7 @@ h1 {
 }
 
 .btn:active {
-    transform: translateY(0);
+    transform: translateY(0) scale(0.98);
 }
 
 .btn:disabled {
@@ -144,57 +224,11 @@ h1 {
 footer {
     color: rgba(255, 255, 255, 0.7);
     font-size: 0.9rem;
-    line-height: 1.4;
+    line-height: 1.5;
+    margin-top: 10px;
 }
 
-/* Адаптивность для мобильных устройств */
-@media (max-width: 768px) {
-    .card {
-        height: 300px;
-    }
-    
-    .word {
-        font-size: 2.2rem;
-    }
-    
-    h1 {
-        font-size: 2rem;
-    }
-    
-    .btn {
-        padding: 12px 25px;
-        font-size: 1rem;
-    }
-}
-
-@media (max-width: 480px) {
-    .card {
-        height: 250px;
-    }
-    
-    .word {
-        font-size: 1.8rem;
-    }
-    
-    .category {
-        font-size: 1rem;
-    }
-    
-    .controls {
-        flex-direction: column;
-        align-items: center;
-    }
-    
-    .btn {
-        width: 200px;
-    }
-    
-    footer {
-        font-size: 0.8rem;
-    }
-}
-
-/* Стили для мотивационных карточек */
+/* ===== Мотивационные карточки ===== */
 .motivational-content {
     display: flex;
     flex-direction: column;
@@ -229,48 +263,12 @@ footer {
 }
 
 @keyframes bounce {
-    0%, 20%, 50%, 80%, 100% {
-        transform: translateY(0);
-    }
-    40% {
-        transform: translateY(-10px);
-    }
-    60% {
-        transform: translateY(-5px);
-    }
+    0%, 20%, 50%, 80%, 100% { transform: translateY(0); }
+    40% { transform: translateY(-10px); }
+    60% { transform: translateY(-5px); }
 }
 
-@media (max-width: 768px) {
-    .motivational-image {
-        font-size: 4rem;
-        margin-bottom: 20px;
-    }
-    
-    .motivational-text {
-        font-size: 2rem;
-    }
-    
-    .motivational-subtext {
-        font-size: 1.2rem;
-    }
-}
-
-@media (max-width: 480px) {
-    .motivational-image {
-        font-size: 3rem;
-        margin-bottom: 15px;
-    }
-    
-    .motivational-text {
-        font-size: 1.5rem;
-    }
-    
-    .motivational-subtext {
-        font-size: 1rem;
-    }
-}
-
-/* Стили для контейнера блоков */
+/* ===== Блоки ===== */
 .blocks-container {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
@@ -281,14 +279,15 @@ footer {
 .block {
     background: rgba(255, 255, 255, 0.1);
     backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
     border-radius: 15px;
     padding: 30px;
-    transition: all 0.3s ease;
+    transition: transform 0.2s ease, background 0.2s ease, border-color 0.2s ease, box-shadow 0.2s ease;
     border: 2px solid rgba(255, 255, 255, 0.2);
 }
 
 .block:hover {
-    transform: translateY(-5px);
+    transform: translateY(-4px);
     background: rgba(255, 255, 255, 0.15);
     border-color: rgba(255, 255, 255, 0.4);
     box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
@@ -323,9 +322,10 @@ footer {
     border: none;
     border-radius: 25px;
     cursor: pointer;
-    transition: all 0.3s ease;
+    transition: transform 0.15s ease, box-shadow 0.2s ease, background 0.2s ease;
     width: 100%;
     max-width: 200px;
+    font-family: inherit;
 }
 
 .btn-start:hover {
@@ -335,7 +335,7 @@ footer {
 }
 
 .btn-start:active {
-    transform: translateY(0);
+    transform: translateY(0) scale(0.98);
 }
 
 .block-back-container {
@@ -351,24 +351,14 @@ footer {
     border: 2px solid rgba(255, 255, 255, 0.3);
     border-radius: 25px;
     cursor: pointer;
-    transition: all 0.3s ease;
+    transition: background 0.2s ease, border-color 0.2s ease, transform 0.15s ease;
+    font-family: inherit;
 }
 
 .btn-block:hover {
     background: rgba(255, 255, 255, 0.25);
     border-color: rgba(255, 255, 255, 0.5);
-    transform: translateY(-2px);
-    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
-}
-
-.block-info {
-    color: white;
-    font-size: 1.1rem;
-    margin-top: 10px;
-    padding: 12px;
-    background: rgba(255, 255, 255, 0.1);
-    border-radius: 10px;
-    border: 1px solid rgba(255, 255, 255, 0.2);
+    transform: translateY(-1px);
 }
 
 .loading {
@@ -378,52 +368,32 @@ footer {
     padding: 40px;
 }
 
-@media (max-width: 768px) {
-    .blocks-container {
-        grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-        gap: 15px;
-    }
-    
-    .block {
-        padding: 25px;
-    }
-    
-    .block-name {
-        font-size: 1.5rem;
-    }
-    
-    .btn-start {
-        padding: 12px 25px;
-        font-size: 1rem;
-    }
+/* ===== Переводы (обратная сторона) ===== */
+.russian-translation,
+.turkish-translation {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    width: 100%;
 }
 
-@media (max-width: 480px) {
-    .blocks-container {
-        grid-template-columns: 1fr;
-        max-width: 300px;
-        margin-left: auto;
-        margin-right: auto;
-    }
-    
-    .controls {
-        flex-direction: column;
-        gap: 10px;
-    }
-    
-    .controls .btn {
-        width: 100%;
-        margin-bottom: 10px;
-    }
-    
-    .block-back-container {
-        text-align: center;
-    }
-    
-    .btn-block {
-        width: 100%;
-        max-width: 250px;
-    }
+.russian-word,
+.turkish-word {
+    font-size: 2.2rem;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+    word-break: break-word;
+    line-height: 1.2;
+}
+
+.russian-word + .russian-word,
+.turkish-word + .turkish-word {
+    font-size: 1.7rem;
+    font-weight: normal;
+    color: rgba(255, 255, 255, 0.95);
 }
 
 .category-label {
@@ -445,54 +415,71 @@ footer {
     background: rgba(0, 0, 0, 0.2);
 }
 
-/* Контейнер для русского перевода (обратная сторона) */
-.russian-translation {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    gap: 8px;
-    margin-bottom: 20px;
-}
-
-.russian-word {
-    font-size: 2rem;
-    font-weight: bold;
-    text-align: center;
-    color: white;
-}
-
-.russian-word + .russian-word {
-    font-size: 1.5rem;
-    color: rgba(255, 255, 255, 0.9);
-    font-weight: normal;
-}
-
+/* ===== Адаптивность ===== */
 @media (max-width: 768px) {
-    .russian-word {
-        font-size: 1.7rem;
+    h1 { font-size: 2rem; }
+
+    .card { height: 300px; }
+    .word { font-size: 2.4rem; }
+
+    .btn { padding: 12px 25px; font-size: 1rem; }
+
+    .motivational-image { font-size: 4rem; margin-bottom: 20px; }
+    .motivational-text { font-size: 2rem; }
+    .motivational-subtext { font-size: 1.2rem; }
+
+    .blocks-container {
+        grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+        gap: 15px;
     }
-    
-    .russian-word + .russian-word {
-        font-size: 1.3rem;
-    }
-    
-    .category-label {
-        font-size: 0.9rem;
-        padding: 6px 12px;
-    }
+    .block { padding: 25px; }
+    .block-name { font-size: 1.5rem; }
+    .btn-start { padding: 12px 25px; font-size: 1rem; }
+
+    .russian-word,
+    .turkish-word { font-size: 1.9rem; }
+
+    .russian-word + .russian-word,
+    .turkish-word + .turkish-word { font-size: 1.5rem; }
+
+    .category-label { font-size: 0.9rem; padding: 6px 12px; }
 }
 
 @media (max-width: 480px) {
-    .russian-word {
-        font-size: 1.5rem;
+    body { padding: 12px; }
+
+    h1 { font-size: 1.6rem; }
+
+    .info-status { font-size: 0.95rem; }
+    .info-btn { padding: 7px 14px; font-size: 0.85rem; }
+
+    .card { height: 260px; }
+    .card-face { padding: 25px; }
+    .word { font-size: 2rem; }
+
+    .controls { flex-direction: column; gap: 10px; align-items: center; }
+    .controls .btn { width: 100%; max-width: 260px; }
+
+    .motivational-image { font-size: 3rem; margin-bottom: 15px; }
+    .motivational-text { font-size: 1.5rem; }
+    .motivational-subtext { font-size: 1rem; }
+
+    .blocks-container {
+        grid-template-columns: 1fr;
+        max-width: 300px;
+        margin-left: auto;
+        margin-right: auto;
     }
-    
-    .russian-word + .russian-word {
-        font-size: 1.1rem;
-    }
-    
-    .category-label {
-        font-size: 0.8rem;
-        padding: 5px 10px;
-    }
+
+    .block-back-container { text-align: center; }
+    .btn-block { width: 100%; max-width: 250px; }
+
+    .russian-word,
+    .turkish-word { font-size: 1.6rem; }
+
+    .russian-word + .russian-word,
+    .turkish-word + .turkish-word { font-size: 1.3rem; }
+
+    .category-label { font-size: 0.8rem; padding: 5px 10px; }
+    footer { font-size: 0.8rem; }
 }

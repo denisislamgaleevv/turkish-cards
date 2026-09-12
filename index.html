@@ -12,24 +12,34 @@
     <div class="container">
         <header>
             <h1>Турецкие слова - Блоки</h1>
-            <div id="block-info" class="block-info">
-                <span id="online-status">🟢 Онлайн</span> • Выберите блок для изучения
+
+            <div class="info-panel">
+                <div class="info-status">
+                    <span id="online-status">Онлайн</span>
+                    <span class="info-sep">•</span>
+                    <span id="block-info-text">Выберите блок для изучения</span>
+                </div>
+                <div class="info-actions">
+                    <button id="mode-toggle" class="info-btn" onclick="flashCards.toggleMode()">
+                        Режим: RU → TR
+                    </button>
+                    <button class="info-btn info-btn-danger" onclick="flashCards.clearAllCache()">
+                        Очистить кэш
+                    </button>
+                </div>
             </div>
         </header>
-        
+
         <main id="main-content">
-            <!-- Блоки будут отображаться здесь -->
             <div id="blocks-container" class="blocks-container">
                 <div class="loading">Загрузка блоков...</div>
             </div>
-            
-            <!-- Контейнер для карточек (скрыт изначально) -->
+
             <div id="cards-view" class="cards-view" style="display: none;">
-                <!-- Кнопка возврата к блокам -->
                 <div class="block-back-container">
                     <button id="block-btn" class="btn btn-block">← К выбору блока</button>
                 </div>
-                
+
                 <div class="card-container">
                     <div id="card" class="card">
                         <div id="card-inner" class="card-inner">
@@ -42,31 +52,21 @@
                         </div>
                     </div>
                 </div>
-                
+
                 <div class="controls">
                     <button id="prev-btn" class="btn btn-prev">← Назад</button>
                     <button id="next-btn" class="btn btn-next">Вперед →</button>
                 </div>
             </div>
         </main>
-        
+
         <footer>
             <p>Нажмите на карточку чтобы перевернуть</p>
             <p>Используйте ← → для навигации, B для возврата к блокам</p>
-            <p>Добавлена возможность очистки кэша</p>
-            <p>Version 5.0 Никакие права не защищены, Den, Feel Good Inc, 2025</p>
+            <p>Version 6.0 Никакие права не защищены, Den, Feel Good Inc, 2025</p>
         </footer>
-    
-        <button id="mode-toggle" onclick="flashCards.toggleMode()" style="position: fixed; bottom: 60px; right: 10px; background: #667eea; color: white; padding: 10px; border: none; border-radius: 5px; z-index: 9999; cursor: pointer;">
-            🔄 Режим: RU → TR
-        </button>
-        <button onclick="flashCards.clearAllCache()" style="position: fixed; bottom: 10px; right: 10px; background: red; color: white; padding: 10px; border: none; border-radius: 5px; z-index: 9999; cursor: pointer;">
-            Очистить кэш
-        </button>
     </div>
-     
-    
-    <!-- ВАЖНО: СНАЧАЛА words.js, ПОТОМ script.js -->
+
     <script src="words.js"></script>
     <script src="script.js"></script>
 </body>

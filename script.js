@@ -9,7 +9,7 @@ class FlashCards {
         this.wordsPerBlock = 200;
         this.motivationalInterval = 150;
         this.mode = 'ru-tr'; // 'ru-tr' или 'tr-ru'
-        
+
         this.init();
     }
 
@@ -23,7 +23,7 @@ class FlashCards {
 
     async loadWords() {
         console.log('Онлайн режим:', navigator.onLine);
-        
+
         if (typeof WORDS_DATA !== 'undefined') {
             console.log('✅ Загружаем слова из WORDS_DATA');
             this.allCards = WORDS_DATA.map(word => ({
@@ -36,7 +36,7 @@ class FlashCards {
             console.log(`📚 Загружено слов: ${this.allCards.length}`);
             return;
         }
-        
+
         console.error('❌ WORDS_DATA не найдена!');
         alert('Ошибка: не найден файл words.js');
     }
@@ -45,38 +45,33 @@ class FlashCards {
         const lines = text.split('\n');
         let currentCategory = 'Основные слова';
         const uniqueWords = new Set();
-        
+
         for (const line of lines) {
             const trimmedLine = line.trim();
-            
             if (!trimmedLine) continue;
-            
+
             if (!trimmedLine.includes('–') && !trimmedLine.includes('-')) {
                 if (trimmedLine.length > 2 && /^[А-Яа-яЁёA-Za-z\s]+$/.test(trimmedLine)) {
                     currentCategory = trimmedLine;
                 }
                 continue;
             }
-            
+
             const separator = trimmedLine.includes('–') ? '–' : '-';
             const parts = trimmedLine.split(separator).map(part => part.trim());
-            
+
             if (parts.length >= 2) {
                 const russian = parts[0].trim();
                 const turkish = parts.slice(1).join(',').trim();
-                
+
                 const lowercaseRussian = russian.toLowerCase();
-                if (uniqueWords.has(lowercaseRussian)) {
-                    console.log(`Пропускаем дубликат: ${russian}`);
-                    continue;
-                }
-                
-                if (russian && turkish && russian.length > 0 && turkish.length > 0) {
+                if (uniqueWords.has(lowercaseRussian)) continue;
+
+                if (russian && turkish) {
                     uniqueWords.add(lowercaseRussian);
-                    
                     this.allCards.push({
-                        russian: russian,
-                        turkish: turkish,
+                        russian,
+                        turkish,
                         category: currentCategory,
                         type: 'word',
                         id: `${currentCategory}-${russian}`
@@ -84,18 +79,16 @@ class FlashCards {
                 }
             }
         }
-        
+
         console.log(`Загружено уникальных слов: ${this.allCards.length}`);
     }
 
     createBlocks() {
         this.blocks = [];
-        
         const cardsCopy = [...this.allCards].reverse();
-        
+
         for (let i = 0; i < cardsCopy.length; i += this.wordsPerBlock) {
             const blockCards = cardsCopy.slice(i, i + this.wordsPerBlock);
-            
             this.blocks.push({
                 index: Math.floor(i / this.wordsPerBlock),
                 cards: blockCards,
@@ -103,15 +96,14 @@ class FlashCards {
                 size: blockCards.length
             });
         }
-        
+
         console.log(`Создано блоков: ${this.blocks.length}`);
     }
 
     toggleMode() {
         this.mode = this.mode === 'ru-tr' ? 'tr-ru' : 'ru-tr';
         this.updateModeButton();
-        
-        // Если открыта карточка — перерисовываем
+
         if (this.currentBlock) {
             this.renderCard();
         }
@@ -120,8 +112,15 @@ class FlashCards {
     updateModeButton() {
         const btn = document.getElementById('mode-toggle');
         if (btn) {
-            btn.textContent = this.mode === 'ru-tr' ? '🔄 Режим: RU → TR' : '🔄 Режим: TR → RU';
+            btn.textContent = this.mode === 'ru-tr'
+                ? 'Режим: RU → TR'
+                : 'Режим: TR → RU';
         }
+    }
+
+    setBlockInfoText(text) {
+        const el = document.getElementById('block-info-text');
+        if (el) el.textContent = text;
     }
 
     shuffleArray(array) {
@@ -135,32 +134,33 @@ class FlashCards {
     showBlocksView() {
         document.getElementById('blocks-container').style.display = 'grid';
         document.getElementById('cards-view').style.display = 'none';
-        document.getElementById('block-info').textContent = `Выберите блок для изучения`;
+        this.setBlockInfoText('Выберите блок для изучения');
         document.querySelector('h1').textContent = 'Турецкие слова - Блоки';
-        
+
         this.renderBlocks();
     }
 
     showCardsView(blockIndex) {
         document.getElementById('blocks-container').style.display = 'none';
         document.getElementById('cards-view').style.display = 'block';
-        
+
         this.currentBlockIndex = blockIndex;
         this.currentBlock = this.blocks[blockIndex];
         this.currentCardIndex = 0;
-        
-        document.getElementById('block-info').textContent = 
-            `${this.currentBlock.name} • ${this.currentCardIndex + 1}/${this.currentBlock.size}`;
-        
+
+        this.setBlockInfoText(
+            `${this.currentBlock.name} • ${this.currentCardIndex + 1}/${this.currentBlock.size}`
+        );
+
         document.querySelector('h1').textContent = 'Турецкие слова - Карточки';
-        
+
         this.renderCard();
     }
 
     renderBlocks() {
         const container = document.getElementById('blocks-container');
         container.innerHTML = '';
-        
+
         this.blocks.forEach((block, index) => {
             const blockElement = document.createElement('div');
             blockElement.className = 'block';
@@ -173,11 +173,11 @@ class FlashCards {
                     </button>
                 </div>
             `;
-            
+
             blockElement.querySelector('.btn-start').addEventListener('click', () => {
                 this.showCardsView(index);
             });
-            
+
             container.appendChild(blockElement);
         });
     }
@@ -190,7 +190,7 @@ class FlashCards {
         const card = this.currentBlock.cards[this.currentCardIndex];
         const cardElement = document.getElementById('card');
         const cardInner = document.getElementById('card-inner');
-        
+
         if (this.isMotivationalCard(this.currentCardIndex)) {
             cardInner.innerHTML = `
                 <div class="card-face card-front">
@@ -211,29 +211,27 @@ class FlashCards {
                 </div>
             `;
         } else {
-            const russianWords = card.russian.split(',').map(word => word.trim());
-            const turkishWords = card.turkish.split(',').map(word => word.trim());
-            
+            const russianWords = card.russian.split(',').map(w => w.trim()).filter(Boolean);
+            const turkishWords = card.turkish.split(',').map(w => w.trim()).filter(Boolean);
+
             let frontHTML, backHTML;
-            
+
             if (this.mode === 'ru-tr') {
-                // Лицо — русский, оборот — турецкий
                 frontHTML = `<div class="word">${russianWords[0]}</div>`;
                 backHTML = `
                     <div class="turkish-translation">
-                        ${turkishWords.map(word => `<div class="turkish-word">${word}</div>`).join('')}
+                        ${turkishWords.map(w => `<div class="turkish-word">${w}</div>`).join('')}
                     </div>
                 `;
             } else {
-                // Лицо — турецкий, оборот — русский
                 frontHTML = `<div class="word">${turkishWords[0]}</div>`;
                 backHTML = `
                     <div class="russian-translation">
-                        ${russianWords.map(word => `<div class="russian-word">${word}</div>`).join('')}
+                        ${russianWords.map(w => `<div class="russian-word">${w}</div>`).join('')}
                     </div>
                 `;
             }
-            
+
             cardInner.innerHTML = `
                 <div class="card-face card-front">
                     ${frontHTML}
@@ -243,10 +241,11 @@ class FlashCards {
                 </div>
             `;
         }
-        
-        document.getElementById('block-info').textContent = 
-            `${this.currentBlock.name} • ${this.currentCardIndex + 1}/${this.currentBlock.size}`;
-        
+
+        this.setBlockInfoText(
+            `${this.currentBlock.name} • ${this.currentCardIndex + 1}/${this.currentBlock.size}`
+        );
+
         this.isFlipped = false;
         cardElement.classList.remove('flipped');
     }
@@ -272,7 +271,7 @@ class FlashCards {
         });
 
         document.addEventListener('keydown', (e) => {
-            switch(e.key) {
+            switch (e.key) {
                 case 'ArrowLeft':
                     this.prevCard();
                     break;
@@ -306,13 +305,13 @@ class FlashCards {
             );
             console.log('✅ Весь кэш очищен');
         }
-        
+
         localStorage.clear();
         console.log('✅ localStorage очищен');
-        
+
         sessionStorage.clear();
         console.log('✅ sessionStorage очищен');
-        
+
         window.location.reload(true);
     }
 
@@ -364,17 +363,17 @@ if ('serviceWorker' in navigator) {
 window.addEventListener('load', () => {
     const statusElement = document.getElementById('online-status');
     if (!statusElement) return;
-    
+
     function updateOnlineStatus() {
         if (navigator.onLine) {
-            statusElement.textContent = '🟢 Онлайн';
-            statusElement.style.color = 'green';
+            statusElement.textContent = 'Онлайн';
+            statusElement.style.color = 'rgba(255, 255, 255, 0.85)';
         } else {
-            statusElement.textContent = '📴 Офлайн (работает из кэша)';
+            statusElement.textContent = 'Офлайн';
             statusElement.style.color = 'orange';
         }
     }
-    
+
     window.addEventListener('online', updateOnlineStatus);
     window.addEventListener('offline', updateOnlineStatus);
     updateOnlineStatus();
