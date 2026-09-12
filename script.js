@@ -1,5 +1,3 @@
-
-
 class FlashCards {
     constructor() {
         this.allCards = [];
@@ -8,7 +6,6 @@ class FlashCards {
         this.currentBlockIndex = -1;
         this.currentCardIndex = 0;
         this.isFlipped = false;
-        this.synth = window.speechSynthesis;
         this.wordsPerBlock = 200;
         this.motivationalInterval = 150;
         
@@ -197,20 +194,16 @@ class FlashCards {
                 </div>
             `;
         } else {
-            const turkishWords = card.turkish.split(',').map(word => word.trim());
+            const russianWords = card.russian.split(',').map(word => word.trim());
+            const turkishFirst = card.turkish.split(',')[0].trim();
             
             cardInner.innerHTML = `
                 <div class="card-face card-front">
-                    <div class="word">${card.russian}</div>
+                    <div class="word">${turkishFirst}</div>
                 </div>
                 <div class="card-face card-back">
-                    <div class="word-container">
-                        <div class="turkish-translation">
-                            ${turkishWords.map(word => `<div class="turkish-word">${word}</div>`).join('')}
-                        </div>
-                        <div class="sound-icon" onclick="event.stopPropagation(); flashCards.speakText('${turkishWords[0].replace(/'/g, "\\'")}')">
-                            🔊
-                        </div>
+                    <div class="russian-translation">
+                        ${russianWords.map(word => `<div class="russian-word">${word}</div>`).join('')}
                     </div>
                 </div>
             `;
@@ -227,35 +220,14 @@ class FlashCards {
         return (index + 1) % this.motivationalInterval === 0;
     }
 
-    speakText(text) {
-        if (this.synth.speaking) {
-            this.synth.cancel();
-        }
-
-        const utterance = new SpeechSynthesisUtterance(text);
-        utterance.lang = 'tr-TR';
-        utterance.rate = 0.9;
-        
-        const soundIcon = document.querySelector('.sound-icon');
-        if (soundIcon) {
-            soundIcon.classList.add('speaking');
-            utterance.onend = () => soundIcon.classList.remove('speaking');
-            utterance.onerror = () => soundIcon.classList.remove('speaking');
-        }
-
-        this.synth.speak(utterance);
-    }
-
     setupEventListeners() {
         const cardElement = document.getElementById('card');
         const prevBtn = document.getElementById('prev-btn');
         const nextBtn = document.getElementById('next-btn');
         const blockBtn = document.getElementById('block-btn');
 
-        cardElement.addEventListener('click', (e) => {
-            if (!e.target.closest('.sound-icon')) {
-                this.flipCard();
-            }
+        cardElement.addEventListener('click', () => {
+            this.flipCard();
         });
 
         prevBtn.addEventListener('click', () => this.prevCard());
@@ -276,17 +248,6 @@ class FlashCards {
                 case 'Enter':
                     e.preventDefault();
                     this.flipCard();
-                    break;
-                case 's':
-                case 'S':
-                case 'ы':
-                case 'Ы':
-                    e.preventDefault();
-                    if (this.isFlipped && !this.isMotivationalCard(this.currentCardIndex)) {
-                        const currentWord = this.currentBlock.cards[this.currentCardIndex].turkish;
-                        const firstTranslation = currentWord.split(',')[0].trim();
-                        this.speakText(firstTranslation);
-                    }
                     break;
                 case 'b':
                 case 'B':
@@ -324,17 +285,12 @@ class FlashCards {
         const cardElement = document.getElementById('card');
         this.isFlipped = !this.isFlipped;
         cardElement.classList.toggle('flipped');
-        
-        if (this.isFlipped) {
-            this.synth.cancel();
-        }
     }
 
     nextCard() {
         if (this.currentCardIndex < this.currentBlock.cards.length - 1) {
             this.currentCardIndex++;
             this.renderCard();
-            this.synth.cancel();
         } else {
             this.showBlocksView();
         }
@@ -344,7 +300,6 @@ class FlashCards {
         if (this.currentCardIndex > 0) {
             this.currentCardIndex--;
             this.renderCard();
-            this.synth.cancel();
         }
     }
 }
